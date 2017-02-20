@@ -1,0 +1,2551 @@
+
+
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 0
+Ref:  TTCGTACCCTGTGGCATAATCTGATACACATTGTTCTCCTATCAGCCTTATAAAAATATTTTCTTAGAGCCGTCTCCACAGGTTAACTGACTAAGGTACG
+Diff:                                                                                                     
+Cons: TTCGTACCCTGTGGCATAATCTGATACACATTGTTCTCCTATCAGCCTTATAAAAATATTTTCTTAGAGCCGTCTCCACAGGTTAACTGACTAAGGTACG
+Read:      ACCCTGTGGCATAATCTGATACACATTGTTCTCCTATCAGCCTTATAAAA.............................................
+Read:                                TGTTCTCCTATCAGCCTTATAAAAATATTTTCTTAGAGCCGTCTCCACAG...................
+Read:                                 GTTCTCCTATCAGCCTTATAAAAATATTTTCTTAGAGCCGTCTCCACAGG..................
+Read:                                                      AAATATTTTCTTAGAGCCGTCTCCACAGGTTAACTGACTAAGGTACG
+Read:                                                           TTTTCTTAGAGCCGTCTCCACAGGTTAACTGACTAAGGTACG
+Read:                                                                     GCCGTCTCCACAGGTTAACTGACTAAGGTACG
+Read:                                                                         TCTCCACAGGTTAACTGACTAAGGTACG
+Read:                                                                           TCCACAGGTTAACTGACTAAGGTACG
+Read:                                                                                      ACTGACTAAGGTACG
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 100
+Ref:  GGTAAATACTACAAGTGAACATATAACGAGGGGTCAAATAGTAAAGAGAATTTCTAGGCACATGACGTGCACGCCACACCTTACTTACTCCGACGCAATC
+Diff:                                                                                                     
+Cons: GGTAAATACTACAAGTGAACATATAACGAGGGGTCAAATAGTAAAGAGAATTTCTAGGCACATGACGTGCACGCCACACCTTACTTACTCCGACGCAATC
+Read: ...............................................................GACGTGCACGCCACACCTTACTTACTCCGACGCAATC
+Read: ....................................................................................TTACTCCGACGCAATC
+Read: ...............................................................................CTTACTTACTCCGACGCAATC
+Read: GGT.................................................................................................
+Read: GGTAAATA............................................................................................
+Read: GGTAAATACTACAAGTGA..................................................................................
+Read: GGTAAATACTACAAGTGAACAT..............................................................................
+Read: GGTAAATACTACAAGTGAACATAT............................................................................
+Read: GGTAAATACTACAAGTGAACATATAACGAGGGGTC.................................................................
+Read:      ATACTACAAGTGAACATATAACGAGGGGTCAAATAGTAAAGAGAATTTCT.............................................
+Read:                                                                    TGCACGCCACACCTTACTTACTCCGACGCAATC
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 200
+Ref:  ACCTTAGGCCCACACGTATTACAGCCACTGCATCTCGGTCTGCGCGAGGGGTGTACCGAGATACGGCAGTCGTCTTCGGGTGAGCTCACCTTTCCGGGAT
+Diff:                                                                                                     
+Cons: ACCTTAGGCCCACACGTATTACAGCCACTGCATCTCGGTCTGCGCGAGGGGTGTACCGAGATACGGCAGTCGTCTTCGGGTGAGCTCACCTTTCCGGGAT
+Read: ACCTTAGGCCCAC
+Read: ACCTTAGGCCCACACGTATTACAGCCACTGCATC
+Read: ACCTTAGGCCCACACGTATTACAGCCACT
+Read: ..CTTAGGCCCACACGTATTACAGCCACTGCATCTCGGTCTGCGCGAGGGGT
+Read: ........CCCACACGTATTACAGCCACTGCATCTCGGTCTGCGCGAGGGGTGTACCG
+Read: ...........ACACGTATTACAGCCACTGCATCTCGGTCTGCGCGAGGGGTGTACCGAGA
+Read: ....................ACAGCCACTGCATCTCGGTCTGCGCGAGGGGTGTACCGAGATACGGCAGT
+Read: .................ATTACAGCCACTGCATCTCGGTCTGCGCGAGGGGTGTACCGAGATACGGC
+Read: ..............................CATCTCGGTCTGCGCGAGGGGTGTACCGAGATACGGCAGTCGTCTTCGGG
+Read: ....................................................GTACCGAGATACGGCAGTCGTCTTCGGGTGAGCTCACCTTTCCGGGAT
+Read: ACCTTAGGCCCACACGT...................................................................................
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 300
+Ref:  CAACTTCACTTATGGTTCTGACCCGCCCTGATTATCAGTATAGACATTGGCTGGTTTAAGTGGGTGCAAAAAGGGTGACAAGCTACATGCCGGCGGCCGG
+Diff:                                                                                                     
+Cons: CAACTTCACTTATGGTTCTGACCCGCCCTGATTATCAGTATAGACATTGGCTGGTTTAAGTGGGTGCAAAAAGGGTGACAAGCTACATGCCGGCGGCCGG
+Read:
+Read:
+Read:
+Read:
+Read:
+Read:
+Read:
+Read:
+Read:
+Read: CA
+Read: .....................CCCGCCCTGATTATCAGTATAGACATTGGCTGGTTTAAGTGGGTGCAAAA
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 400
+Ref:  TTAATACCATAGTACAAAAGGGCCAATTACATGGTCTTAGGCTGGGACGTCTCAGCTTGCCTATCCGAGGTTTGTTGAGAATCACATAGCACTTCCAGCA
+Diff:                                                                                                     
+Cons: TTAATACCATAGTACAAAAGGGCCAATTACATGGTCTTAGGCTGGGACGTCTCAGCTTGCCTATCCGAGGTTTGTTGAGAATCACATAGCACTTCCAGCA
+Read:                AAAAGGGCCAATTACATGGTCTTAGGCTGGGACGTCTCAGCTTGCCTATC...................................
+Read:                      GCCAATTACATGGTCTTAGGCTGGGACGTCTCAGCTTGCCTATCCGAGGT.............................
+Read:                                                                                               CCAGCA
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 500
+Ref:  AACCCACGACGCAGGCGCGAAGGCGGCTCTCACTCGTCCGGGGCCATTGCCTGTTGGCCTTCGTAACTGTGCTTGACTATAATAGAACGACCAACACTAG
+Diff:                                                                                                     
+Cons: AACCCACGACGCAGGCGCGAAGGCGGCTCTCACTCGTCCGGGGCCATTGCCTGTTGGCCTTCGTAACTGTGCTTGACTATAATAGAACGACCAACACTAG
+Read: ................................................................AACTGTGCTTGACTATAATAGAACGACCAACACTAG
+Read: ...................................................................TGTGCTTGACTATAATAGAACGACCAACACTAG
+Read: AACCCACGACGCAGGCGCGAAGGCGGCTCTCACTCGTCCGGGGC........................................................
+Read:                                   CGTCCGGGGCCATTGCCTGTTGGCCTTCGTAACTGTGCTTGACTATAATA................
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 600
+Ref:  CGTTATGGGTCCGTTATTACCTGGTGGTTTAGCTCCGGATACGATAATCCATACAGAATTTCGTCTCGTATTGCTTTGCGATTCGACGGGTCCAGTCCTT
+Diff:                                                                                                     
+Cons: CGTTATGGGTCCGTTATTACCTGGTGGTTTAGCTCCGGATACGATAATCCATACAGAATTTCGTCTCGTATTGCTTTGCGATTCGACGGGTCCAGTCCTT
+Read: CGTTATGGGTCCGT
+Read: CGTTATGGGTCCGTTAT
+Read: ...................................................TACAGAATTTCGTCTCGTATTGCTTTGCGATTCGACGGGTCCAGTCCTT
+Read: .................................................................................TTCGACGGGTCCAGTCCTT
+Read:                                                           TTTCGTCTCGTATTGCTTTGCGATTCGACGGGTCCAGTCCTT
+Read:                                                                           TTTGCGATTCGACGGGTCCAGTCCTT
+Read:                                                                                     GACGGGTCCAGTCCTT
+Read:                                                                                      ACGGGTCCAGTCCTT
+Read:                                                                                         GGTCCAGTCCTT
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 700
+Ref:  ATCGTGACCTCAGGTCCTCACCCCCATGGTTTGGCTCGGCCACGCTCTCAAGAGATACGCCCGCGAACGACCCAGTGATTACCGCCAAAATTTCGCGCAG
+Diff:                                                                                                     
+Cons: ATCGTGACCTCAGGTCCTCACCCCCATGGTTTGGCTCGGCCACGCTCTCAAGAGATACGCCCGCGAACGACCCAGTGATTACCGCCAAAATTTCGCGCAG
+Read:
+Read:
+Read: A
+Read: ATCGTGACCTCAGGTCCTCACCCCCATGGTT
+Read: ATCGTGAC............................................................................................
+Read: ATCGTGACCTCAGGTCCTCACCCC............................................................................
+Read: ATCGTGACCTCAGGTCCTCACCCCCATGGTTTGG..................................................................
+Read: ATCGTGACCTCAGGTCCTCACCCCCATGGTTTGGC.................................................................
+Read: ATCGTGACCTCAGGTCCTCACCCCCATGGTTTGGCTCG..............................................................
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 800
+Ref:  GCATATTGTTTCGCTTTAGTCCAGGATTCCACCTGTAGGTGTTACAGCATAAAACGAAATGTATGAATATTGCTCGCTTGTGGGTCCGTATAACACTCTA
+Diff:                                                                                                     
+Cons: GCATATTGTTTCGCTTTAGTCCAGGATTCCACCTGTAGGTGTTACAGCATAAAACGAAATGTATGAATATTGCTCGCTTGTGGGTCCGTATAACACTCTA
+Read:     ATTGTTTCGCTTTAGTCCAGGATTCCACCTGTAGGTGTTACAGCATAAAA..............................................
+Read:                TTAGTCCAGGATTCCACCTGTAGGTGTTACAGCATAAAACGAAATGTATG...................................
+Read:                           TTCCACCTGTAGGTGTTACAGCATAAAACGAAATGTATGAATATTGCTCG........................
+Read:                                                CATAAAACGAAATGTATGAATATTGCTCGCTTGTGGGTCCGTATAACACT...
+Read: .............CTTTAGTCCAGGATTCCACCTGTAGGTGTTACAGCATAAAACGAAATGTA
+Read: ...............TTAGTCCAGGATTCCACCTGTAGGTGTTACAGCATAAAACGAAATGTATG
+Read: ............................CCACCTGTAGGTGTTACAGCATAAAACGAAATGTATGAATATTGCTCGCT
+Read: ...................................TAGGTGTTACAGCATAAAACGAAATGTATGAATATTGCTCGCTTGTGGGT
+Read: ...........................................ACAGCATAAAACGAAATGTATGAATATTGCTCGCTTGTGGGTCCGTATAA
+Read:                                                          AATGTATGAATATTGCTCGCTTGTGGGTCCGTATAACACTCTA
+Read:                                                           ATGTATGAATATTGCTCGCTTGTGGGTCCGTATAACACTCTA
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 900
+Ref:  AATTGCCCAGATGATGGCAGTTATGAATCTCTTGAAAACCAGCGCCTGAATAGTACGAAGTGATAAGGACAAGCGTTCACCGAATCCCCCGAGCATCGAT
+Diff:                                                                                                     
+Cons: AATTGCCCAGATGATGGCAGTTATGAATCTCTTGAAAACCAGCGCCTGAATAGTACGAAGTGATAAGGACAAGCGTTCACCGAATCCCCCGAGCATCGAT
+Read: .......................................................CGAAGTGATAAGGACAAGCGTTCACCGAATCCCCCGAGCATCGAT
+Read: .........................................................................CGTTCACCGAATCCCCCGAGCATCGAT
+Read: ....................................................................ACAAGCGTTCACCGAATCCCCCGAGCATCGAT
+Read: ....................................................................................................
+Read:                                                     GTACGAAGTGATAAGGACAAGCGTTCACCGAATCCCCCGAGCATCGAT
+Read:                                                       ACGAAGTGATAAGGACAAGCGTTCACCGAATCCCCCGAGCATCGAT
+Read:                                                          AAGTGATAAGGACAAGCGTTCACCGAATCCCCCGAGCATCGAT
+Read:                                                          AAGTGATAAGGACAAGCGTTCACCGAATCCCCCGAGCATCGAT
+Read:                                                                TAAGGACAAGCGTTCACCGAATCCCCCGAGCATCGAT
+Read: AATTGCC.............................................................................................
+Read: AATTGCCC............................................................................................
+Read:                                                                         GCGTTCACCGAATCCCCCGAGCATCGAT
+Read:                                                                                    ATCCCCCGAGCATCGAT
+Read:                                                                                               ATCGAT
+Read:                                                                                                TCGAT
+Read:                                                                                                 CGAT
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 1000
+Ref:  TTTTCTGGCGGGTTTAGCTGGAGTAGAGAGGACGACGCCGCGTTATTATAAAGATGTGGCAGGCTATGCCGGTCGTCGTCCCGCTGCGTATATTGAGGAG
+Diff:                                                                                                     
+Cons: TTTTCTGGCGGGTTTAGCTGGAGTAGAGAGGACGACGCCGCGTTATTATAAAGATGTGGCAGGCTATGCCGGTCGTCGTCCCGCTGCGTATATTGAGGAG
+Read: TTTTC
+Read: TTTTCTGGCGGGTTTAGCTGGAG
+Read: TTTTCTGGCGGGTTTAGC
+Read: TTTTCTGGCGGGTTTAGCTGGAGTAGAGAGGACGACGCCGCGTTATTATA
+Read: TT.................................................................................................G
+Read: TTTT................................................................................................
+Read: TTTTCTG.............................................................................................
+Read: TTTTCTG.............................................................................................
+Read: TTTTCTGGCGGGT.......................................................................................
+Read: ...TCTGGCGGGTTTAGCTGGAGTAGAGAGGACGACGCCGCGTTATTATAAAG
+Read: .......GCGGGTTTAGCTGGAGTAGAGAGGACGACGCCGCGTTATTATAAAGATGT
+Read: TTTTCTGGCGGGTTTAGCTGGA..............................................................................
+Read: TTTTCTGGCGGGTTTAGCTGGAGTAGAGAGGAC...................................................................
+Read: TTTTCTGGCGGGTTTAGCTGGAGTAGAGAGGACGACGCCGCGTT........................................................
+Read: TTTTCTGGCGGGTTTAGCTGGAGTAGAGAGGACGACGCCGCGTTA.......................................................
+Read: TTTTCTGGCGGGTTTAGCTGGAGTAGAGAGGACGACGCCGCGTTAT......................................................
+Read:                                                                        GTCGTCGTCCCGCTGCGTATATTGAGGAG
+Read:                                                                          CGTCGTCCCGCTGCGTATATTGAGGAG
+Read:                                                                                             TTGAGGAG
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 1100
+Ref:  CTAAACCGGCCAAGAGTTACCAGCTCATCGACGCTGCTTGAGGAATAGACGCGTAGATATGTATAGGGAACCAGGGACCCGTCCTCGATTCATAAACCTC
+Diff:                                                                                                     
+Cons: CTAAACCGGCCAAGAGTTACCAGCTCATCGACGCTGCTTGAGGAATAGACGCGTAGATATGTATAGGGAACCAGGGACCCGTCCTCGATTCATAAACCTC
+Read: CTAAACCGGCCAAGAGTTACCAGCTCATCGACGCTGCTTGAGGAATAGAC..................................................
+Read:                        CTCATCGACGCTGCTTGAGGAATAGACGCGTAGATATGTATAGGGAACCA...........................
+Read:                                       TGAGGAATAGACGCGTAGATATGTATAGGGAACCAGGGACCCGTCCTCGA............
+Read:                                                     GTAGATATGTATAGGGAACCAGGGACCCGTCCTCGATTCATAAACCTC
+Read: CTAAACCGGCCAAGAGTTACCAGCTCATCGACGCTGCTTGAGGAATAGA
+Read: ........GCCAAGAGTTACCAGCTCATCGACGCTGCTTGAGGAATAGACGCGTAGAT
+Read: ..AAACCGGCCAAGAGTTACCAGCTCATCGACGCTGCTTGAGGAATAGACGC
+Read: ........GCCAAGAGTTACCAGCTCATCGACGCTGCTTGAGGAATAGACGCGTAGAT
+Read: ..................ACCAGCTCATCGACGCTGCTTGAGGAATAGACGCGTAGATATGTATAGGG
+Read:
+Read:
+Read: .........................CATCGACGCTGCTTGAGGAATAGACGCGTAGATATGTATAGGGAACCAGG
+Read: .................................CTGCTTGAGGAATAGACGCGTAGATATGTATAGGGAACCAGGGACCCGTC
+Read: ...............................................GACGCGTAGATATGTATAGGGAACCAGGGACCCGTCCTCGATTCATAAAC
+Read: ........................................AGGAATAGACGCGTAGATATGTATAGGGAACCAGGGACCCGTCCTCGATT
+Read: .....................................TTGAGGAATAGACGCGTAGATATGTATAGGGAACCAGGGACCCGTCCTCG
+Read: CTAAACCGGCCAAGAGTTACC...............................................................................
+Read: CTAAACCGGCCAAGAGTTACCAG.............................................................................
+Read: CTAAACCGGCCAAGAGTTACCAGCTCATCGACGCTGCTTGAG..........................................................
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 1200
+Ref:  CAACAGGATTTATACTCACGCTATCGAGCACCCTTACACCGGGGGTCTGACGCCATCTGACTCCCTACTACGACAACATCCGGGGATCGAACTCTGGGAT
+Diff:                                                                                                     
+Cons: CAACAGGATTTATACTCACGCTATCGAGCACCCTTACACCGGGGGTCTGACGCCATCTGACTCCCTACTACGACAACATCCGGGGATCGAACTCTGGGAT
+Read: ............................................GTCTGACGCCATCTGACTCCCTACTACGACAACATCCGGGGATCGAACTC
+Read: ......................................................................CGACAACATCCGGGGATCGAACTCTGGGAT
+Read: ..........................................................................................ACTCTGGGAT
+Read: CA.............................................................................................GGGAT
+Read:                       ATCGAGCACCCTTACACCGGGGGTCTGACGCCATCTGACTCCCTACTACG............................
+Read:
+Read:
+Read:
+Read:
+Read:
+Read:
+Read:
+Read:
+Read:
+Read:
+Read:
+Read: .......................TCGAGCACCCTTACACCGGGGGTCTGACGCCATCTGACTCCCTACTACGA
+Read: ....................CTATCGAGCACCCTTACACCGGGGGTCTGACGCCATCTGACTCCCTACTA
+Read: ........................................GGGGGTCTGACGCCATCTGACTCCCTACTACGACAACATCCGGGGATCGA
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 1300
+Ref:  ACATGGGCATGTTTTTAAGAAAAGCCATAGACCAAAAGAACCGAGTACGATTATTCGTGTTATCCGCCCCGGTCCGGATACCCTAATATGTAACTCAGCG
+Diff:                                                                                                     
+Cons: ACATGGGCATGTTTTTAAGAAAAGCCATAGACCAAAAGAACCGAGTACGATTATTCGTGTTATCCGCCCCGGTCCGGATACCCTAATATGTAACTCAGCG
+Read:               TTAAGAAAAGCCATAGACCAAAAGAACCGAGTACGATTATTCGTGTTATC....................................
+Read: ACATGGGCATGTTTTTAAGA
+Read: ACATGGGCATGTTTTTAAGAAAAGCCATAGACCAAAAGAA
+Read: ACATGGGCATGTTTTTAAGAAAAGCCATAGACCAAAAGAACCGAG
+Read: ................................................................................CCCTAATATGTAACTCAGCG
+Read:                             AGACCAAAAGAACCGAGTACGATTATTCGTGTTATCCGCCCCGGTCCGGA......................
+Read:                                  AAAAGAACCGAGTACGATTATTCGTGTTATCCGCCCCGGTCCGGATACCC.................
+Read:                                              TACGATTATTCGTGTTATCCGCCCCGGTCCGGATACCCTAATATGTAACT.....
+Read:                                                     ATTCGTGTTATCCGCCCCGGTCCGGATACCCTAATATGTAACTCAGCG
+Read:                                                      TTCGTGTTATCCGCCCCGGTCCGGATACCCTAATATGTAACTCAGCG
+Read:                                                                                    TAATATGTAACTCAGCG
+Read:                                                                                          GTAACTCAGCG
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 1400
+Ref:  CGTAGTGCATTTCCTCACATAAATGGAAGGACCTAATAGACAAGCTGCGCCGTTGGCCTCCCAGGTTTGTCAATATTTCTATCGTCTGTTGATAAGCGCG
+Diff:                                                                                                     
+Cons: CGTAGTGCATTTCCTCACATAAATGGAAGGACCTAATAGACAAGCTGCGCCGTTGGCCTCCCAGGTTTGTCAATATTTCTATCGTCTGTTGATAAGCGCG
+Read: ....................................................................GTCAATATTTCTATCGTCTGTTGATAAGCGCG
+Read:
+Read:
+Read:
+Read: CGTAGTGCATTTCCTCACATAAATGGAAGG
+Read: ........................................................................ATATTTCTATCGTCTGTTGATAAGCGCG
+Read: .................................................................................TCGTCTGTTGATAAGCGCG
+Read: ......................................................................................TGTTGATAAGCGCG
+Read: CG................................................................................................CG
+Read: CGT.............................................................................................CGCG
+Read: CGTAGTGCATTTCCTCACATAAATGGAAGGACC...................................................................
+Read: CGTAGTGCATTTCCTCACATAAATGGAAGGACCTAATAG.............................................................
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 1500
+Ref:  GTCGAACAGAAGGTCTGTAACCTATCATGTTGAATACGCGCGCTTATATCTCGACGTCTGCCGAACCTGCATGTTCATCAGACTGTGAAACGCAACCCCG
+Diff:                                                                                                     
+Cons: GTCGAACAGAAGGTCTGTAACCTATCATGTTGAATACGCGCGCTTATATCTCGACGTCTGCCGAACCTGCATGTTCATCAGACTGTGAAACGCAACCCCG
+Read: GTCGAACAGAAGGTCTGT
+Read:                               TGAATACGCGCGCTTATATCTCGACGTCTGCCGAACCTGCATGTTCATCA....................
+Read:                                       CGCGCTTATATCTCGACGTCTGCCGAACCTGCATGTTCATCAGACTGTGA............
+Read:                                        GCGCTTATATCTCGACGTCTGCCGAACCTGCATGTTCATCAGACTGTGAA...........
+Read:
+Read: GTCGAACAGAAGGTCTGTAACC
+Read: GTCGAACAGAAGGTCTGTAACCTATCATGTT
+Read: GTCGAACAGAAGGTCTGTAACCTATCATGTTGAATA
+Read: GTCGAACAGAAGGTCTGTAACCTATCATGTTGAATACGCGCGCTTATA
+Read: GTCGAACAGAAGGTCTGTAACCTATCATGTTGAATACGCGCGCTTA
+Read: ...........................TGTTGAATACGCGCGCTTATATCTCGACGTCTGCCGAACCTGCATGTTCA
+Read: ..................................TACGCGCGCTTATATCTCGACGTCTGCCGAACCTGCATGTTCATCAGACT
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 1600
+Ref:  CATGCGGCTACCCTCCTACAAGTGTTCGGGACGACAGAAATCTATGGTATGTAGCCGCTTGCGAATTAAGCGCGACAGACGATATTGAGCGTCATGATGA
+Diff:                                                                                                     
+Cons: CATGCGGCTACCCTCCTACAAGTGTTCGGGACGACAGAAATCTATGGTATGTAGCCGCTTGCGAATTAAGCGCGACAGACGATATTGAGCGTCATGATGA
+Read:                                          CTATGGTATGTAGCCGCTTGCGAATTAAGCGCGACAGACGATATTGAGCG.........
+Read: .......................................................................................AGCGTCATGATGA
+Read: .........................................................................................CGTCATGATGA
+Read: .................................................................................ATATTGAGCGTCATGATGA
+Read:                                           TATGGTATGTAGCCGCTTGCGAATTAAGCGCGACAGACGATATTGAGCGT........
+Read:                                                          CTTGCGAATTAAGCGCGACAGACGATATTGAGCGTCATGATGA
+Read:                                                                           ACAGACGATATTGAGCGTCATGATGA
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 1700
+Ref:  ATGTTTCCAAACCGACGACTAAAACTCCTTGAACCTTACTCATGGCAAGACACATTTTACTATCAATTCTTAGATAATCGGCGAACGCGCAGTGTGCAAA
+Diff:                                                                                                     
+Cons: ATGTTTCCAAACCGACGACTAAAACTCCTTGAACCTTACTCATGGCAAGACACATTTTACTATCAATTCTTAGATAATCGGCGAACGCGCAGTGTGCAAA
+Read: .............................................................................................GTGCAAA
+Read: ATGTTTCCAAACCGACGACTAAAACTCCTTGAACCTT
+Read: ATGTTTCCAAACCGACGACTAAAACTCCTTGAACCTTAC
+Read: ATGTTTCCAAACCGACGACTAAAACTCCTTG
+Read: ......................................................................................GCGCAGTGTGCAAA
+Read: ATGTTTC.............................................................................................
+Read: ATGTTTCCAAACCGACGACTAAAA............................................................................
+Read:   GTTTCCAAACCGACGACTAAAACTCCTTGAACCTTACTCATGGCAAGACA................................................
+Read:                             TTGAACCTTACTCATGGCAAGACACATTTTACTATCAATTCTTAGATAAT......................
+Read:                                                                                    AACGCGCAGTGTGCAAA
+Read:                                                                                                   AA
+Read:                                                                                                    A
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 1800
+Ref:  TAGCTCGGGAGGGGTGGAAACCGTTGTCCTCCTAGACGACGTACTGTTCTAGAGTCCGATGCTAGTTACTTAGTGAGATCGGCAATGACGTGAATTAAGG
+Diff:                                                                                                     
+Cons: TAGCTCGGGAGGGGTGGAAACCGTTGTCCTCCTAGACGACGTACTGTTCTAGAGTCCGATGCTAGTTACTTAGTGAGATCGGCAATGACGTGAATTAAGG
+Read: TAGCTCGGGAGGGGTGGAAACCGTTGTCCTCCTAGACGACGTA
+Read:                                                                   TACTTAGTGAGATCGGCAATGACGTGAATTAAGG
+Read:                                                                               TCGGCAATGACGTGAATTAAGG
+Read:
+Read: TAGCTCGGGAGGGGTGGAAACCGTTGTCCTCCTAGA
+Read: .AGCTCGGGAGGGGTGGAAACCGTTGTCCTCCTAGACGACGTACTGTTCTA
+Read: ...........................CCTCCTAGACGACGTACTGTTCTAGAGTCCGATGCTAGTTACTTAGTGAG
+Read: .........................................................GATGCTAGTTACTTAGTGAGATCGGCAATGACGTGAATTAAGG
+Read: ...........................................................................AGATCGGCAATGACGTGAATTAAGG
+Read: TAGCTCGGGAGGGGTGGAAACCGTTGTCCTCCT...................................................................
+Read: TAGCTCGGGAGGGGTGGAAACCGTTGTCCTCCTAGACGACGTACTGTT....................................................
+Read: TAGCTCGGGAGGGGTGGAAACCGTTGTCCTCCTAGACGACGTACTGTTC...................................................
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 1900
+Ref:  AGATGCCGGCGGGCGCGCAACCCTTTCCTTGTCGCGATTGCTCTGTGAAACTTACTGATCAGATGTTTTCCGGCAAACCCCGCAGTTGATTCTCTACGCG
+Diff:                                                                                                     
+Cons: AGATGCCGGCGGGCGCGCAACCCTTTCCTTGTCGCGATTGCTCTGTGAAACTTACTGATCAGATGTTTTCCGGCAAACCCCGCAGTTGATTCTCTACGCG
+Read:                                   CGATTGCTCTGTGAAACTTACTGATCAGATGTTTTCCGGCAAACCCCGCA................
+Read: AGATGCCGGCGGGCGC....................................................................................
+Read: AGATGCCGGCGGGCGCGCAACCCTTTCC........................................................................
+Read:                                     ATTGCTCTGTGAAACTTACTGATCAGATGTTTTCCGGCAAACCCCGCAGT..............
+Read:                                      TTGCTCTGTGAAACTTACTGATCAGATGTTTTCCGGCAAACCCCGCAGTT.............
+Read:                                        GCTCTGTGAAACTTACTGATCAGATGTTTTCCGGCAAACCCCGCAGTTGA...........
+Read:                                         CTCTGTGAAACTTACTGATCAGATGTTTTCCGGCAAACCCCGCAGTTGAT..........
+Read: AGATGCC
+Read: AGATGCCGGCGGGCGCGCAACCCTT
+Read: .........................................TCTGTGAAACTTACTGATCAGATGTTTTCCGGCAAACCCCGCAGTTGATT
+Read: .........................................TCTGTGAAACTTACTGATCAGATGTTTTCCGGCAAACCCCGCAGTTGATT
+Read: .........................................TCTGTGAAACTTACTGATCAGATGTTTTCCGGCAAACCCCGCAGTTGATT
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 2000
+Ref:  ACCACGACTTGGACAAGATGATATGAATCTCTACGTCAATACGTCAGGCCAGTATATACTGGGGGCGATGCCGGAGCGATCAAGAGGCATTATAACATGA
+Diff:                                                                                                     
+Cons: ACCACGACTTGGACAAGATGATATGAATCTCTACGTCAATACGTCAGGCCAGTATATACTGGGGGCGATGCCGGAGCGATCAAGAGGCATTATAACATGA
+Read: .........................................................................................TTATAACATGA
+Read: ...............AGATGATATGAATCTCTACGTCAATACGTCAGGCCAGTATATACTGGGGG
+Read: ......................................ATACGTCAGGCCAGTATATACTGGGGGCGATGCCGGAGCGATCAAGAGGC
+Read: ..................................................................................AGAGGCATTATAACATGA
+Read: ...................................................................................GAGGCATTATAACATGA
+Read: ......................................................................................GCATTATAACATGA
+Read: .....................................................................................GGCATTATAACATGA
+Read:                 GATGATATGAATCTCTACGTCAATACGTCAGGCCAGTATATACTGGGGGC..................................
+Read:                               CTACGTCAATACGTCAGGCCAGTATATACTGGGGGCGATGCCGGAGCGAT....................
+Read:                                                             GGGGGCGATGCCGGAGCGATCAAGAGGCATTATAACATGA
+Read:                                                              GGGGCGATGCCGGAGCGATCAAGAGGCATTATAACATGA
+Read:                                                                               ATCAAGAGGCATTATAACATGA
+Read:                                                                                   AGAGGCATTATAACATGA
+Read:                                                                                      GGCATTATAACATGA
+Read:                                                                                         ATTATAACATGA
+Read:                                                                                              AACATGA
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 2100
+Ref:  ATAGAACCGCTGATCAATCCAAGAAATGTTGGACCGAACCAGTCTAGATTCATGTAAAGCATTGCCGTATCTTTTCTAGCCTGCATACAACACGATTTCA
+Diff:                                                                                                     
+Cons: ATAGAACCGCTGATCAATCCAAGAAATGTTGGACCGAACCAGTCTAGATTCATGTAAAGCATTGCCGTATCTTTTCTAGCCTGCATACAACACGATTTCA
+Read: ATAGAACCGCTGATCAATCCAAGAAATGTTGGACCGAAC
+Read:                                                   CATGTAAAGCATTGCCGTATCTTTTCTAGCCTGCATACAACACGATTTCA
+Read:                                                               TGCCGTATCTTTTCTAGCCTGCATACAACACGATTTCA
+Read: ATAGAACCGCTGATCAATCCAAGAAATGTTGG
+Read: ATAGAACCGCTGATCAATCCAAGAAATGTTGGA
+Read: ATAGAACCGCTGATCAATCCAAGAAATGTTGGACCG
+Read: ATAGAACCGCTGATCAATCCAAGAAATGTTGGACC
+Read: .......................................................................TTTTCTAGCCTGCATACAACACGATTTCA
+Read: .............................................................................AGCCTGCATACAACACGATTTCA
+Read: ATAGAACCGC..........................................................................................
+Read: ATAGAACCGCT.........................................................................................
+Read: ATAGAACCGCTGATCAATCCAAGAAATG........................................................................
+Read: ATAGAACCGCTGATCAATCCAAGAAATGTTGG....................................................................
+Read: ATAGAACCGCTGATCAATCCAAGAAATGTTGGACC.................................................................
+Read: ATAGAACCGCTGATCAATCCAAGAAATGTTGGACCGAA..............................................................
+Read: ATAGAACCGCTGATCAATCCAAGAAATGTTGGACCGAACCAGT.........................................................
+Read:                                                                GCCGTATCTTTTCTAGCCTGCATACAACACGATTTCA
+Read:                                                                       CTTTTCTAGCCTGCATACAACACGATTTCA
+Read:                                                                             TAGCCTGCATACAACACGATTTCA
+Read:                                                                                       ACAACACGATTTCA
+Read:                                                                                          ACACGATTTCA
+Read:                                                                                             CGATTTCA
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 2200
+Ref:  TGCGGTGTATCTTCCCTAAAAGTTAGGGGCGGGTCGACATTCAGGGTCCCCCAATGTACTAAAAACAGACCAGAAGTCTACGTGTTACTAACCAGCGTGC
+Diff:                                                                                                     
+Cons: TGCGGTGTATCTTCCCTAAAAGTTAGGGGCGGGTCGACATTCAGGGTCCCCCAATGTACTAAAAACAGACCAGAAGTCTACGTGTTACTAACCAGCGTGC
+Read:        TATCTTCCCTAAAAGTTAGGGGCGGGTCGACATTCAGGGTCCCCCAATGT...........................................
+Read: .............................................................................................AGCGTGC
+Read: TGCGGTGTATCT........................................................................................
+Read:                                                      ATGTACTAAAAACAGACCAGAAGTCTACGTGTTACTAACCAGCGTGC
+Read:                                                        GTACTAAAAACAGACCAGAAGTCTACGTGTTACTAACCAGCGTGC
+Read:                                                                                          AACCAGCGTGC
+Read:                                                                                            CCAGCGTGC
+Read: TGCGGTGTATCTTCCCTAAAA
+Read: TGCGGTGTATCTTCCCTAAAAGTTAGG
+Read: .....TGTATCTTCCCTAAAAGTTAGGGGCGGGTCGACATTCAGGGTCCCCCAAT
+Read: ....GTGTATCTTCCCTAAAAGTTAGGGGCGGGTCGACATTCAGGGTCCCCCAA
+Read: .............................CGGGTCGACATTCAGGGTCCCCCAATGTACTAAAAACAGACCAGAAGTCT
+Read: ...................................GACATTCAGGGTCCCCCAATGTACTAAAAACAGACCAGAAGTCTACGTGT
+Read: .........................GGGGCGGGTCGACATTCAGGGTCCCCCAATGTACTAAAAACAGACCAGAA
+Read: ................................................CCCCAATGTACTAAAAACAGACCAGAAGTCTACGTGTTACTAACCAGCGT
+Read: ................................................CCCCAATGTACTAAAAACAGACCAGAAGTCTACGTGTTACTAACCAGCGT
+Read: TGCGGTGTATCTT.......................................................................................
+Read: TGCGGTGTATCTTCCCTAAA................................................................................
+Read: TGCGGTGTATCTTCCCTAAAAGTTAG..........................................................................
+Read: TGCGGTGTATCTTCCCTAAAAGTTAGGGGCGGGTCG................................................................
+Read: TGCGGTGTATCTTCCCTAAAAGTTAGGGGCGGGTCGACA.............................................................
+Read: TGCGGTGTATCTTCCCTAAAAGTTAGGGGCGGGTCGACATTC..........................................................
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 2300
+Ref:  CCGTCCTATTACTGCATGAAATATCTACTCTCTAGAACATAGATGCATGCATTCGCGTGACCCTGTTCATGACCGTCCGTGACTCTGCGGTCGGCGGGCC
+Diff:                                                                                                     
+Cons: CCGTCCTATTACTGCATGAAATATCTACTCTCTAGAACATAGATGCATGCATTCGCGTGACCCTGTTCATGACCGTCCGTGACTCTGCGGTCGGCGGGCC
+Read: ............................................................CCCTGTTCATGACCGTCCGTGACTCTGCGGTCGGCGGGCC
+Read: CCGTCCTATTACTGCATGAAATATCTACTCTCTAGAACATAGA
+Read: ..........ACTGCATGAAATATCTACTCTCTAGAACATAGATGCATGCATTCGCGTGA
+Read: CCG...........................................................................................CGGGCC
+Read: CCGTC...............................................................................................
+Read: CCGTCCTATTACTGCATGAAATATCTACTCTCTAGAACA.............................................................
+Read: CCGTCCTATTACTGCATGAAATATCTACTCTCTAGAACATA...........................................................
+Read:     CCTATTACTGCATGAAATATCTACTCTCTAGAACATAGATGCATGCATTC..............................................
+Read:             TGCATGAAATATCTACTCTCTAGAACATAGATGCATGCATTCGCGTGACC......................................
+Read:                                                        CGTGACCCTGTTCATGACCGTCCGTGACTCTGCGGTCGGCGGGCC
+Read:                                                        CGTGACCCTGTTCATGACCGTCCGTGACTCTGCGGTCGGCGGGCC
+Read:                                                                 GTTCATGACCGTCCGTGACTCTGCGGTCGGCGGGCC
+Read:                                                                      TGACCGTCCGTGACTCTGCGGTCGGCGGGCC
+Read:                                                                               GTGACTCTGCGGTCGGCGGGCC
+Read:                                                                                              GCGGGCC
+Read:                                                                                                  GCC
+Read: .......ATTACTGCATGAAATATCTACTCTCTAGAACATAGATGCATGCATTCGCG
+Read: ..................AAATATCTACTCTCTAGAACATAGATGCATGCATTCGCGTGACCCTGTTC
+Read: ........................CTACTCTCTAGAACATAGATGCATGCATTCGCGTGACCCTGTTCATGACC
+Read: ..........................ACTCTCTAGAACATAGATGCATGCATTCGCGTGACCCTGTTCATGACCGT
+Read: ..............................................ATGCATTCGCGTGACCCTGTTCATGACCGTCCGTGACTCTGCGGTCGGCG
+Read: ................................................GCATTCGCGTGACCCTGTTCATGACCGTCCGTGACTCTGCGGTCGGCGGG
+Read:                                                                                                   CC
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 2400
+Ref:  GGACGGAGATGAAAGTTGCCGTTTAATATGCGAAGAGGGGTCGGATCGGTACCAAAGATTTTGGTTCAGTATGCCAAGCAGGTCACGCGTAGCGATCCAC
+Diff:                                                                                                     
+Cons: GGACGGAGATGAAAGTTGCCGTTTAATATGCGAAGAGGGGTCGGATCGGTACCAAAGATTTTGGTTCAGTATGCCAAGCAGGTCACGCGTAGCGATCCAC
+Read: GGACGGAGAT
+Read: GGACGGAGATGAAAGTTGCCGTTTAATATGCGAAGAGGGGTCGGATCGGT..................................................
+Read:                       TTAATATGCGAAGAGGGGTCGGATCGGTACCAAAGATTTTGGTTCAGTAT............................
+Read: GGACGGAGATGAAAGTTGCCGTTTAATATGCGAAGAGGGGTCGG
+Read: ...CGGAGATGAAAGTTGCCGTTTAATATGCGAAGAGGGGTCGGATCGGTACC
+Read: .................................................TACCAAAGATTTTGGTTCAGTATGCCAAGCAGGTCACGCGTAGCGATCCA
+Read: ..............................................CGGTACCAAAGATTTTGGTTCAGTATGCCAAGCAGGTCACGCGTAGCGAT
+Read: ...................................................CCAAAGATTTTGGTTCAGTATGCCAAGCAGGTCACGCGTAGCGATCCAC
+Read: .............................................................TGGTTCAGTATGCCAAGCAGGTCACGCGTAGCGATCCAC
+Read: GGACG...............................................................................................
+Read: GGACG.............................................................................................AC
+Read: GGACGGAGATGAAA......................................................................................
+Read: GGACGGAGATGAAAGTTGC.................................................................................
+Read: GGACGGAGATGAAAGTTGCCGTTTAATA........................................................................
+Read: GGACGGAGATGAAAGTTGCCGTTTAATATGCGAAGAGGGGTCG.........................................................
+Read: GGACGGAGATGAAAGTTGCCGTTTAATATGCGAAGAGGGGTCGGATC.....................................................
+Read:                                                                                  GTCACGCGTAGCGATCCAC
+Read:
+Read:
+Read:
+Read:
+Read:
+Read: GGACGGAGATGAAAGTTGCCGTTTAATATGCGAAGAGGGGTCGGATCG....................................................
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 2500
+Ref:  TGGAGCGCACGCCAGCTCTCTATTACCGAACGCTTGACCACGTTGGCCAATTACTAGGTCTGGGGTTTGCTATTGTCACCATATCGGCTCGGGCTGCCTA
+Diff:                                                                                                     
+Cons: TGGAGCGCACGCCAGCTCTCTATTACCGAACGCTTGACCACGTTGGCCAATTACTAGGTCTGGGGTTTGCTATTGTCACCATATCGGCTCGGGCTGCCTA
+Read:
+Read: ................................................AATTACTAGGTCTGGGGTTTGCTATTGTCACCATATCGGCTCGGGCTGCC
+Read: ...............................................................GGTTTGCTATTGTCACCATATCGGCTCGGGCTGCCTA
+Read:
+Read:
+Read:
+Read:
+Read: T
+Read: TGGAGCGCACG
+Read: ..............GCTCTCTATTACCGAACGCTTGACCACGTTGGCCAATTACTAGGTCTGGG
+Read: TGGAGCGCACGCCAGCTCTCTATTACCGAACGCTTGACCACGTTGGCC
+Read: .............AGCTCTCTATTACCGAACGCTTGACCACGTTGGCCAATTACTAGGTCTGG
+Read: ..........................CGAACGCTTGACCACGTTGGCCAATTACTAGGTCTGGGGTTTGCTATTGT
+Read: ..........................CGAACGCTTGACCACGTTGGCCAATTACTAGGTCTGGGGTTTGCTATTGT
+Read: .................................................ATTACTAGGTCTGGGGTTTGCTATTGTCACCATATCGGCTCGGGCTGCCT
+Read: ......................................................TAGGTCTGGGGTTTGCTATTGTCACCATATCGGCTCGGGCTGCCTA
+Read: TGGAGCGCACGCCAGCTCTCTATTACCGAAC.....................................................................
+Read:
+Read:
+Read:
+Read:
+Read:
+Read: .........................................................GTCTGGGGTTTGCTATTGTCACCATATCGGCTCGGGCTGCCTA
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 2600
+Ref:  TTAGGCGAGCTTTCCCCTTCTGCGACAGTAGGTGTTAATTCTAAATCTGTACCCACGGGGTTTGCGGTTCCAATGCAGGCATCTCATAATAACAAGACGC
+Diff:                                                                                                     
+Cons: TTAGGCGAGCTTTCCCCTTCTGCGACAGTAGGTGTTAATTCTAAATCTGTACCCACGGGGTTTGCGGTTCCAATGCAGGCATCTCATAATAACAAGACGC
+Read:
+Read:
+Read: TTAGGCGAGCTTT
+Read:
+Read:
+Read:
+Read:
+Read:
+Read:
+Read:
+Read:
+Read:
+Read:
+Read:
+Read:
+Read: TTAG
+Read: .........................................TAAATCTGTACCCACGGGGTTTGCGGTTCCAATGCAGGCATCTCATAATA
+Read:
+Read:
+Read:
+Read:
+Read:
+Read: TTAGGCG
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 2700
+Ref:  AGGTTACCATGTCCGATCGAGTACAGCATGCTAATGCAATTAACTTTGAGCAGGACGCTGTGCAGTTTGCTTTCGGCATGACGCAATATTATTGGCAACC
+Diff:                                                                                                     
+Cons: AGGTTACCATGTCCGATCGAGTACAGCATGCTAATGCAATTAACTTTGAGCAGGACGCTGTGCAGTTTGCTTTCGGCATGACGCAATATTATTGGCAACC
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 2800
+Ref:  ATTTCGCGAAGCAACACCTCCCTTGTGCAGTCGCTGCGGACGATATGTGCGTGTCGTTGCATTAAACTTGGATAAACGTCTTCGCTCGTGTTGAGCGAGG
+Diff:                                                                                                     
+Cons: ATTTCGCGAAGCAACACCTCCCTTGTGCAGTCGCTGCGGACGATATGTGCGTGTCGTTGCATTAAACTTGGATAAACGTCTTCGCTCGTGTTGAGCGAGG
+Read:                            CAGTCGCTGCGGACGATATGTGCGTGTCGTTGCATTAAACTTGGATAAAC.......................
+Read:                                   TGCGGACGATATGTGCGTGTCGTTGCATTAAACTTGGATAAACGTCTTCG................
+Read:                                               GTGCGTGTCGTTGCATTAAACTTGGATAAACGTCTTCGCTCGTGTTGAGC....
+Read:                                                      TCGTTGCATTAAACTTGGATAAACGTCTTCGCTCGTGTTGAGCGAGG
+Read:                                                                       GATAAACGTCTTCGCTCGTGTTGAGCGAGG
+Read:                                                                                     CTCGTGTTGAGCGAGG
+Read:                                                                                              AGCGAGG
+Read:                                                                                               GCGAGG
+Read:                                                                                                 GAGG
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 2900
+Ref:  ACACGATTCGTAGTTGACCGAGACAGCCCGCCGACTGTTCTCGTTCATCAGACTGTGAAACGCAATGCTTGCCTTTCAGAGTACCCATAAACTGGGGGAG
+Diff:                                                                                                     
+Cons: ACACGATTCGTAGTTGACCGAGACAGCCCGCCGACTGTTCTCGTTCATCAGACTGTGAAACGCAATGCTTGCCTTTCAGAGTACCCATAAACTGGGGGAG
+Read: .......................................................................................TAAACTGGGGGAG
+Read: ...........................................................................................CTGGGGGAG
+Read: ....................................................................................................
+Read: ACA.................................................................................................
+Read: ACACGATTCGTAGTTGACCG................................................................................
+Read: ACACGATTCGTAGTTGACCGAGACAGCCCGCCGA..................................................................
+Read: ACACGATTCGTAGTTGACCGAGACAGCCCGCCGACTGTTCTCG.........................................................
+Read: ACACGATTCGTAGTTGACCGAGACAGCCCGCCGACTGTTCTCGT........................................................
+Read: ACACGATTCGTAGTTGACCGAGACAGCCCGCCGACTGTTCTCGTTC......................................................
+Read:  CACGATTCGTAGTTGACCGAGACAGCCCGCCGACTGTTCTCGTTCATCAG.................................................
+Read:    CGATTCGTAGTTGACCGAGACAGCCCGCCGACTGTTCTCGTTCATCAGAC...............................................
+Read:     GATTCGTAGTTGACCGAGACAGCCCGCCGACTGTTCTCGTTCATCAGACT..............................................
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 3000
+Ref:  TAATTCAGCTTGCCTATCCGAGGTTACGTCTCACGATGCCCGATGCGGGGGTGGGTCCCCTAGTGCGCACTGCTATCGTACATGCGAAAGTTTAGCCGCT
+Diff:                                                                                                     
+Cons: TAATTCAGCTTGCCTATCCGAGGTTACGTCTCACGATGCCCGATGCGGGGGTGGGTCCCCTAGTGCGCACTGCTATCGTACATGCGAAAGTTTAGCCGCT
+Read: TAATTCAGCTTGCCTATCCGAGGTTACGTCTCACGAT
+Read: TAATTCAGCTTGCCTATCCGAGGTTACGTCTCACGATGCCC
+Read: ..ATTCAGCTTGCCTATCCGAGGTTACGTCTCACGATGCCCGATGCGGGGGT
+Read: .............CTATCCGAGGTTACGTCTCACGATGCCCGATGCGGGGGTGGGTCCCCTAG
+Read: ..............................TCACGATGCCCGATGCGGGGGTGGGTCCCCTAGTGCGCACTGCTATCGTA
+Read: ...........................................TGCGGGGGTGGGTCCCCTAGTGCGCACTGCTATCGTACATGCGAAAGTTT
+Read: ...................................................TGGGTCCCCTAGTGCGCACTGCTATCGTACATGCGAAAGTTTAGCCGCT
+Read: ......................................CCCGATGCGGGGGTGGGTCCCCTAGTGCGCACTGCTATCGTACATGCGAA
+Read: ....................................TGCCCGATGCGGGGGTGGGTCCCCTAGTGCGCACTGCTATCGTACATGCG
+Read: ...........................................TGCGGGGGTGGGTCCCCTAGTGCGCACTGCTATCGTACATGCGAAAGTTT
+Read: ...................................................TGGGTCCCCTAGTGCGCACTGCTATCGTACATGCGAAAGTTTAGCCGCT
+Read: ................................................GGGTGGGTCCCCTAGTGCGCACTGCTATCGTACATGCGAAAGTTTAGCCG
+Read:                    GAGGTTACGTCTCACGATGCCCGATGCGGGGGTGGGTCCCCTAGTGCGCA...............................
+Read:                                                                   GCACTGCTATCGTACATGCGAAAGTTTAGCCGCT
+Read:                                                                       TGCTATCGTACATGCGAAAGTTTAGCCGCT
+Read:                                                                             CGTACATGCGAAAGTTTAGCCGCT
+Read:                                                                                          GTTTAGCCGCT
+Read:                                                                                             TAGCCGCT
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 3100
+Ref:  AAGATGATCGTGGGGGAAGCAGAAGGGTCAGAATCGTCCGAACCTATCTCGACCCCTACGGCAACCAGCAGGCTAAGACGGTTAAGGAAGTATACCCGCT
+Diff:                                                                                                     
+Cons: AAGATGATCGTGGGGGAAGCAGAAGGGTCAGAATCGTCCGAACCTATCTCGACCCCTACGGCAACCAGCAGGCTAAGACGGTTAAGGAAGTATACCCGCT
+Read:     TGATCGTGGGGGAAGCAGAAGGGTCAGAATCGTCCGAACCTATCTCGACC..............................................
+Read:                 AAGCAGAAGGGTCAGAATCGTCCGAACCTATCTCGACCCCTACGGCAACC..................................
+Read:
+Read:
+Read:
+Read:
+Read: A
+Read:
+Read:
+Read:
+Read: A
+Read:
+Read: .............................................................................ACGGTTAAGGAAGTATACCCGCT
+Read: AAGATGATCGTGGGGG....................................................................................
+Read: AAGATGATCGTGGGGGAAGC................................................................................
+Read: AAGATGATCGTGGGGGAAGCAGAAGG..........................................................................
+Read: AAGATGATCGTGGGGGAAGCAGAAGGGTCAGAATCGTCC.............................................................
+Read: AAGATGATCGTGGGGGAAGCAGAAGGGTCAGAATCGTCCGAA..........................................................
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 3200
+Ref:  TACGCTCCCGACACGTAACTTATAGGGGGCTAATGAACCGTCGCCTCAGATGAGTCACGCCCGCGCAAGCGCACCCCCGAACTAATACGGCCAAAGAGTA
+Diff:                                                                                                     
+Cons: TACGCTCCCGACACGTAACTTATAGGGGGCTAATGAACCGTCGCCTCAGATGAGTCACGCCCGCGCAAGCGCACCCCCGAACTAATACGGCCAAAGAGTA
+Read: ..........................................................GCCCGCGCAAGCGCACCCCCGAACTAATACGGCCAAAGAGTA
+Read: .............................................................CGCGCAAGCGCACCCCCGAACTAATACGGCCAAAGAGTA
+Read:                                    AACCGTCGCCTCAGATGAGTCACGCCCGCGCAAGCGCACCCCCGAACTAA...............
+Read:                                      CCGTCGCCTCAGATGAGTCACGCCCGCGCAAGCGCACCCCCGAACTAATA.............
+Read:                                        GTCGCCTCAGATGAGTCACGCCCGCGCAAGCGCACCCCCGAACTAATACG...........
+Read:                                                                         ACCCCCGAACTAATACGGCCAAAGAGTA
+Read:
+Read:
+Read:
+Read:
+Read:
+Read:
+Read: TACGCTCCCGACACGTAACTTATAGGG
+Read: ................AACTTATAGGGGGCTAATGAACCGTCGCCTCAGATGAGTCACGCCCGCGC
+Read: ...................TTATAGGGGGCTAATGAACCGTCGCCTCAGATGAGTCACGCCCGCGCAAG
+Read: ......................TAGGGGGCTAATGAACCGTCGCCTCAGATGAGTCACGCCCGCGCAAGCGC
+Read: ........................................TCGCCTCAGATGAGTCACGCCCGCGCAAGCGCACCCCCGAACTAATACGG
+Read: ....................................ACCGTCGCCTCAGATGAGTCACGCCCGCGCAAGCGCACCCCCGAACTAAT
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 3300
+Ref:  GAGAGTGGTCCCCGCTTTGCCATCTTGATAAAATGCAACTATAGAAGCAGAAATTAACTTGGAGAACTCGAGGAGAGGCATGCCACTAGTCTACACCTAA
+Diff:                                                                                                     
+Cons: GAGAGTGGTCCCCGCTTTGCCATCTTGATAAAATGCAACTATAGAAGCAGAAATTAACTTGGAGAACTCGAGGAGAGGCATGCCACTAGTCTACACCTAA
+Read: GAGAGTGG
+Read: GAGAGTGGTCC
+Read: ..........................................................................................CTACACCTAA
+Read: .................................................................................................TAA
+Read: ........................................................................................GTCTACACCTAA
+Read: GAGAGTGGTCCCCGCTTTGCCA..............................................................................
+Read:                                                                  ACTCGAGGAGAGGCATGCCACTAGTCTACACCTAA
+Read:                                                                                       TAGTCTACACCTAA
+Read:                                                                                          TCTACACCTAA
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 3400
+Ref:  AAATGTATTGGAGGCTCACGCGCACGCCAAGAGTAAGTGTCACGTAGGAGGATGACAACCCACATTATTCCCCGCATGTTCGAAGCCGGTGTCTCCAACC
+Diff:                                                                                                     
+Cons: AAATGTATTGGAGGCTCACGCGCACGCCAAGAGTAAGTGTCACGTAGGAGGATGACAACCCACATTATTCCCCGCATGTTCGAAGCCGGTGTCTCCAACC
+Read:                                                                       CCCGCATGTTCGAAGCCGGTGTCTCCAACC
+Read:                                                                                       CGGTGTCTCCAACC
+Read: AAATGTATTGGAGGCTCACGCGCACGCCAAGAGTAAGTGT
+Read: AAATGTATTGGAGGCTCACGCGCACGCCAAGAGTAAGTGTCACGTAG
+Read: AAATGTATTGGAGGCTCACGCGCACGCCAAGAGTAAGT
+Read: ............................AAGAGTAAGTGTCACGTAGGAGGATGACAACCCACATTATTCCCCGCATG
+Read: AAATGTATTGGAGGC.....................................................................................
+Read: AAATGTATTGGAGGCTCACGCGCACGCCAAGAGTAA................................................................
+Read: AAATGTATTGGAGGCTCACGCGCACGCCAAGAGTAAGTG.............................................................
+Read:                                                                                              TCCAACC
+Read:                                                                                              TCCAACC
+Read:                                                                                                   CC
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 3500
+Ref:  CCAGTTTGTGTGCTAGAGAAGGAAGAAGTATATCTATGTTTTTTTCGGGGGGTCAGACAGATACATGGTGAAATTAAGGACCTAGAAACATCAAATAGAT
+Diff:                                                                                                     
+Cons: CCAGTTTGTGTGCTAGAGAAGGAAGAAGTATATCTATGTTTTTTTCGGGGGGTCAGACAGATACATGGTGAAATTAAGGACCTAGAAACATCAAATAGAT
+Read: CCAGTTTGTGTGCTAGAGAA................................................................................
+Read: CCAGTTTGTGTGCTAGAGAAGGAAGAAGTATATCTA................................................................
+Read:               AGAGAAGGAAGAAGTATATCTATGTTTTTTTCGGGGGGTCAGACAGATAC....................................
+Read:                       AAGAAGTATATCTATGTTTTTTTCGGGGGGTCAGACAGATACATGGTGAA............................
+Read:                           AGTATATCTATGTTTTTTTCGGGGGGTCAGACAGATACATGGTGAAATTA........................
+Read:                              ATATCTATGTTTTTTTCGGGGGGTCAGACAGATACATGGTGAAATTAAGG.....................
+Read: ................AGAAGGAAGAAGTATATCTATGTTTTTTTCGGGGGGTCAGACAGATACAT
+Read: .............................................CGGGGGGTCAGACAGATACATGGTGAAATTAAGGACCTAGAAACATCAAA
+Read: ................................................GGGGTCAGACAGATACATGGTGAAATTAAGGACCTAGAAACATCAAATAG
+Read: CCAGTTTGTGTGCTAGAGAAGGAAGAAGTATATCTATGTTTTT.........................................................
+Read: CCAGTTTGTGTGCTAGAGAAGGAAGAAGTATATCTATGTTTTT.........................................................
+Read: CCAGTTTGTGTGCTAGAGAAGGAAGAAGTATATCTATGTTTTTTTCGG....................................................
+Read:                                ATCTATGTTTTTTTCGGGGGGTCAGACAGATACATGGTGAAATTAAGGAC...................
+Read:                                          TTTTCGGGGGGTCAGACAGATACATGGTGAAATTAAGGACCTAGAAACAT.........
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 3600
+Ref:  TGCATCAGAATGCTGCTAAGTGAAGACACCACGTAATTGGCGAGTAAAAGTTATATGCTAATTACGTTTCGTGCCCTTAACCTCGAGCTCCCTCGGCCGT
+Diff:                                                                                                     
+Cons: TGCATCAGAATGCTGCTAAGTGAAGACACCACGTAATTGGCGAGTAAAAGTTATATGCTAATTACGTTTCGTGCCCTTAACCTCGAGCTCCCTCGGCCGT
+Read: ..................AGTGAAGACACCACGTAATTGGCGAGTAAAAGTTATATGCTAATTACGTT
+Read: .....................................TGGCGAGTAAAAGTTATATGCTAATTACGTTTCGTGCCCTTAACCTCGAG
+Read: ........................................................................GCCCTTAACCTCGAGCTCCCTCGGCCGT
+Read: ...............................................................................ACCTCGAGCTCCCTCGGCCGT
+Read: ....................................................................................GAGCTCCCTCGGCCGT
+Read: ........................................................................................TCCCTCGGCCGT
+Read:                                     TTGGCGAGTAAAAGTTATATGCTAATTACGTTTCGTGCCCTTAACCTCGA..............
+Read:                                         CGAGTAAAAGTTATATGCTAATTACGTTTCGTGCCCTTAACCTCGAGCTC..........
+Read:                                                                 CGTTTCGTGCCCTTAACCTCGAGCTCCCTCGGCCGT
+Read: .....................................TGGCGAGTAAAAGTTATATGCTAATTACGTTTCGTGCCCTTAACCTCGAG
+Read: ....................................................ATATGCTAATTACGTTTCGTGCCCTTAACCTCGAGCTCCCTCGGCCGT
+Read: ..........................................................TAATTACGTTTCGTGCCCTTAACCTCGAGCTCCCTCGGCCGT
+Read: .................................................................................CTCGAGCTCCCTCGGCCGT
+Read: ................................................................................................CCGT
+Read:                                                                               AACCTCGAGCTCCCTCGGCCGT
+Read:                                                                                   TCGAGCTCCCTCGGCCGT
+Read:                                                                                   TCGAGCTCCCTCGGCCGT
+Read:                                                                                       GCTCCCTCGGCCGT
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 3700
+Ref:  CTTAGGCCGTTCCGCTACCGGTATGCCAAACGTTGTAGTGGTACGTACTAGAATCACAGCACGACAATCAGTTTGTTTTTGCCCAGTGTGAACCCACCCC
+Diff:                                                                                                     
+Cons: CTTAGGCCGTTCCGCTACCGGTATGCCAAACGTTGTAGTGGTACGTACTAGAATCACAGCACGACAATCAGTTTGTTTTTGCCCAGTGTGAACCCACCCC
+Read:                             AACGTTGTAGTGGTACGTACTAGAATCACAGCACGACAATCAGTTTGTTT......................
+Read:                                   GTAGTGGTACGTACTAGAATCACAGCACGACAATCAGTTTGTTTTTGCCC................
+Read: CTTAGGCCGTTCCGCTACCGGT
+Read: CTTAGGCCGTTCCGCTACCGGTATGCCAA
+Read: CTTAGGCCGTTCCGCTACCGGTATGCCAAACGTT
+Read: CTTAGGCCGTTCCGCTACCGGTATGCCAAACGTTGTAG
+Read: ..................................................................................CCAGTGTGAACCCACCCC
+Read: ............................................................................................CCCACCCC
+Read: CTTAGGCCGTTCCG......................................................................................
+Read:                                   GTAGTGGTACGTACTAGAATCACAGCACGACAATCAGTTTGTTTTTGCCC................
+Read: CT
+Read: CTTAGGCC
+Read: CTTAGGCCGTTCCGCTACCGGTATGCCAAAC
+Read: CTTAGGCCGTTCCGCTACCGGTATGCCAAACGTTGTAGTGGTACGT
+Read: CTTAGGCCGTTCCGCTACCGGTATGCCA........................................................................
+Read: CTTAGGCCGTTCCGCTACCGGTATGCCAAACG....................................................................
+Read: CTTAGGCCGTTCCGCTACCGGTATGCCAAACG....................................................................
+Read: CTTAGGCCGTTCCGCTACCGGTATGCCAAACGTTGT................................................................
+Read:                                                  AGAATCACAGCACGACAATCAGTTTGTTTTTGCCCAGTGTGAACCCACCC.
+Read:                                                    AATCACAGCACGACAATCAGTTTGTTTTTGCCCAGTGTGAACCCACCCC
+Read:                                                      TCACAGCACGACAATCAGTTTGTTTTTGCCCAGTGTGAACCCACCCC
+Read:                                                                    TCAGTTTGTTTTTGCCCAGTGTGAACCCACCCC
+Read:                                                                          TGTTTTTGCCCAGTGTGAACCCACCCC
+Read:                                                                              TTTGCCCAGTGTGAACCCACCCC
+Read:                                                                                      GTGTGAACCCACCCC
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 3800
+Ref:  CCTGTGTACACGATGTAAGATTCGACCTGCGCGTACGACCTGTCAATGGTTCATGAAGCTCGTCTAGGAGACGCGACGGTAAACACATGCTCAGCCCAAC
+Diff:                                                                                                     
+Cons: CCTGTGTACACGATGTAAGATTCGACCTGCGCGTACGACCTGTCAATGGTTCATGAAGCTCGTCTAGGAGACGCGACGGTAAACACATGCTCAGCCCAAC
+Read: ........................................................................GCGACGGTAAACACATGCTCAGCCCAAC
+Read: ...........................................................................................CAGCCCAAC
+Read:                                         TGTCAATGGTTCATGAAGCTCGTCTAGGAGACGCGACGGTAAACACATGC..........
+Read:                                                                                                   AC
+Read:
+Read:
+Read: CCTGTGTACACGATGTAAGATTCGACCTGCGC
+Read: CCTGTGTACACGATGTAAGATTCGACCTGCGCGTACGACCTG
+Read: .....................TCGACCTGCGCGTACGACCTGTCAATGGTTCATGAAGCTCGTCTAGGAGA
+Read: .....................................................................................CATGCTCAGCCCAAC
+Read:
+Read:
+Read:
+Read:
+Read: .............................CGCGTACGACCTGTCAATGGTTCATGAAGCTCGTCTAGGAGACGCGACGG
+Read: .................................TACGACCTGTCAATGGTTCATGAAGCTCGTCTAGGAGACGCGACGGTAAA
+Read: ...................................CGACCTGTCAATGGTTCATGAAGCTCGTCTAGGAGACGCGACGGTAAACA
+Read: ...............................CGTACGACCTGTCAATGGTTCATGAAGCTCGTCTAGGAGACGCGACGGTA
+Read: ....................................................................................................
+Read: C...............................................................................................CAAC
+Read: CCT.................................................................................................
+Read: CCTGTGTACACGATGTA...................................................................................
+Read: CCTGTGTACACGATGTAAGATTC.............................................................................
+Read: CCTGTGTACACGATGTAAGATTCGACC.........................................................................
+Read: CCTGTGTACACGATGTAAGATTCGACCTGCGCGTA.................................................................
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 3900
+Ref:  GACTTACGCTGGTGTGGCCATATATTGAGGGGAGCGCTGTCAGAACACCTGGTTCCACCTCCCAGTCTTCAGCCTACTCTGCGACCCGTGGTGGCGACCT
+Diff:                                                                                                     
+Cons: GACTTACGCTGGTGTGGCCATATATTGAGGGGAGCGCTGTCAGAACACCTGGTTCCACCTCCCAGTCTTCAGCCTACTCTGCGACCCGTGGTGGCGACCT
+Read: GACTTACGCTGGTGTGGCCATA
+Read: GACTTACGCTGGTGTGGCCATATATTGAGGGGAGCGCTGTC
+Read: ..........................................................................................GTGGCGACCT
+Read: GACTTACGCTGGTGTGGCCATATATTGAGGGGAGCGCTGTCAGAACAC....................................................
+Read:              GTGGCCATATATTGAGGGGAGCGCTGTCAGAACACCTGGTTCCACCTCCC.....................................
+Read:                                  GCGCTGTCAGAACACCTGGTTCCACCTCCCAGTCTTCAGCCTACTCTGCG.................
+Read:                                        TCAGAACACCTGGTTCCACCTCCCAGTCTTCAGCCTACTCTGCGACCCGT...........
+Read:                                                  TGGTTCCACCTCCCAGTCTTCAGCCTACTCTGCGACCCGTGGTGGCGACC.
+Read:                                                   GGTTCCACCTCCCAGTCTTCAGCCTACTCTGCGACCCGTGGTGGCGACCT
+Read: GACTTACGCTGGTGTGGCCATATATTGAGGGGAGC
+Read:                                                          CCTCCCAGTCTTCAGCCTACTCTGCGACCCGTGGTGGCGACCT
+Read:                                                                         CCTACTCTGCGACCCGTGGTGGCGACCT
+Read:                                                                             CTCTGCGACCCGTGGTGGCGACCT
+Read:                                                                                    ACCCGTGGTGGCGACCT
+Read:
+Read:
+Read:
+Read:
+Read: ......CGCTGGTGTGGCCATATATTGAGGGGAGCGCTGTCAGAACACCTGGTTCC
+Read: GACTTACGCTGGTGTGGCCATATATTGAGGGGAGCGCTGTCAGAAC
+Read: ..CTTACGCTGGTGTGGCCATATATTGAGGGGAGCGCTGTCAGAACACCTGG
+Read: ....................TATATTGAGGGGAGCGCTGTCAGAACACCTGGTTCCACCTCCCAGTCTTC
+Read: .......................ATTGAGGGGAGCGCTGTCAGAACACCTGGTTCCACCTCCCAGTCTTCAGC
+Read: ..........................GAGGGGAGCGCTGTCAGAACACCTGGTTCCACCTCCCAGTCTTCAGCCTA
+Read: ...................................GCTGTCAGAACACCTGGTTCCACCTCCCAGTCTTCAGCCTACTCTGCGAC
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 4000
+Ref:  GTTCGTAGCAATGGGCACAAGAATCCTAGAAGTCCAACTTGGTGAATAAATATCTCTGTACGAGCCAACGAAGACTATGTCTTTAGGTGATTACACATCG
+Diff:                                                                                                     
+Cons: GTTCGTAGCAATGGGCACAAGAATCCTAGAAGTCCAACTTGGTGAATAAATATCTCTGTACGAGCCAACGAAGACTATGTCTTTAGGTGATTACACATCG
+Read:                                                     TCTCTGTACGAGCCAACGAAGACTATGTCTTTAGGTGATTACACATCG
+Read:                                                                            TATGTCTTTAGGTGATTACACATCG
+Read: GTTCGTAGCAATGGGCACAAGAATCCTAGAAGTCCAACTT
+Read: ........................................................TGTACGAGCCAACGAAGACTATGTCTTTAGGTGATTACACATCG
+Read: ...................................................................ACGAAGACTATGTCTTTAGGTGATTACACATCG
+Read: .................................................................................TTTAGGTGATTACACATCG
+Read: .................................................................................................TCG
+Read: ....................................................................................................
+Read: ....................................................................................................
+Read:                                                                                   TTAGGTGATTACACATCG
+Read: GTTCGTA.............................................................................................
+Read: GTTCGTAGCAATGGGCACAAGA..............................................................................
+Read: GTTCGTAGCAATGGGCACAAGAATCC..........................................................................
+Read: GTTCGTAGCAATGGGCACAAGAATCCTAGAAGT...................................................................
+Read:                                                                                             ACACATCG
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 4100
+Ref:  GTGCCTCTCCGAGATCGCTGCTGTAAGTACGGTTAGTATAGTATCCTATTCTGCCGCGATGGGTATCATAACGGGCACAACGGGGGCAGACAAGACCTGT
+Diff:                                                                                                     
+Cons: GTGCCTCTCCGAGATCGCTGCTGTAAGTACGGTTAGTATAGTATCCTATTCTGCCGCGATGGGTATCATAACGGGCACAACGGGGGCAGACAAGACCTGT
+Read: GT..................................................................................................
+Read: GTGCCTCTCCGAGATCGCTGCTGTA...........................................................................
+Read: GTGCCTCTCCGAGATCGCTGCTGTAAGTACGGTTAGTATAGTATCCTATT..................................................
+Read: GTGCCT
+Read: GTGCCTCTCCGAGATCG
+Read: GTGCCTCTCCGAGATCGCTGCTGTAAGTACG
+Read: GTGCCTCTCCGAGATCGCTGCTGTAAGTACGGTTAGTATAGTATCCT
+Read: ......CTCCGAGATCGCTGCTGTAAGTACGGTTAGTATAGTATCCTATTCTGCCG
+Read: .......TCCGAGATCGCTGCTGTAAGTACGGTTAGTATAGTATCCTATTCTGCCGC
+Read: GTGCCTCTCCGAGATCGCTGCTGTAAGTACGG....................................................................
+Read: ....CTCTCCGAGATCGCTGCTGTAAGTACGGTTAGTATAGTATCCTATTCTGC
+Read: .......................TAAGTACGGTTAGTATAGTATCCTATTCTGCCGCGATGGGTATCATAACG
+Read: ..........................GTACGGTTAGTATAGTATCCTATTCTGCCGCGATGGGTATCATAACGGGC
+Read: ............................ACGGTTAGTATAGTATCCTATTCTGCCGCGATGGGTATCATAACGGGCAC
+Read: GTGCCTCTCCGAGATCGCTGCTGTAAGTACGGTTAGTATAGT..........................................................
+Read:                   TGCTGTAAGTACGGTTAGTATAGTATCCTATTCTGCCGCGATGGGTATCA................................
+Read:                              CGGTTAGTATAGTATCCTATTCTGCCGCGATGGGTATCATAACGGGCACA.....................
+Read:                                               TATTCTGCCGCGATGGGTATCATAACGGGCACAACGGGGGCAGACAAGAC....
+Read:                                                    TGCCGCGATGGGTATCATAACGGGCACAACGGGGGCAGACAAGACCTGT
+Read:                                                       CGCGATGGGTATCATAACGGGCACAACGGGGGCAGACAAGACCTGT
+Read:                                                                     TAACGGGCACAACGGGGGCAGACAAGACCTGT
+Read:                                                                                    GGGCAGACAAGACCTGT
+Read:                                                                                     GGCAGACAAGACCTGT
+Read:                                                                                         GACAAGACCTGT
+Read:                                                                                         GACAAGACCTGT
+Read:                                                                                                  TGT
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 4200
+Ref:  ATCCGCAGCGGATGGTGCGATTTTACGTGCTCTGATATTCAAGTCACTCCTTGGGTACTTCGATAACCGGAAGGCGTCCTTTCACAATCTCGTTGCCTGA
+Diff:                                                                                                     
+Cons: ATCCGCAGCGGATGGTGCGATTTTACGTGCTCTGATATTCAAGTCACTCCTTGGGTACTTCGATAACCGGAAGGCGTCCTTTCACAATCTCGTTGCCTGA
+Read: ..CCGCAGCGGATGGTGCGATTTTACGTGCTCTGATATTCAAGTCACTCCTT
+Read: ............................GCTCTGATATTCAAGTCACTCCTTGGGTACTTCGATAACCGGAAGGCGTC
+Read: .............................................ACTCCTTGGGTACTTCGATAACCGGAAGGCGTCCTTTCACAATCTCGTTG
+Read:        GCGGATGGTGCGATTTTACGTGCTCTGATATTCAAGTCACTCCTTGGGTA...........................................
+Read:                                 TGATATTCAAGTCACTCCTTGGGTACTTCGATAACCGGAAGGCGTCCTTT..................
+Read:                                                          CTTCGATAACCGGAAGGCGTCCTTTCACAATCTCGTTGCCTGA
+Read:                                                                TAACCGGAAGGCGTCCTTTCACAATCTCGTTGCCTGA
+Read:                                                                   CCGGAAGGCGTCCTTTCACAATCTCGTTGCCTGA
+Read:                                                                      GAAGGCGTCCTTTCACAATCTCGTTGCCTGA
+Read: ...........................TGCTCTGATATTCAAGTCACTCCTTGGGTACTTCGATAACCGGAAGGCGT
+Read:                                                                          GCGTCCTTTCACAATCTCGTTGCCTGA
+Read:
+Read:
+Read:
+Read: .............................................ACTCCTTGGGTACTTCGATAACCGGAAGGCGTCCTTTCACAATCTCGTTG
+Read: .......................................................................AGGCGTCCTTTCACAATCTCGTTGCCTGA
+Read: .............................................................................CCTTTCACAATCTCGTTGCCTGA
+Read: ................................................................................................CTGA
+Read: A...................................................................................................
+Read: ATCC................................................................................................
+Read: ATCCGCAGCGGATGGTGC..................................................................................
+Read: ATCCGCAGCGGATGGTGCGATTTTACGTGCTCT...................................................................
+Read: ATCCGCAGCGGATGGTGCGATTTTACGTGCTCTG..................................................................
+Read: ATCCGCAGCGGATGGTGCGATTTTACGTGCTCTGATAT..............................................................
+Read: ATCCGCAGCGGATGGTGCGATTTTACGTGCTCTGATAT..............................................................
+Read: ATCCGCAGCGGATGGTGCGATTTTACGTGCTCTGATATTCAAGTCAC.....................................................
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 4300
+Ref:  CAATGCACAAGTCGGCAGTTTTACTTAGCCGGCCGAGGTACAGCAGCCACTGTAAAGGTACACGCACGCTGGCGTAGGCCATGCGCATGGCGACCCATAA
+Diff:                                                                                                     
+Cons: CAATGCACAAGTCGGCAGTTTTACTTAGCCGGCCGAGGTACAGCAGCCACTGTAAAGGTACACGCACGCTGGCGTAGGCCATGCGCATGGCGACCCATAA
+Read:                     TTACTTAGCCGGCCGAGGTACAGCAGCCACTGTAAAGGTACACGCACGCT..............................
+Read:                                            CAGCCACTGTAAAGGTACACGCACGCTGGCGTAGGCCATGCGCATGGCGA.......
+Read:
+Read: ............................................................CACGCACGCTGGCGTAGGCCATGCGCATGGCGACCCATAA
+Read: ..................................................................................GCGCATGGCGACCCATAA
+Read: CAATGCA...........................................................................................AA
+Read: CAATGCACAAGTC.......................................................................................
+Read: CAATGCACAAGTCGGC....................................................................................
+Read: CAATGCACAAGTCGGCAGT.................................................................................
+Read:
+Read: CAATGCACAAGTCGGCAGTTTTA.............................................................................
+Read:
+Read:
+Read:
+Read:
+Read: CAATGCACAAGTCGGCAGTTT
+Read: CAATGCACAAGTCGGCAGTTTTACTTA
+Read: CAATGCACAAGTCGGCAGTTTTACTTAGCCGGCCGAGGTACAGCAG
+Read: ..........GTCGGCAGTTTTACTTAGCCGGCCGAGGTACAGCAGCCACTGTAAAGGTA
+Read: ...........TCGGCAGTTTTACTTAGCCGGCCGAGGTACAGCAGCCACTGTAAAGGTAC
+Read: ...........................GCCGGCCGAGGTACAGCAGCCACTGTAAAGGTACACGCACGCTGGCGTAG
+Read: .............................CGGCCGAGGTACAGCAGCCACTGTAAAGGTACACGCACGCTGGCGTAGGC
+Read: ...........................................CAGCCACTGTAAAGGTACACGCACGCTGGCGTAGGCCATGCGCATGGCGA
+Read: ...............................................CACTGTAAAGGTACACGCACGCTGGCGTAGGCCATGCGCATGGCGACCCA
+Read: ...............................GCCGAGGTACAGCAGCCACTGTAAAGGTACACGCACGCTGGCGTAGGCCA
+Read: ...............................................CACTGTAAAGGTACACGCACGCTGGCGTAGGCCATGCGCATGGCGACCCA
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 4400
+Ref:  AATCGATTCTATCTACCTAGGGCTAAAAAAGACAATACGTCAGCCCACCACATAGGCAGCTTACCATTTATAATCCCCCCACTGATTCAAGGCCGATCCT
+Diff:                                                                                                     
+Cons: AATCGATTCTATCTACCTAGGGCTAAAAAAGACAATACGTCAGCCCACCACATAGGCAGCTTACCATTTATAATCCCCCCACTGATTCAAGGCCGATCCT
+Read: ...........................................................................CCCCCACTGATTCAAGGCCGATCCT
+Read: ..............................................................................................GATCCT
+Read:            TCTACCTAGGGCTAAAAAAGACAATACGTCAGCCCACCACATAGGCAGCT.......................................
+Read: AATCGATTCT
+Read: AATCGATTCTATCTACCTAGGGCTAAAAAAGA
+Read: AATCGATTCTATCTACCTAGGGCTAAAAAAGACAATACGTCAGCCCAC
+Read: ...CGATTCTATCTACCTAGGGCTAAAAAAGACAATACGTCAGCCCACCACAT
+Read: ........CTATCTACCTAGGGCTAAAAAAGACAATACGTCAGCCCACCACATAGGCA
+Read: .......................TAAAAAAGACAATACGTCAGCCCACCACATAGGCAGCTTACCATTTATAA
+Read:                      GCTAAAAAAGACAATACGTCAGCCCACCACATAGGCAGCTTACCATTTAT.............................
+Read: ...................GGGCTAAAAAAGACAATACGTCAGCCCACCACATAGGCAGCTTACCATTT
+Read:                         AAAAAAGACAATACGTCAGCCCACCACATAGGCAGCTTACCATTTATAAT..........................
+Read:                                        TCAGCCCACCACATAGGCAGCTTACCATTTATAATCCCCCCACTGATTCA...........
+Read:                                                   CATAGGCAGCTTACCATTTATAATCCCCCCACTGATTCAAGGCCGATCCT
+Read:                                                            CTTACCATTTATAATCCCCCCACTGATTCAAGGCCGATCCT
+Read:                                                                   TTTATAATCCCCCCACTGATTCAAGGCCGATCCT
+Read:                                                                                            GCCGATCCT
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 4500
+Ref:  TTTTGCCGTTTCGTGTCAGCCGGTTCGATGCCACTGGGAATAGAGTGGTCTGGTGAACGGTGATCCTGTTCGTCCGATAGCCCACCAAGCTGGGGTCACG
+Diff:                                                                                                     
+Cons: TTTTGCCGTTTCGTGTCAGCCGGTTCGATGCCACTGGGAATAGAGTGGTCTGGTGAACGGTGATCCTGTTCGTCCGATAGCCCACCAAGCTGGGGTCACG
+Read: TTTTGCCGTTTCGTGTCAGCCGGTT
+Read: TTTTGCCGTTTCGTGTCAGCCGGTTCGATGCCACTGGGAATAGA
+Read: ...............................................................TCCTGTTCGTCCGATAGCCCACCAAGCTGGGGTCACG
+Read:                                                   TGGTGAACGGTGATCCTGTTCGTCCGATAGCCCACCAAGCTGGGGTCACG
+Read:                                                             TGATCCTGTTCGTCCGATAGCCCACCAAGCTGGGGTCACG
+Read:                                                                TCCTGTTCGTCCGATAGCCCACCAAGCTGGGGTCACG
+Read:                                                                  CTGTTCGTCCGATAGCCCACCAAGCTGGGGTCACG
+Read:                                                                     TTCGTCCGATAGCCCACCAAGCTGGGGTCACG
+Read:                                                                              TAGCCCACCAAGCTGGGGTCACG
+Read: ............................................................................ATAGCCCACCAAGCTGGGGTCACG
+Read:                                                                              TAGCCCACCAAGCTGGGGTCACG
+Read: ...................................................................................ACCAAGCTGGGGTCACG
+Read: ..............................................................................................GTCACG
+Read: ....................................................................................................
+Read: TTTTGCCGT...........................................................................................
+Read: TTTTGCCGTTTCGTGT....................................................................................
+Read: TTTTGCCGTTTCGTGTCAGCCGGTTCGATGCCACTGGGAAT...........................................................
+Read:                                                                                GCCCACCAAGCTGGGGTCACG
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 4600
+Ref:  GCAGTTCGGAGAGGGTCATTTTGACCGGGAGTTTAGTAGGAGAAATCGGGAATTTAAGAGCCATCGATTTTTGCACAACTCTTCTCCTGATGTCGCGCGC
+Diff:                                                                                                     
+Cons: GCAGTTCGGAGAGGGTCATTTTGACCGGGAGTTTAGTAGGAGAAATCGGGAATTTAAGAGCCATCGATTTTTGCACAACTCTTCTCCTGATGTCGCGCGC
+Read:    GTTCGGAGAGGGTCATTTTGACCGGGAGTTTAGTAGGAGAAATCGGGAAT...............................................
+Read:           GAGGGTCATTTTGACCGGGAGTTTAGTAGGAGAAATCGGGAATTTAAGAG........................................
+Read: GCAGTTCGGAGAG
+Read: ....................................................................................................
+Read: GCAGTTCGGA..........................................................................................
+Read: GCAGTTCGGAGAG.......................................................................................
+Read: GCAGTTCGGAGAGGG.....................................................................................
+Read: GCAGTTCGGAGAGGGTCA..................................................................................
+Read: GCAGTTCGGAGAGGGTCATTTTGACCG.........................................................................
+Read: GCAGTTCGGAGAGGGTCATTTTGACC
+Read: GCAGTTCGGAGAGGGTCATTTTGACCG.........................................................................
+Read: GCAGTTCGGAGAGGGTCATTTTGACCGGGAGTT
+Read: GCAGTTCGGAGAGGGTCATTTTGACCGGGAGTTTAGTAGGAGAA
+Read: .........AGAGGGTCATTTTGACCGGGAGTTTAGTAGGAGAAATCGGGAATTTAAGA
+Read: ..........GAGGGTCATTTTGACCGGGAGTTTAGTAGGAGAAATCGGGAATTTAAGAG
+Read: ................CATTTTGACCGGGAGTTTAGTAGGAGAAATCGGGAATTTAAGAGCCATCG
+Read: ............................................ATCGGGAATTTAAGAGCCATCGATTTTTGCACAACTCTTCTCCTGATGTC
+Read: GCAGTTCGGAGAGGGTCATTTTGACCGGG.......................................................................
+Read:                                                                                                CGCGC
+Read:                                                                                                   GC
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 4700
+Ref:  TGTGAGGTCGCCACACGACATGTTAACAAGGTAAACCGGCAAACCTTAGTCCCCAACTCCGCAATCTAACGAATCATCGGAGCGATACTGGAGACTTGGT
+Diff:                                                                                                     
+Cons: TGTGAGGTCGCCACACGACATGTTAACAAGGTAAACCGGCAAACCTTAGTCCCCAACTCCGCAATCTAACGAATCATCGGAGCGATACTGGAGACTTGGT
+Read: ...........................................CCTTAGTCCCCAACTCCGCAATCTAACGAATCATCGGAGCGATACTGGAG
+Read: .....................................................CAACTCCGCAATCTAACGAATCATCGGAGCGATACTGGAGACTTGGT
+Read:          GCCACACGACATGTTAACAAGGTAAACCGGCAAACCTTAGTCCCCAACTC.........................................
+Read: .......TCGCCACACGACATGTTAACAAGGTAAACCGGCAAACCTTAGTCCCCAAC
+Read: .GTGAGGTCGCCACACGACATGTTAACAAGGTAAACCGGCAAACCTTAGTC
+Read: ......................TTAACAAGGTAAACCGGCAAACCTTAGTCCCCAACTCCGCAATCTAACGA
+Read: ..........CCACACGACATGTTAACAAGGTAAACCGGCAAACCTTAGTCCCCAACTCC
+Read: ................GACATGTTAACAAGGTAAACCGGCAAACCTTAGTCCCCAACTCCGCAATC
+Read: ...................................CCGGCAAACCTTAGTCCCCAACTCCGCAATCTAACGAATCATCGGAGCGA
+Read:             ACACGACATGTTAACAAGGTAAACCGGCAAACCTTAGTCCCCAACTCCGC......................................
+Read: ..................CATGTTAACAAGGTAAACCGGCAAACCTTAGTCCCCAACTCCGCAATCTA
+Read:             ACACGACATGTTAACAAGGTAAACCGGCAAACCTTAGTCCCCAACTCCGC......................................
+Read:                      GTTAACAAGGTAAACCGGCAAACCTTAGTCCCCAACTCCGCAATCTAACG.............................
+Read:                                          AACCTTAGTCCCCAACTCCGCAATCTAACGAATCATCGGAGCGATACTGG.........
+Read:
+Read:
+Read:
+Read: ...........................AAGGTAAACCGGCAAACCTTAGTCCCCAACTCCGCAATCTAACGAATCAT
+Read: TGTGAGGTCGCCACACGACATGTTAACAAGGTAAACCGGCAAACC.......................................................
+Read: TGTGAGGTCGCCACACGACATGTTAACAAGGTAAACCGGCAAACCTTA....................................................
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 4800
+Ref:  CTGGCGCGGGTAGATGACTATTGAGGCTTCAATGTGGCGACGCTAGAACTATCCTTTCGTTTGAGGGTTCGGAATCAAGTGCGTCACGCGAGAAACTCTC
+Diff:                                                                                                     
+Cons: CTGGCGCGGGTAGATGACTATTGAGGCTTCAATGTGGCGACGCTAGAACTATCCTTTCGTTTGAGGGTTCGGAATCAAGTGCGTCACGCGAGAAACTCTC
+Read:                                 TGTGGCGACGCTAGAACTATCCTTTCGTTTGAGGGTTCGGAATCAAGTGC..................
+Read: CTG
+Read: .................................................TATCCTTTCGTTTGAGGGTTCGGAATCAAGTGCGTCACGCGAGAAACTCT
+Read:                                      CGACGCTAGAACTATCCTTTCGTTTGAGGGTTCGGAATCAAGTGCGTCAC.............
+Read:                                         CGCTAGAACTATCCTTTCGTTTGAGGGTTCGGAATCAAGTGCGTCACGCG..........
+Read:
+Read:
+Read:
+Read:
+Read: .......................................................................GAATCAAGTGCGTCACGCGAGAAACTCTC
+Read:
+Read: .................................................................GGTTCGGAATCAAGTGCGTCACGCGAGAAACTCTC
+Read: ...................................................................TTCGGAATCAAGTGCGTCACGCGAGAAACTCTC
+Read: .......................................................................................GCGAGAAACTCTC
+Read:
+Read:
+Read:
+Read:
+Read: ..........................................CTAGAACTATCCTTTCGTTTGAGGGTTCGGAATCAAGTGCGTCACGCGAG
+Read: .........................................GCTAGAACTATCCTTTCGTTTGAGGGTTCGGAATCAAGTGCGTCACGCGA
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 4900
+Ref:  AGTAGAACGCAACTAGTTGGTCTGACCGTGCAATTGCATGACGGAATCCGTTAAGTTCTAGCAGTCCTCCTGGCAAAACTACCCCTAGCTAAGTCTTGAG
+Diff:                                                                                                     
+Cons: AGTAGAACGCAACTAGTTGGTCTGACCGTGCAATTGCATGACGGAATCCGTTAAGTTCTAGCAGTCCTCCTGGCAAAACTACCCCTAGCTAAGTCTTGAG
+Read: .........................................................................CAAAACTACCCCTAGCTAAGTCTTGAG
+Read:           AACTAGTTGGTCTGACCGTGCAATTGCATGACGGAATCCGTTAAGTTCTA........................................
+Read:             CTAGTTGGTCTGACCGTGCAATTGCATGACGGAATCCGTTAAGTTCTAGC......................................
+Read: .........................................................................................TAAGTCTTGAG
+Read: .....................................................................................TAGCTAAGTCTTGAG
+Read:                         ACCGTGCAATTGCATGACGGAATCCGTTAAGTTCTAGCAGTCCTCCTGGC..........................
+Read:                                                 CGTTAAGTTCTAGCAGTCCTCCTGGCAAAACTACCCCTAGCTAAGTCTTG..
+Read:                                                                   CTCCTGGCAAAACTACCCCTAGCTAAGTCTTGAG
+Read:
+Read: AGTAGAACGCAACTAGTTGGT
+Read:
+Read: AGTAGAACGCAACTA
+Read: AGTAGAACGCAACTAGT
+Read: AGTAGAACGCAACTAGTTGGTCTGACCGTGCAATTGC
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 5000
+Ref:  CTAACAGGAATCATACTGGGCAGCCCGGTCACCTGTTCGGTTGTATCGAACAAAATCCGTATGGCAACTTGTGTGATCGTCCTTAGAAAGTACTTCTGAC
+Diff:                                                                                                     
+Cons: CTAACAGGAATCATACTGGGCAGCCCGGTCACCTGTTCGGTTGTATCGAACAAAATCCGTATGGCAACTTGTGTGATCGTCCTTAGAAAGTACTTCTGAC
+Read: CTAACAGGAATCATACTGGGCAG
+Read: .....................................................................TGTGTGATCGTCCTTAGAAAGTACTTCTGAC
+Read: ............................................................................TCGTCCTTAGAAAGTACTTCTGAC
+Read: CTAACAGGAATCATACTGGGCAGCCCGGTCACCTGTTCG
+Read: CTAACAGGAATCATACTGGGCAGCCCGGTCACCTG
+Read: ..........................................................................GATCGTCCTTAGAAAGTACTTCTGAC
+Read: ....................................................................................................
+Read: CTAACAGGAATCATAC....................................................................................
+Read:                                                           GTATGGCAACTTGTGTGATCGTCCTTAGAAAGTACTTCTGAC
+Read:                                                               GGCAACTTGTGTGATCGTCCTTAGAAAGTACTTCTGAC
+Read:                                                                 CAACTTGTGTGATCGTCCTTAGAAAGTACTTCTGAC
+Read:                                                                    CTTGTGTGATCGTCCTTAGAAAGTACTTCTGAC
+Read:                                                                          TGATCGTCCTTAGAAAGTACTTCTGAC
+Read:                                                                                        AAGTACTTCTGAC
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 5100
+Ref:  TAAACTCGGTGAGGCATAGCTAACGTCATCGCTCCAAAATAATAACCAGTGCCGCATGCCTTAACTCTTTCTCTGCGGGTTCATATCTTACAATAGCTGC
+Diff:                                                                                                     
+Cons: TAAACTCGGTGAGGCATAGCTAACGTCATCGCTCCAAAATAATAACCAGTGCCGCATGCCTTAACTCTTTCTCTGCGGGTTCATATCTTACAATAGCTGC
+Read:                                                   GCCGCATGCCTTAACTCTTTCTCTGCGGGTTCATATCTTACAATAGCTGC
+Read: TAAACTCGGTGAGGCATAG
+Read: TAAACTCGGTGAGGCATAGCTAACGT
+Read:                                                                  TCTTTCTCTGCGGGTTCATATCTTACAATAGCTGC
+Read:                                                                               GTTCATATCTTACAATAGCTGC
+Read: TAAACTCGGTGAGGCATAGCTAAC
+Read: ....CTCGGTGAGGCATAGCTAACGTCATCGCTCCAAAATAATAACCAGTGCCG
+Read: ...................CTAACGTCATCGCTCCAAAATAATAACCAGTGCCGCATGCCTTAACTCTT
+Read: TAAACTCG............................................................................................
+Read: TAAACTCGGTGA........................................................................................
+Read: TAAACTCGGTGAGG......................................................................................
+Read: TAAACTCGGTGAGGCAT...................................................................................
+Read: TAAACTCGGTGAGGCATAGCTAA.............................................................................
+Read: TAAACTCGGTGAGGCATAGCTAACGTCATCGCTCCAA...............................................................
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 5200
+Ref:  CCCGCCAACAATAAGGTGTATATCCCGATTACCTAGAGCCTATTTCTCTTGTAGATATCTTTCCGAATCTAGAGTGGGAGAAACGGGCAGCAGATTGTCG
+Diff:                                                                                                     
+Cons: CCCGCCAACAATAAGGTGTATATCCCGATTACCTAGAGCCTATTTCTCTTGTAGATATCTTTCCGAATCTAGAGTGGGAGAAACGGGCAGCAGATTGTCG
+Read: ............................................................................................GATTGTCG
+Read: CCCGCCAACAATAAGGTGTATATCCCGATTACCTAGAGCCTATTTCTCTT..................................................
+Read:             AAGGTGTATATCCCGATTACCTAGAGCCTATTTCTCTTGTAGATATCTTT......................................
+Read: CCCGCCAACAATAAG.....................................................................................
+Read: CCCGCCAACAATAAGGTGTATATCCCGA........................................................................
+Read:                  GTATATCCCGATTACCTAGAGCCTATTTCTCTTGTAGATATCTTTCCGAA.................................
+Read:                  GTATATCCCGATTACCTAGAGCCTATTTCTCTTGTAGATATCTTTCCGAA.................................
+Read:                   TATATCCCGATTACCTAGAGCCTATTTCTCTTGTAGATATCTTTCCGAAT................................
+Read: ...GCCAACAATAAGGTGTATATCCCGATTACCTAGAGCCTATTTCTCTTGTA
+Read: .....................ATCCCGATTACCTAGAGCCTATTTCTCTTGTAGATATCTTTCCGAATCTA
+Read: ..............GGTGTATATCCCGATTACCTAGAGCCTATTTCTCTTGTAGATATCTTTCC
+Read: ...................ATATCCCGATTACCTAGAGCCTATTTCTCTTGTAGATATCTTTCCGAATC
+Read: ...................ATATCCCGATTACCTAGAGCCTATTTCTCTTGTAGATATCTTTCCGAATC
+Read: ...........................ATTACCTAGAGCCTATTTCTCTTGTAGATATCTTTCCGAATCTAGAGTGG
+Read:                          CGATTACCTAGAGCCTATTTCTCTTGTAGATATCTTTCCGAATCTAGAGT.........................
+Read:                                                                                        CAGCAGATTGTCG
+Read:                                                                                                    G
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 5300
+Ref:  ACAAGCAGATTAGGATGCATCCTATACTATCGAGAGGGAGGCCTGGCTCCTATGGTAAACCATTAGCTAGAGTCTGTTTCGAGCTCCCGAGGGCCCCCCT
+Diff:                                                                                                     
+Cons: ACAAGCAGATTAGGATGCATCCTATACTATCGAGAGGGAGGCCTGGCTCCTATGGTAAACCATTAGCTAGAGTCTGTTTCGAGCTCCCGAGGGCCCCCCT
+Read: ACAAGCAGATTAGGATGCATCCTATACTATCGAGAGGGAGGC
+Read: ..........................................CTGGCTCCTATGGTAAACCATTAGCTAGAGTCTGTTTCGAGCTCCCGAGG
+Read: ..............................................................TTAGCTAGAGTCTGTTTCGAGCTCCCGAGGGCCCCCCT
+Read: ........ATTAGGATGCATCCTATACTATCGAGAGGGAGGCCTGGCTCCTATGGTAA
+Read: .............................TCGAGAGGGAGGCCTGGCTCCTATGGTAAACCATTAGCTAGAGTCTGTTT
+Read: ..........................................................ACCATTAGCTAGAGTCTGTTTCGAGCTCCCGAGGGCCCCCCT
+Read: ........................................................................TCTGTTTCGAGCTCCCGAGGGCCCCCCT
+Read: ...................................................................TAGAGTCTGTTTCGAGCTCCCGAGGGCCCCCCT
+Read:                                                         AAACCATTAGCTAGAGTCTGTTTCGAGCTCCCGAGGGCCCCCCT
+Read:                                                              ATTAGCTAGAGTCTGTTTCGAGCTCCCGAGGGCCCCCCT
+Read:                                                                     AGAGTCTGTTTCGAGCTCCCGAGGGCCCCCCT
+Read:                                                                                        CGAGGGCCCCCCT
+Read:                                                                                               CCCCCT
+Read:                                                                                                   CT
+Read: .....................................................................................CCCGAGGGCCCCCCT
+Read: ACAAGCAGATTAGGATGCATCCTATACTATCGAGAGG...............................................................
+Read: ACAAGCAGATTAGGATGCATCCTATACTATCGAGAGGGAGGCCTGGCTC...................................................
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 5400
+Ref:  CCGTACTTTTGACTGTTTACAACTCTGAAAGGGGGGTTTCTAATCAGTTTGTACGTGTAGCTGACAGATTTGCTGTGAGGATGCCTTCTAATTTTGTTAT
+Diff:                                                                                                     
+Cons: CCGTACTTTTGACTGTTTACAACTCTGAAAGGGGGGTTTCTAATCAGTTTGTACGTGTAGCTGACAGATTTGCTGTGAGGATGCCTTCTAATTTTGTTAT
+Read:        TTTGACTGTTTACAACTCTGAAAGGGGGGTTTCTAATCAGTTTGTACGTG...........................................
+Read:                 TTACAACTCTGAAAGGGGGGTTTCTAATCAGTTTGTACGTGTAGCTGACA..................................
+Read: CCGTACTTTTGA
+Read:                           GAAAGGGGGGTTTCTAATCAGTTTGTACGTGTAGCTGACAGATTTGCTGT........................
+Read:
+Read: CCGTACTT
+Read: CCGTACTTTTGACTGTTTACAA
+Read: CCGTACTTTTGACTGTT
+Read: CCGTAC..............................................................................................
+Read: CCGTACTTTTG.........................................................................................
+Read: CCGTACTTTTGACTGTTT..................................................................................
+Read: CCGTACTTTTGACTGTTTACAACTCTGAAAGGGGGGT...............................................................
+Read: CCGTACTTTTGACTGTTTACAACTCTGAAAGGGGGGTTTCTAAT........................................................
+Read: CCGTACTTTTGACTGTTTACAACTCTGAAAGGGGGGTTTCTAATCAGT....................................................
+Read: CCGTACTTTTGACTGTTTACAACTCTGAAAGGGGG
+Read: ...............................GGGGGTTTCTAATCAGTTTGTACGTGTAGCTGACAGATTTGCTGTGAGGA
+Read: ...............................................TTTGTACGTGTAGCTGACAGATTTGCTGTGAGGATGCCTTCTAATTTTGT
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 5500
+Ref:  CCATGTGCCTCAGCCTAACGGATAGTAAGCATCTCTAATACGGAAAGAAAAAAGTCTATAATTACCATATATTTAGGCGGACTTTGTGAACTGGGGACTG
+Diff:                                                                                                     
+Cons: CCATGTGCCTCAGCCTAACGGATAGTAAGCATCTCTAATACGGAAAGAAAAAAGTCTATAATTACCATATATTTAGGCGGACTTTGTGAACTGGGGACTG
+Read: ..................................................................ATATATTTAGGCGGACTTTGTGAACTGGGGACTG
+Read: ..........................................................TAATTACCATATATTTAGGCGGACTTTGTGAACTGGGGACTG
+Read: CCATGTGCCTCAGCCTAACGGATAGTAAGCATCTCTAATACGGAAAGAAA..................................................
+Read: .....................................................................................GTGAACTGGGGACTG
+Read:           CAGCCTAACGGATAGTAAGCATCTCTAATACGGAAAGAAAAAAGTCTATA........................................
+Read:                                      ATACGGAAAGAAAAAAGTCTATAATTACCATATATTTAGGCGGACTTTGT.............
+Read:                                                AAAAAAGTCTATAATTACCATATATTTAGGCGGACTTTGTGAACTGGGGA...
+Read:                                                                              CGGACTTTGTGAACTGGGGACTG
+Read: .CATGTGCCTCAGCCTAACGGATAGTAAGCATCTCTAATACGGAAAGAAAA
+Read: ..........CAGCCTAACGGATAGTAAGCATCTCTAATACGGAAAGAAAAAAGTCTATA
+Read: ................AACGGATAGTAAGCATCTCTAATACGGAAAGAAAAAAGTCTATAATTACC
+Read: .......................................ACGGAAAGAAAAAAGTCTATAATTACCATATATTTAGGCGGACTTTGTGA
+Read: ..................................................AAAGTCTATAATTACCATATATTTAGGCGGACTTTGTGAACTGGGGACTG
+Read: ...............................................AAAAAAGTCTATAATTACCATATATTTAGGCGGACTTTGTGAACTGGGGA
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 5600
+Ref:  AACACCCGTCGTACAGTAGCTCATGGGGATTTCCACCCCAGGCTAGAGGTATATAATGGCCGTGCACAGAGCTTCTGTTGTCCCTGGTGTGATCAAAAGA
+Diff:                                                                                                     
+Cons: AACACCCGTCGTACAGTAGCTCATGGGGATTTCCACCCCAGGCTAGAGGTATATAATGGCCGTGCACAGAGCTTCTGTTGTCCCTGGTGTGATCAAAAGA
+Read: AACACCCGTCGTACAG
+Read: AACACCCG
+Read: .................................................TATATAATGGCCGTGCACAGAGCTTCTGTTGTCCCTGGTGTGATCAAAAG
+Read: AACACCCGTCGTACAGTAGCTCATGGGGATTTCCA
+Read: ...........................................................CCGTGCACAGAGCTTCTGTTGTCCCTGGTGTGATCAAAAGA
+Read: ...................................................................................CTGGTGTGATCAAAAGA
+Read: ....................................................................................................
+Read: AACACCCGTCGTACAGTAGCTCATGGG.........................................................................
+Read:       CGTCGTACAGTAGCTCATGGGGATTTCCACCCCAGGCTAGAGGTATATAA............................................
+Read:              CAGTAGCTCATGGGGATTTCCACCCCAGGCTAGAGGTATATAATGGCCGT.....................................
+Read:                  AGCTCATGGGGATTTCCACCCCAGGCTAGAGGTATATAATGGCCGTGCAC.................................
+Read:                            GATTTCCACCCCAGGCTAGAGGTATATAATGGCCGTGCACAGAGCTTCTG.......................
+Read:                             ATTTCCACCCCAGGCTAGAGGTATATAATGGCCGTGCACAGAGCTTCTGT......................
+Read:                                 CCACCCCAGGCTAGAGGTATATAATGGCCGTGCACAGAGCTTCTGTTGTC..................
+Read:                                   ACCCCAGGCTAGAGGTATATAATGGCCGTGCACAGAGCTTCTGTTGTCCC................
+Read:                                    CCCCAGGCTAGAGGTATATAATGGCCGTGCACAGAGCTTCTGTTGTCCCT...............
+Read:                                                  TATATAATGGCCGTGCACAGAGCTTCTGTTGTCCCTGGTGTGATCAAAAG.
+Read:                                                                 CACAGAGCTTCTGTTGTCCCTGGTGTGATCAAAAGA
+Read:                                                                          TCTGTTGTCCCTGGTGTGATCAAAAGA
+Read:                                                                          TCTGTTGTCCCTGGTGTGATCAAAAGA
+Read:                                                                                             TCAAAAGA
+Read:                                                                                             TCAAAAGA
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 5700
+Ref:  GTGGATACATCTGACAGGTACCGCAATGATCATTGGGTGCGGCTTCTCACATGTCTATCACGGATGGAGCGGGCCTTTACCGACAACAATCAGAGCTCCC
+Diff:                                                                                                     
+Cons: GTGGATACATCTGACAGGTACCGCAATGATCATTGGGTGCGGCTTCTCACATGTCTATCACGGATGGAGCGGGCCTTTACCGACAACAATCAGAGCTCCC
+Read: GTGGATACATCTGACAGGTACCGCAATGATCATTGGGTGCGGCTTCTCAC..................................................
+Read:       ACATCTGACAGGTACCGCAATGATCATTGGGTGCGGCTTCTCACATGTCT............................................
+Read:                   TACCGCAATGATCATTGGGTGCGGCTTCTCACATGTCTATCACGGATGGA................................
+Read:                               CATTGGGTGCGGCTTCTCACATGTCTATCACGGATGGAGCGGGCCTTTAC....................
+Read: GTGGATACA
+Read: GTGGATACATCTGACAGGTACCGCAATGATCAT
+Read: .....TACATCTGACAGGTACCGCAATGATCATTGGGTGCGGCTTCTCACATGTC
+Read: ...............................ATTGGGTGCGGCTTCTCACATGTCTATCACGGATGGAGCGGGCCTTTACC
+Read: .....................................................TCTATCACGGATGGAGCGGGCCTTTACCGACAACAATCAGAGCTCCC
+Read: ......................................................................GGGCCTTTACCGACAACAATCAGAGCTCCC
+Read: .............................................................GGATGGAGCGGGCCTTTACCGACAACAATCAGAGCTCCC
+Read: .........................................................................CCTTTACCGACAACAATCAGAGCTCCC
+Read: ........................................................................................ATCAGAGCTCCC
+Read: ...............................................................................CCGACAACAATCAGAGCTCCC
+Read: ..........................................................................................CAGAGCTCCC
+Read: ..............................................................................................GCTCCC
+Read: ................................................................................................TCCC
+Read: GTGGATACATCTGA......................................................................................
+Read: GTGGATACATCTGACAGGTACCG.............................................................................
+Read: GTGGATACATCTGACAGGTACCG.............................................................................
+Read: GTGGATACATCTGACAGGTACCGCAATGATCATTGGGTGCGG..........................................................
+Read: GTGGATACATCTGACAGGTACCGCAATGATCATTGGGTGCGG..........................................................
+Read:                                 TTGGGTGCGGCTTCTCACATGTCTATCACGGATGGAGCGGGCCTTTACCG..................
+Read:                                               TCACATGTCTATCACGGATGGAGCGGGCCTTTACCGACAACAATCAGAGC....
+Read:                                                  CATGTCTATCACGGATGGAGCGGGCCTTTACCGACAACAATCAGAGCTCC.
+Read:                                                         ATCACGGATGGAGCGGGCCTTTACCGACAACAATCAGAGCTCCC
+Read:                                                                  GGAGCGGGCCTTTACCGACAACAATCAGAGCTCCC
+Read:                                                                  GGAGCGGGCCTTTACCGACAACAATCAGAGCTCCC
+Read:                                                                      CGGGCCTTTACCGACAACAATCAGAGCTCCC
+Read:                                                                             TTACCGACAACAATCAGAGCTCCC
+Read:                                                                                 CGACAACAATCAGAGCTCCC
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 5800
+Ref:  TTACTTACTGCTTATGAGGAAGCGCTGCTGCTACGTGGCGGAGTACACTTCTCAGGGCAGAAAGGGCATATCACTAAACCGGAGCACTTTGTTGAACCCG
+Diff:                                                                                                     
+Cons: TTACTTACTGCTTATGAGGAAGCGCTGCTGCTACGTGGCGGAGTACACTTCTCAGGGCAGAAAGGGCATATCACTAAACCGGAGCACTTTGTTGAACCCG
+Read: ..........................................GTACACTTCTCAGGGCAGAAAGGGCATATCACTAAACCGGAGCACTTTGT
+Read: ........................................................GCAGAAAGGGCATATCACTAAACCGGAGCACTTTGTTGAACCCG
+Read: ......................................................................TCACTAAACCGGAGCACTTTGTTGAACCCG
+Read: .....................................................................................ACTTTGTTGAACCCG
+Read:                                         GAGTACACTTCTCAGGGCAGAAAGGGCATATCACTAAACCGGAGCACTTT..........
+Read:                                                          CAGAAAGGGCATATCACTAAACCGGAGCACTTTGTTGAACCCG
+Read:                                                                 GGCATATCACTAAACCGGAGCACTTTGTTGAACCCG
+Read:                                                                      ATCACTAAACCGGAGCACTTTGTTGAACCCG
+Read: TTA
+Read: TTACTTACTGCTTATGAGGA
+Read: TTACTTACTGC
+Read: TTACTTACTGCTTATGAGGAAGC
+Read: TTACTTACTGCTTATGAGGAAGCGCTGCTGCTACGTGG
+Read: TTACTTACTGCTTATGAGGAAGCGCTGCT
+Read: TTACTTACTGCTTATGAGGAAGCGCTGCTGCTACGTGGCG
+Read: TTACTTACTGCTTATGAGGAAGCGCTGCTGCTACGTGGCGGAGT
+Read: TTACTTACTGCTTATGAGGAAGCGCTGCTGCTACGTGGCGGAGTAC
+Read: ....TTACTGCTTATGAGGAAGCGCTGCTGCTACGTGGCGGAGTACACTTCTCA
+Read: ....................AGCGCTGCTGCTACGTGGCGGAGTACACTTCTCAGGGCAGAAAGGGCATA
+Read: .................GGAAGCGCTGCTGCTACGTGGCGGAGTACACTTCTCAGGGCAGAAAGGGC
+Read: .......................................GGAGTACACTTCTCAGGGCAGAAAGGGCATATCACTAAACCGGAGCACTT
+Read: ................................................TTCTCAGGGCAGAAAGGGCATATCACTAAACCGGAGCACTTTGTTGAACC
+Read: ...........................................................................AAACCGGAGCACTTTGTTGAACCCG
+Read: ........................................................................................TTGTTGAACCCG
+Read: ..................................................................................................CG
+Read: TTACTT..............................................................................................
+Read: TTACTTACTGCTTAT.....................................................................................
+Read: TTACTTACTGCTTAT.....................................................................................
+Read: TTACTTACTGCTTATGAGG.................................................................................
+Read: TTACTTACTGCTTATGAGGAAGCGCT..........................................................................
+Read: TTACTTACTGCTTATGAGGAAGCGCTGCTG......................................................................
+Read:                                                                                   AGCACTTTGTTGAACCCG
+Read:                                                                                                ACCCG
+Read:                                                                                                  CCG
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 5900
+Ref:  TACTGCCGGAAAAGGCTCTGCTCTCTTGCTCTTTATAAATTCGGTCCCTGGACCGTTTCGAACCCGAGGCCTCGCATGACTCATAACCTAAGCACGCTAG
+Diff:                                                                                                     
+Cons: TACTGCCGGAAAAGGCTCTGCTCTCTTGCTCTTTATAAATTCGGTCCCTGGACCGTTTCGAACCCGAGGCCTCGCATGACTCATAACCTAAGCACGCTAG
+Read:       CGGAAAAGGCTCTGCTCTCTTGCTCTTTATAAATTCGGTCCCTGGACCGT............................................
+Read: TACTGC
+Read: TACTGCCGGAAAAGGCTCTG
+Read: TACTGCCGGAAAAGGCTCTGCTCTCTTGCTCTTTA
+Read: ..................................................................................................AG
+Read: TACTGCC.............................................................................................
+Read: TACTGCCGGAAAAG......................................................................................
+Read: TACTGCCGGAAAAGGCTCT.................................................................................
+Read:       CGGAAAAGGCTCTGCTCTCTTGCTCTTTATAAATTCGGTCCCTGGACCGT............................................
+Read:                     CTCTCTTGCTCTTTATAAATTCGGTCCCTGGACCGTTTCGAACCCGAGGC..............................
+Read:                      TCTCTTGCTCTTTATAAATTCGGTCCCTGGACCGTTTCGAACCCGAGGCC.............................
+Read:                                   ATAAATTCGGTCCCTGGACCGTTTCGAACCCGAGGCCTCGCATGACTCAT................
+Read:                                     AAATTCGGTCCCTGGACCGTTTCGAACCCGAGGCCTCGCATGACTCATAA..............
+Read:                                                                                                   AG
+Read:
+Read:
+Read:
+Read:
+Read:
+Read:
+Read:
+Read:
+Read: TACTGCCGGAAAAGGCTCTGCTCTC
+Read: TACTGCCGGAAAAGGCTCTGCTCTCTTGCTCTTTATAA
+Read: TACTGCCGGAAAAGGCTCTGCTCTCTTGCTCTTTATAAATTCGGTCCC
+Read: ....GCCGGAAAAGGCTCTGCTCTCTTGCTCTTTATAAATTCGGTCCCTGGACC
+Read: ...................GCTCTCTTGCTCTTTATAAATTCGGTCCCTGGACCGTTTCGAACCCGAGG
+Read: .................CTGCTCTCTTGCTCTTTATAAATTCGGTCCCTGGACCGTTTCGAACCCGA
+Read: ............................CTCTTTATAAATTCGGTCCCTGGACCGTTTCGAACCCGAGGCCTCGCATG
+Read: ................TCTGCTCTCTTGCTCTTTATAAATTCGGTCCCTGGACCGTTTCGAACCCG
+Read: .............................TCTTTATAAATTCGGTCCCTGGACCGTTTCGAACCCGAGGCCTCGCATGA
+Read: TACTGCCGGAAAAGGCTCTGCTCTCTTGCTCT....................................................................
+Read: TACTGCCGGAAAAGGCTCTGCTCTCTTGCTCTTTATAAATTCGGT.......................................................
+Read: TACTGCCGGAAAAGGCTCTGCTCTCTTGCTCTTTATAAATTCGGTCC.....................................................
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 6000
+Ref:  TAAGGGGACTGCGTGCTACAGAGAGAATTAGGTCATACCTCCGATCGCAGGTTAAATCGCGACTAGTAGAAATAGAATAGGTAGTGGATCCCTTTAGCTT
+Diff:                                                                                                     
+Cons: TAAGGGGACTGCGTGCTACAGAGAGAATTAGGTCATACCTCCGATCGCAGGTTAAATCGCGACTAGTAGAAATAGAATAGGTAGTGGATCCCTTTAGCTT
+Read: ...............................................................TAGTAGAAATAGAATAGGTAGTGGATCCCTTTAGCTT
+Read:   AGGGGACTGCGTGCTACAGAGAGAATTAGGTCATACCTCCGATCGCAGGT................................................
+Read:                  ACAGAGAGAATTAGGTCATACCTCCGATCGCAGGTTAAATCGCGACTAGT.................................
+Read:                              AGGTCATACCTCCGATCGCAGGTTAAATCGCGACTAGTAGAAATAGAATA.....................
+Read: TAAGGGGACTGCGTGCTACAGAGAGAATTAGGTCATACCTCCGATCGC
+Read: ............GTGCTACAGAGAGAATTAGGTCATACCTCCGATCGCAGGTTAAATCGCGA
+Read: ...............CTACAGAGAGAATTAGGTCATACCTCCGATCGCAGGTTAAATCGCGACTA
+Read: ...................AGAGAGAATTAGGTCATACCTCCGATCGCAGGTTAAATCGCGACTAGTAG
+Read: ................................................AGGTTAAATCGCGACTAGTAGAAATAGAATAGGTAGTGGATCCCTTTAGC
+Read: ..................................................................TAGAAATAGAATAGGTAGTGGATCCCTTTAGCTT
+Read: .....................................................................AAATAGAATAGGTAGTGGATCCCTTTAGCTT
+Read: ............................................................................ATAGGTAGTGGATCCCTTTAGCTT
+Read: ...............................................................................GGTAGTGGATCCCTTTAGCTT
+Read: TAAGGGGACTGCGTGCTACAGAGAGAATTAGGTCATACCTCCGATCGC....................................................
+Read:                                              CGCAGGTTAAATCGCGACTAGTAGAAATAGAATAGGTAGTGGATCCCTTT.....
+Read:                                                    TTAAATCGCGACTAGTAGAAATAGAATAGGTAGTGGATCCCTTTAGCTT
+Read:                                                       AATCGCGACTAGTAGAAATAGAATAGGTAGTGGATCCCTTTAGCTT
+Read:                                                                 AGTAGAAATAGAATAGGTAGTGGATCCCTTTAGCTT
+Read:                                                                             ATAGGTAGTGGATCCCTTTAGCTT
+Read:
+Read:
+Read:
+Read:
+Read:
+Read:
+Read:
+Read:
+Read:
+Read:
+Read:
+Read:
+Read: ........................................CCGATCGCAGGTTAAATCGCGACTAGTAGAAATAGAATAGGTAGTGGATC
+Read: .......................................TCCGATCGCAGGTTAAATCGCGACTAGTAGAAATAGAATAGGTAGTGGAT
+Read: ..........................................GATCGCAGGTTAAATCGCGACTAGTAGAAATAGAATAGGTAGTGGATCCC
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 6100
+Ref:  ACTCGCAACAGCCTGTGTACTTTAGTTATATTACGGCAGTAGGAACATGTAGTAATGCAAGTGGCCCGCCCTCCGAGGCCGTCATCCCTTGATTGATCAT
+Diff:                                                                                                     
+Cons: ACTCGCAACAGCCTGTGTACTTTAGTTATATTACGGCAGTAGGAACATGTAGTAATGCAAGTGGCCCGCCCTCCGAGGCCGTCATCCCTTGATTGATCAT
+Read: ACTCGCAACAGCC
+Read: ............................................................GTGGCCCGCCCTCCGAGGCCGTCATCCCTTGATTGATCAT
+Read: .......................................................................TCCGAGGCCGTCATCCCTTGATTGATCAT
+Read: ........................................................................................TTGATTGATCAT
+Read:         CAGCCTGTGTACTTTAGTTATATTACGGCAGTAGGAACATGTAGTAATGC..........................................
+Read:            CCTGTGTACTTTAGTTATATTACGGCAGTAGGAACATGTAGTAATGCAAG.......................................
+Read:              TGTGTACTTTAGTTATATTACGGCAGTAGGAACATGTAGTAATGCAAGTG.....................................
+Read:                TGTACTTTAGTTATATTACGGCAGTAGGAACATGTAGTAATGCAAGTGGC...................................
+Read:                            ATATTACGGCAGTAGGAACATGTAGTAATGCAAGTGGCCCGCCCTCCGAG.......................
+Read: ACTCGCAACAGCCTGT
+Read: ACTCGCAACAGCCTGTGTA
+Read: ACTCGCAACAGCCTGTGTACTTTAGT
+Read: ACTCGCAACAGCCTGTGTACTTTAGTTAT
+Read: ...............................................TGTAGTAATGCAAGTGGCCCGCCCTCCGAGGCCGTCATCCCTTGATTGAT
+Read: ...........................................................................................ATTGATCAT
+Read: A...................................................................................................
+Read: ACTC................................................................................................
+Read: ACTCGCAACAGCCT......................................................................................
+Read: ACTCGCAACAGCCTGTGTACTTTAGT..........................................................................
+Read:                              ATTACGGCAGTAGGAACATGTAGTAATGCAAGTGGCCCGCCCTCCGAGGC.....................
+Read:                                               ATGTAGTAATGCAAGTGGCCCGCCCTCCGAGGCCGTCATCCCTTGATTGA....
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 6200
+Ref:  ACTGGGTGGTACCAGCAGCACCCGCACACATCAAGTAGCGGGCCATTGTTGTGACATAGCCTTCTCCACATGATCACTCGCACCCGCGCGTTATTCTGGG
+Diff:                                                                                                     
+Cons: ACTGGGTGGTACCAGCAGCACCCGCACACATCAAGTAGCGGGCCATTGTTGTGACATAGCCTTCTCCACATGATCACTCGCACCCGCGCGTTATTCTGGG
+Read:            CCAGCAGCACCCGCACACATCAAGTAGCGGGCCATTGTTGTGACATAGCC.......................................
+Read: ACTGGGTGGT
+Read: ACTGGGTGGTACCAGCAGCAC
+Read: ACTGGGTGGTACCAGCAGCACCCGCACACATCAAGTAG
+Read: ...............................................................CTCCACATGATCACTCGCACCCGCGCGTTATTCTGGG
+Read: ...........................................................CCTTCTCCACATGATCACTCGCACCCGCGCGTTATTCTGGG
+Read: ...........................................................CCTTCTCCACATGATCACTCGCACCCGCGCGTTATTCTGGG
+Read: .............................................................TTCTCCACATGATCACTCGCACCCGCGCGTTATTCTGGG
+Read: ..........................................................................CACTCGCACCCGCGCGTTATTCTGGG
+Read:                 AGCACCCGCACACATCAAGTAGCGGGCCATTGTTGTGACATAGCCTTCTC..................................
+Read:                                                      ACATAGCCTTCTCCACATGATCACTCGCACCCGCGCGTTATTCTGGG
+Read:                                                      ACATAGCCTTCTCCACATGATCACTCGCACCCGCGCGTTATTCTGGG
+Read:                                                      ACATAGCCTTCTCCACATGATCACTCGCACCCGCGCGTTATTCTGGG
+Read:                                                         TAGCCTTCTCCACATGATCACTCGCACCCGCGCGTTATTCTGGG
+Read: ACTGGGTGGTACCAGCAGCACCCGCACACATCAAGTAGCGG
+Read: ...........CCAGCAGCACCCGCACACATCAAGTAGCGGGCCATTGTTGTGACATAGCC
+Read: .........TACCAGCAGCACCCGCACACATCAAGTAGCGGGCCATTGTTGTGACATAG
+Read: ....GGTGGTACCAGCAGCACCCGCACACATCAAGTAGCGGGCCATTGTTGTGA
+Read: ................................AAGTAGCGGGCCATTGTTGTGACATAGCCTTCTCCACATGATCACTCGCA
+Read: ...............................................................................GCACCCGCGCGTTATTCTGGG
+Read: ......................................................................................CGCGTTATTCTGGG
+Read:                                                                CTCCACATGATCACTCGCACCCGCGCGTTATTCTGGG
+Read:                                                                   CACATGATCACTCGCACCCGCGCGTTATTCTGGG
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 6300
+Ref:  GTTTGACGCACCTCAATCGGCGCCCGTATAGGACCGTAGGGACAGTCTCTAATGGTTTATAATCCCACATCTAACACGGGCAGAGATATCGATGTTGAAA
+Diff:                                                                                                     
+Cons: GTTTGACGCACCTCAATCGGCGCCCGTATAGGACCGTAGGGACAGTCTCTAATGGTTTATAATCCCACATCTAACACGGGCAGAGATATCGATGTTGAAA
+Read: ..........................................................ATAATCCCACATCTAACACGGGCAGAGATATCGATGTTGAAA
+Read:                                                                              GGGCAGAGATATCGATGTTGAAA
+Read:                                                                                   GAGATATCGATGTTGAAA
+Read:                                                                                             TGTTGAAA
+Read: GTTTGACGCACCT
+Read: GTTTGACGC
+Read: GTTTGACGC
+Read: GTTTGACGCAC
+Read: GTTTGACGCACCTCAATCGGCGCC
+Read: ..........................................................................CACGGGCAGAGATATCGATGTTGAAA
+Read: GTT.................................................................................................
+Read: GTT.................................................................................................
+Read: GTT.................................................................................................
+Read: GTTTGA..............................................................................................
+Read:
+Read:
+Read:
+Read:
+Read:
+Read: GTTTGACGCACCTCAATCGGCGCCCGTAT
+Read: GTTTGACGCACCTCAATCGGCGCCCGTATAGGACCG
+Read: GTTTGACGCACCT.......................................................................................
+Read: GTTTGACGCACCTCAA....................................................................................
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 6400
+Ref:  CGTGTGATGCCAACTACGCGGGCTGATCGTGTCCGGCTATGTCAATATACCTTTAGCCCCCCCTCCTTACAATTTGTGCAGCCGAGAGGGCGCAGGTCGC
+Diff:                                                                                                     
+Cons: CGTGTGATGCCAACTACGCGGGCTGATCGTGTCCGGCTATGTCAATATACCTTTAGCCCCCCCTCCTTACAATTTGTGCAGCCGAGAGGGCGCAGGTCGC
+Read: CGTGTGAT
+Read: CGTGTGATGCCAACTACGCGGGCTGAT.........................................................................
+Read: CGTGTGATGCCAACTACGCGGGCTGATCGTGT....................................................................
+Read: CGTGTGATGCCAACTACGCGGGCTGATCGTGTCCGGCTATGT..........................................................
+Read:  GTGTGATGCCAACTACGCGGGCTGATCGTGTCCGGCTATGTCAATATACC.................................................
+Read:                                                  CCTTTAGCCCCCCCTCCTTACAATTTGTGCAGCCGAGAGGGCGCAGGTCG.
+Read:                                                                    TACAATTTGTGCAGCCGAGAGGGCGCAGGTCGC
+Read:                                                                             TGCAGCCGAGAGGGCGCAGGTCGC
+Read:                                                                                       AGGGCGCAGGTCGC
+Read: CGTGTGATGCCAACTACGCGGGCT
+Read: ......ATGCCAACTACGCGGGCTGATCGTGTCCGGCTATGTCAATATACCTTTAG
+Read: .GTGTGATGCCAACTACGCGGGCTGATCGTGTCCGGCTATGTCAATATACC
+Read: .GTGTGATGCCAACTACGCGGGCTGATCGTGTCCGGCTATGTCAATATACC
+Read: .GTGTGATGCCAACTACGCGGGCTGATCGTGTCCGGCTATGTCAATATACC
+Read:                                                                                       AGGGCGCAGGTCGC
+Read:
+Read:
+Read:
+Read:
+Read:
+Read:
+Read: ............ACTACGCGGGCTGATCGTGTCCGGCTATGTCAATATACCTTTAGCCCCCC
+Read: ..................CGGGCTGATCGTGTCCGGCTATGTCAATATACCTTTAGCCCCCCCTCCTT
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 6500
+Ref:  GTGGATACGCCCGGTGTTATACTACATAGACGAGCAAGGTCCCCATAACTAAGTAGGGGCTGGCCTGATCAGGCGCTTTGCACAGATGACAGGTGGTGTT
+Diff:                                                                                                     
+Cons: GTGGATACGCCCGGTGTTATACTACATAGACGAGCAAGGTCCCCATAACTAAGTAGGGGCTGGCCTGATCAGGCGCTTTGCACAGATGACAGGTGGTGTT
+Read:    GATACGCCCGGTGTTATACTACATAGACGAGCAAGGTCCCCATAACTAAG...............................................
+Read: .................................GCAAGGTCCCCATAACTAAGTAGGGGCTGGCCTGATCAGGCGCTTTGCAC
+Read: ........................................CCCCATAACTAAGTAGGGGCTGGCCTGATCAGGCGCTTTGCACAGATGAC
+Read: ..................................................AAGTAGGGGCTGGCCTGATCAGGCGCTTTGCACAGATGACAGGTGGTGTT
+Read: ..................................................AAGTAGGGGCTGGCCTGATCAGGCGCTTTGCACAGATGACAGGTGGTGTT
+Read: ....................................................................................................
+Read: GTGGATACGCCCGGTGT...................................................................................
+Read: GTGGATACGCCCGGTGTTATACTACA..........................................................................
+Read: GTGGATACGCCCGGTGTTATACTACATAGACGAGCA................................................................
+Read:            CGGTGTTATACTACATAGACGAGCAAGGTCCCCATAACTAAGTAGGGGCT.......................................
+Read:                         CATAGACGAGCAAGGTCCCCATAACTAAGTAGGGGCTGGCCTGATCAGGC..........................
+Read:                           TAGACGAGCAAGGTCCCCATAACTAAGTAGGGGCTGGCCTGATCAGGCGC........................
+Read:                                      GGTCCCCATAACTAAGTAGGGGCTGGCCTGATCAGGCGCTTTGCACAGAT.............
+Read:
+Read: GTGGATACGCCCGGTGTTATACTACATAGACGAGCA................................................................
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 6600
+Ref:  TCGCATTTTGTCTTATAGTGACACATTGCGAGACCCACCACGGTGCCCCTCGTGACTACTTCTGCAATACGTATAGGGTCACCCCCGCTAGAAACATTCA
+Diff:                                                                                                     
+Cons: TCGCATTTTGTCTTATAGTGACACATTGCGAGACCCACCACGGTGCCCCTCGTGACTACTTCTGCAATACGTATAGGGTCACCCCCGCTAGAAACATTCA
+Read: ..........................................................CTTCTGCAATACGTATAGGGTCACCCCCGCTAGAAACATTCA
+Read:   GCATTTTGTCTTATAGTGACACATTGCGAGACCCACCACGGTGCCCCTCG................................................
+Read:                      CACATTGCGAGACCCACCACGGTGCCCCTCGTGACTACTTCTGCAATACG.............................
+Read:                      CACATTGCGAGACCCACCACGGTGCCCCTCGTGACTACTTCTGCAATACG.............................
+Read:                           TGCGAGACCCACCACGGTGCCCCTCGTGACTACTTCTGCAATACGTATAG........................
+Read: .......TTGTCTTATAGTGACACATTGCGAGACCCACCACGGTGCCCCTCGTGACT
+Read: ...................GACACATTGCGAGACCCACCACGGTGCCCCTCGTGACTACTTCTGCAATA
+Read: ...................GACACATTGCGAGACCCACCACGGTGCCCCTCGTGACTACTTCTGCAATA
+Read: ..........................TGCGAGACCCACCACGGTGCCCCTCGTGACTACTTCTGCAATACGTATAG
+Read: .....................................................................CGTATAGGGTCACCCCCGCTAGAAACATTCA
+Read: .................................................................................CCCCCGCTAGAAACATTCA
+Read: .....................................................................................CGCTAGAAACATTCA
+Read: ....................................................................................CCGCTAGAAACATTCA
+Read:                            GCGAGACCCACCACGGTGCCCCTCGTGACTACTTCTGCAATACGTATAGG.......................
+Read: ..............................................CCCTCGTGACTACTTCTGCAATACGTATAGGGTCACCCCCGCTAGAAACA
+Read:                                          GGTGCCCCTCGTGACTACTTCTGCAATACGTATAGGGTCACCCCCGCTAG.........
+Read:                                                 CTCGTGACTACTTCTGCAATACGTATAGGGTCACCCCCGCTAGAAACATT..
+Read:                                                     TGACTACTTCTGCAATACGTATAGGGTCACCCCCGCTAGAAACATTCA
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 6700
+Ref:  CGCGAAATCATGCGTATTGATGTTAGTCTCGCCCGTTCAGGTAGGGAAGGTCCTATCATGGAATCCTGGATATTGAGCCCATCTCTTTTAACCACACGAG
+Diff:                                                                                                     
+Cons: CGCGAAATCATGCGTATTGATGTTAGTCTCGCCCGTTCAGGTAGGGAAGGTCCTATCATGGAATCCTGGATATTGAGCCCATCTCTTTTAACCACACGAG
+Read: CGCGAAAT
+Read: .................................................GTCCTATCATGGAATCCTGGATATTGAGCCCATCTCTTTTAACCACACGA
+Read: ..........................................................................GAGCCCATCTCTTTTAACCACACGAG
+Read: ......................................................................TATTGAGCCCATCTCTTTTAACCACACGAG
+Read: ..................................................................................CTCTTTTAACCACACGAG
+Read:                                                 GGTCCTATCATGGAATCCTGGATATTGAGCCCATCTCTTTTAACCACACG..
+Read:                                                  GTCCTATCATGGAATCCTGGATATTGAGCCCATCTCTTTTAACCACACGA.
+Read:                                                       ATCATGGAATCCTGGATATTGAGCCCATCTCTTTTAACCACACGAG
+Read:                                                               ATCCTGGATATTGAGCCCATCTCTTTTAACCACACGAG
+Read: CGCGAAATCATGCGTATTG
+Read: CGCGAAATCATGCGTATTGATGTTAGTCTCG
+Read: CGCGAAATCATGCGTATTGATGTTAGTCTCGCCCG
+Read: CGCGAAATCATGCGTATTGATGTTAGTCTCGCCC
+Read: ..........................................................................GAGCCCATCTCTTTTAACCACACGAG
+Read:                                                                    GGATATTGAGCCCATCTCTTTTAACCACACGAG
+Read: ........................................................................................TAACCACACGAG
+Read: ...............................................................................................ACGAG
+Read: CG..............................................................................................CGAG
+Read:                                                                           GAGCCCATCTCTTTTAACCACACGAG
+Read:                                                                                CATCTCTTTTAACCACACGAG
+Read:                                                                                            CCACACGAG
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 6800
+Ref:  GTGTAATGCATCCTCGCGCACCAGCCCCTGATTTAGCCCGCTACCAGTCAAACTTTCAACTAGATTGTCAACGTGTTGGTCGTTATACGTGGATAATCTT
+Diff:                                                                                                     
+Cons: GTGTAATGCATCCTCGCGCACCAGCCCCTGATTTAGCCCGCTACCAGTCAAACTTTCAACTAGATTGTCAACGTGTTGGTCGTTATACGTGGATAATCTT
+Read:  TGTAATGCATCCTCGCGCACCAGCCCCTGATTTAGCCCGCTACCAGTCAA.................................................
+Read:                                                       TTCAACTAGATTGTCAACGTGTTGGTCGTTATACGTGGATAATCTT
+Read: GTGTAATGCATCCTCGCGCACCAG
+Read: GTGTAATGCATCCTCGCGCA
+Read: GTGTAATGCATCCTCGCGCACCAGCCCCTGAT
+Read: ....................................................................................................
+Read: ..............................................................................................AATCTT
+Read: GTGT................................................................................................
+Read: GTGTAATGCATC........................................................................................
+Read:                                                                             TGGTCGTTATACGTGGATAATCTT
+Read:                                                                                     ATACGTGGATAATCTT
+Read:                                                                                       ACGTGGATAATCTT
+Read:                                                                                          TGGATAATCTT
+Read: GTGTAATGCATCCTCGCGCACCAG
+Read: GTGTAATGCATCCTCGC...................................................................................
+Read: GTGTAATGCATCCTCGCGCACCAGCCCCTGATTTAGCC
+Read: GTGTAATGCATCCTCGCGCACCAGCCCCTGATTTAGCCCGCTACC
+Read: GTGTAATGCATCCTCGCGCACCAGCCCCTGATTTAGCCCGCTACCA
+Read: GTGTAATGCATCCTCGCGCACCAG............................................................................
+Read: GTGTAATGCATCCTCGCGCACCAGCCCCT.......................................................................
+Read: GTGTAATGCATCCTCGCGCACCAGCCCCTGATTTAGCCCGC...........................................................
+Read:                                                                                           GGATAATCTT
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 6900
+Ref:  AGTGGTACATTCCATAACTCGTCCCAGTGCACAATGTTCAGAATTCCCTCTGCTGGCGCTTGTGACATTCACTACAAGTTCTGCACAAAGAGAATCAGAC
+Diff:                                                                                                     
+Cons: AGTGGTACATTCCATAACTCGTCCCAGTGCACAATGTTCAGAATTCCCTCTGCTGGCGCTTGTGACATTCACTACAAGTTCTGCACAAAGAGAATCAGAC
+Read: ..............................................CCTCTGCTGGCGCTTGTGACATTCACTACAAGTTCTGCACAAAGAGAATC
+Read: AGTG..........................................................................................TCAGAC
+Read:      TACATTCCATAACTCGTCCCAGTGCACAATGTTCAGAATTCCCTCTGCTG.............................................
+Read:             CATAACTCGTCCCAGTGCACAATGTTCAGAATTCCCTCTGCTGGCGCTTG......................................
+Read:                      TCCCAGTGCACAATGTTCAGAATTCCCTCTGCTGGCGCTTGTGACATTCA.............................
+Read: .......CATTCCATAACTCGTCCCAGTGCACAATGTTCAGAATTCCCTCTGCTGGC
+Read: AGTGGTACATTCCATAACTCGTCCCAGTGCACAATGTTCAGAAT
+Read: .GTGGTACATTCCATAACTCGTCCCAGTGCACAATGTTCAGAATTCCCTCT
+Read: .........TTCCATAACTCGTCCCAGTGCACAATGTTCAGAATTCCCTCTGCTGGCGC
+Read: AGTGGTACATTCCATAACTCGTCCCA..........................................................................
+Read: AGTGGTACATTCCATAACTCGTCCCAGTGCACAA..................................................................
+Read: AGTGGTACATTCCATAACTCGTCCCAGTGCACAATG................................................................
+Read: AGTGGTACATTCCATAACTCGTCCCAGTGCACAATGTTC.............................................................
+Read:                               ACAATGTTCAGAATTCCCTCTGCTGGCGCTTGTGACATTCACTACAAGTT....................
+Read: ........ATTCCATAACTCGTCCCAGTGCACAATGTTCAGAATTCCCTCTGCTGGCG
+Read:                                CAATGTTCAGAATTCCCTCTGCTGGCGCTTGTGACATTCACTACAAGTTC...................
+Read:                                         GAATTCCCTCTGCTGGCGCTTGTGACATTCACTACAAGTTCTGCACAAAG..........
+Read:                                            TTCCCTCTGCTGGCGCTTGTGACATTCACTACAAGTTCTGCACAAAGAGA.......
+Read: .............................CACAATGTTCAGAATTCCCTCTGCTGGCGCTTGTGACATTCACTACAAGT
+Read: .......................CCAGTGCACAATGTTCAGAATTCCCTCTGCTGGCGCTTGTGACATTCACT
+Read: .............................................CCCTCTGCTGGCGCTTGTGACATTCACTACAAGTTCTGCACAAAGAGAAT
+Read: AGTGGTACATTCCATAACTCGTCCCAGTGCACAATGTTCA............................................................
+Read:                                                CTCTGCTGGCGCTTGTGACATTCACTACAAGTTCTGCACAAAGAGAATCA...
+Read:                                                          GCTTGTGACATTCACTACAAGTTCTGCACAAAGAGAATCAGAC
+Read:                                                                         TACAAGTTCTGCACAAAGAGAATCAGAC
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 7000
+Ref:  TTTCTTCAGCTAAGCGGAGTACTTTGGCCTATCTAAAGAGGAGCGCGACGGTGTTCGAATGGGGAACCTCCACTATATCCTACAGGTAGTTCGGAACCCC
+Diff:                                                                                                     
+Cons: TTTCTTCAGCTAAGCGGAGTACTTTGGCCTATCTAAAGAGGAGCGCGACGGTGTTCGAATGGGGAACCTCCACTATATCCTACAGGTAGTTCGGAACCCC
+Read:            AAGCGGAGTACTTTGGCCTATCTAAAGAGGAGCGCGACGGTGTTCGAATG.......................................
+Read: TTTCTTCAGCTAAGCGGAGTACTTTGGCCTATCTAAAGAGGAGC
+Read: .................................................GGTGTTCGAATGGGGAACCTCCACTATATCCTACAGGTAGTTCGGAACCC
+Read: .............................................................GGGAACCTCCACTATATCCTACAGGTAGTTCGGAACCCC
+Read: .........................................................................TATATCCTACAGGTAGTTCGGAACCCC
+Read:             AGCGGAGTACTTTGGCCTATCTAAAGAGGAGCGCGACGGTGTTCGAATGG......................................
+Read:                                      GAGGAGCGCGACGGTGTTCGAATGGGGAACCTCCACTATATCCTACAGGT.............
+Read:                                                  GGTGTTCGAATGGGGAACCTCCACTATATCCTACAGGTAGTTCGGAACCC.
+Read:                                                         GAATGGGGAACCTCCACTATATCCTACAGGTAGTTCGGAACCCC
+Read: .........................GGCCTATCTAAAGAGGAGCGCGACGGTGTTCGAATGGGGAACCTCCACTA
+Read: ........................................GAGCGCGACGGTGTTCGAATGGGGAACCTCCACTATATCCTACAGGTAGT
+Read: ............................................GCGACGGTGTTCGAATGGGGAACCTCCACTATATCCTACAGGTAGTTCGG
+Read: ......................................AGGAGCGCGACGGTGTTCGAATGGGGAACCTCCACTATATCCTACAGGTA
+Read: ......................................................................CACTATATCCTACAGGTAGTTCGGAACCCC
+Read:                                                          AATGGGGAACCTCCACTATATCCTACAGGTAGTTCGGAACCCC
+Read: ........................................................................................GTTCGGAACCCC
+Read: .........................................................................................TTCGGAACCCC
+Read: ..........................................................................................TCGGAACCCC
+Read:                                                                    CTCCACTATATCCTACAGGTAGTTCGGAACCCC
+Read:                                                                         CTATATCCTACAGGTAGTTCGGAACCCC
+Read:                                                                                                  CCC
+Read: ..........................................GCGCGACGGTGTTCGAATGGGGAACCTCCACTATATCCTACAGGTAGTTC
+Read: ............................................................................................GGAACCCC
+Read: TTTCTTC..........................................................................................CCC
+Read: TTTCTTCAGCTAAGCGGAGTAC..............................................................................
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 7100
+Ref:  CTCACGCACCTTCAATTACTAGTCAAGATCCGATCGGGCTAGTACGAACCGCTCCGGCCTATCCTTGAAAACACCTCATCGCGTCTCCCCTAGCAGACCC
+Diff:                                                                                                     
+Cons: CTCACGCACCTTCAATTACTAGTCAAGATCCGATCGGGCTAGTACGAACCGCTCCGGCCTATCCTTGAAAACACCTCATCGCGTCTCCCCTAGCAGACCC
+Read: ....................................................TCCGGCCTATCCTTGAAAACACCTCATCGCGTCTCCCCTAGCAGACCC
+Read:   CACGCACCTTCAATTACTAGTCAAGATCCGATCGGGCTAGTACGAACCGC................................................
+Read:                     AGTCAAGATCCGATCGGGCTAGTACGAACCGCTCCGGCCTATCCTTGAAA..............................
+Read: CTCACGCACCT
+Read: CTCACGCACCTTCAATTACTAGT
+Read: ....................................................TCCGGCCTATCCTTGAAAACACCTCATCGCGTCTCCCCTAGCAGACCC
+Read: ...................................................................................TCTCCCCTAGCAGACCC
+Read: ....................................................................................................
+Read: CTCACG..............................................................................................
+Read:                                 ATCGGGCTAGTACGAACCGCTCCGGCCTATCCTTGAAAACACCTCATCGC..................
+Read:                                          GTACGAACCGCTCCGGCCTATCCTTGAAAACACCTCATCGCGTCTCCCCT.........
+Read:                                                     TCCGGCCTATCCTTGAAAACACCTCATCGCGTCTCCCCTAGCAGACCC
+Read:                                                       CGGCCTATCCTTGAAAACACCTCATCGCGTCTCCCCTAGCAGACCC
+Read: CTCACGCACCTTCAATTACT
+Read: CTCACGC...........................................................................................CC
+Read: CTCACGCACCTTCAATTACTAGTCAAGATCCGATCGGG
+Read: CTCACGCACCTTCAATTACTAGTCAAGATCCGATCGGGC
+Read: CTCACGCACCTTCAATTACTAGTCAAGATCCGATCGGGCT
+Read: CTCACGCACCTTCAATT...................................................................................
+Read: CTCACGCACCTTCAATTACTAG..............................................................................
+Read: CTCACGCACCTTCAATTACTAGTCAAGATCCGATCGGGCTAGTACGA.....................................................
+Read:                                                          CCTATCCTTGAAAACACCTCATCGCGTCTCCCCTAGCAGACCC
+Read: CTCACGCACCTTCAATTACTAGTCAAGATCCGATCGGGCTAG
+Read: CTCACGCACCTTCAATTACTAGTCAAGATCCGATCGGGCTAGTACGA
+Read: ...............TTACTAGTCAAGATCCGATCGGGCTAGTACGAACCGCTCCGGCCTATCCT
+Read:                                                             ATCCTTGAAAACACCTCATCGCGTCTCCCCTAGCAGACCC
+Read:                                                                    AAAACACCTCATCGCGTCTCCCCTAGCAGACCC
+Read:                                                                                 GCGTCTCCCCTAGCAGACCC
+Read:                                                                                             GCAGACCC
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 7200
+Ref:  GTTGGCCACAGGAGACAATTGTACACACTGGCGATTGAGCTGGCTAAAAACGCCGGGCCAAAGCAGGAGCAGCCTGCCACCCCAGGGGGGGGTGAAGCCT
+Diff:                                                                                                     
+Cons: GTTGGCCACAGGAGACAATTGTACACACTGGCGATTGAGCTGGCTAAAAACGCCGGGCCAAAGCAGGAGCAGCCTGCCACCCCAGGGGGGGGTGAAGCCT
+Read: GT
+Read: ..........................................................CAAAGCAGGAGCAGCCTGCCACCCCAGGGGGGGGTGAAGCCT
+Read: .............................................................AGCAGGAGCAGCCTGCCACCCCAGGGGGGGGTGAAGCCT
+Read:    GGCCACAGGAGACAATTGTACACACTGGCGATTGAGCTGGCTAAAAACGC...............................................
+Read:      CCACAGGAGACAATTGTACACACTGGCGATTGAGCTGGCTAAAAACGCCG.............................................
+Read: GT
+Read: GTTGGCCACAGGAGACAATTGTACACACTGGCG
+Read: ...GGCCACAGGAGACAATTGTACACACTGGCGATTGAGCTGGCTAAAAACGC
+Read: ......CACAGGAGACAATTGTACACACTGGCGATTGAGCTGGCTAAAAACGCCGG
+Read: ................................................................................CCCAGGGGGGGGTGAAGCCT
+Read: ........................................................................................GGGGTGAAGCCT
+Read: GT..................................................................................................
+Read: GTTG................................................................................................
+Read:          AGGAGACAATTGTACACACTGGCGATTGAGCTGGCTAAAAACGCCGGGCC.........................................
+Read: GTTGGCCACAGGAGACAATTGTACACACTGGCGATTGAGCTGGCTAAA
+Read:          AGGAGACAATTGTACACACTGGCGATTGAGCTGGCTAAAAACGCCGGGCC.........................................
+Read:           GGAGACAATTGTACACACTGGCGATTGAGCTGGCTAAAAACGCCGGGCCA........................................
+Read:            GAGACAATTGTACACACTGGCGATTGAGCTGGCTAAAAACGCCGGGCCAA.......................................
+Read: ................AATTGTACACACTGGCGATTGAGCTGGCTAAAAACGCCGGGCCAAAGCAG
+Read: ..................TTGTACACACTGGCGATTGAGCTGGCTAAAAACGCCGGGCCAAAGCAGGA
+Read: .....................................AGCTGGCTAAAAACGCCGGGCCAAAGCAGGAGCAGCCTGCCACCCCAGGG
+Read: GTTGGCC.............................................................................................
+Read:                                      AGCTGGCTAAAAACGCCGGGCCAAAGCAGGAGCAGCCTGCCACCCCAGGG.............
+Read:                                                  ACGCCGGGCCAAAGCAGGAGCAGCCTGCCACCCCAGGGGGGGGTGAAGCC.
+Read:                                                                      CAGCCTGCCACCCCAGGGGGGGGTGAAGCCT
+Read: GTTGGCCACA..........................................................................................
+Read: GTTGGCCACAGGAGACA...................................................................................
+Read: GTTGGCCACAGGAGACAATTGTACACACTG......................................................................
+Read: GTTGGCCACAGGAGACAATTGTACACACTGGCGATTGAGCTG..........................................................
+Read:                                                                                             TGAAGCCT
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 7300
+Ref:  TCGGACTACTTTTCTCATCCTGACCTGCCCTGGTTCCACCTCCCAGTCTTCAGCCTACTCTGCGACCCGTGGTGGCGAGTGCAACCAGGGGTCAAAACAT
+Diff:                                                                                                     
+Cons: TCGGACTACTTTTCTCATCCTGACCTGCCCTGGTTCCACCTCCCAGTCTTCAGCCTACTCTGCGACCCGTGGTGGCGAGTGCAACCAGGGGTCAAAACAT
+Read: TCGGACTACTTTTCTCATCCTGACCTGCCCTGGTTCCACCTCCCAGTCTT..................................................
+Read: TCGGACTA
+Read: TCGGACTACTT
+Read: ..........................................................TCTGCGACCCGTGGTGGCGAGTGCAACCAGGGGTCAAAACAT
+Read: ..........................................................TCTGCGACCCGTGGTGGCGAGTGCAACCAGGGGTCAAAACAT
+Read:               TCATCCTGACCTGCCCTGGTTCCACCTCCCAGTCTTCAGCCTACTCTGCG....................................
+Read:                CATCCTGACCTGCCCTGGTTCCACCTCCCAGTCTTCAGCCTACTCTGCGA...................................
+Read:                                                                              AGTGCAACCAGGGGTCAAAACAT
+Read:                                                                                TGCAACCAGGGGTCAAAACAT
+Read: TCGGACTACTTTTCTCATCCTGACCTGCCC
+Read: TCGGACTACTTTTCTCATCCTGACCTGCCCTGGTTCCA
+Read: .CGGACTACTTTTCTCATCCTGACCTGCCCTGGTTCCACCTCCCAGTCTTC
+Read: .......ACTTTTCTCATCCTGACCTGCCCTGGTTCCACCTCCCAGTCTTCAGCCTA
+Read: .................................................................CCCGTGGTGGCGAGTGCAACCAGGGGTCAAAACAT
+Read:                                                                                      CAGGGGTCAAAACAT
+Read: ...................................................................CGTGGTGGCGAGTGCAACCAGGGGTCAAAACAT
+Read: .................................................................CCCGTGGTGGCGAGTGCAACCAGGGGTCAAAACAT
+Read: ..............................................................CGACCCGTGGTGGCGAGTGCAACCAGGGGTCAAAACAT
+Read:
+Read:
+Read:
+Read: ...............CATCCTGACCTGCCCTGGTTCCACCTCCCAGTCTTCAGCCTACTCTGCGA
+Read: .................................................................................CAACCAGGGGTCAAAACAT
+Read: ....................................................................................................
+Read: TCGGACTACTTTTCTCATC.................................................................................
+Read: ......TACTTTTCTCATCCTGACCTGCCCTGGTTCCACCTCCCAGTCTTCAGCCT
+Read: ..............TCATCCTGACCTGCCCTGGTTCCACCTCCCAGTCTTCAGCCTACTCTGCG
+Read: ..............................TGGTTCCACCTCCCAGTCTTCAGCCTACTCTGCGACCCGTGGTGGCGAGT
+Read: ..................................TCCACCTCCCAGTCTTCAGCCTACTCTGCGACCCGTGGTGGCGAGTGCAA
+Read: TCGGACTACTTTTCTCATCCTGACCTGCCCTGGTTCCACCTC..........................................................
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 7400
+Ref:  TGGTCGCCTCTTACCACTGGCTCAGATCGGCAACCCCCCTGGGGCCGGCACACAAGAAAGCAGCGCGATCCGACCATTTTGGGGTATCTTACGTGACTCC
+Diff:                                                                                                     
+Cons: TGGTCGCCTCTTACCACTGGCTCAGATCGGCAACCCCCCTGGGGCCGGCACACAAGAAAGCAGCGCGATCCGACCATTTTGGGGTATCTTACGTGACTCC
+Read: ....................................................CAAGAAAGCAGCGCGATCCGACCATTTTGGGGTATCTTACGTGACTCC
+Read:             ACCACTGGCTCAGATCGGCAACCCCCCTGGGGCCGGCACACAAGAAAGCA......................................
+Read:                ACTGGCTCAGATCGGCAACCCCCCTGGGGCCGGCACACAAGAAAGCAGCG...................................
+Read: TGGTCGCC
+Read: TGGTCGCC
+Read: ...............................................................CGCGATCCGACCATTTTGGGGTATCTTACGTGACTCC
+Read: ..................................................................GATCCGACCATTTTGGGGTATCTTACGTGACTCC
+Read: TGGTCGCCTCTTACCACTGGCTCAGAT.........................................................................
+Read: TGGTCGCCTCTTACCACTGGCTCAGATCG.......................................................................
+Read:                     CTCAGATCGGCAACCCCCCTGGGGCCGGCACACAAGAAAGCAGCGCGATC..............................
+Read:                         GATCGGCAACCCCCCTGGGGCCGGCACACAAGAAAGCAGCGCGATCCGAC..........................
+Read:                                          GGGCCGGCACACAAGAAAGCAGCGCGATCCGACCATTTTGGGGTATCTTA.........
+Read:                                                GCACACAAGAAAGCAGCGCGATCCGACCATTTTGGGGTATCTTACGTGAC...
+Read: TGGTCGCCTCTTACC
+Read: TGGTCGCCTCTTACCACTGGCTCAGATCGGCAACC.................................................................
+Read: TGGTCGCCTCTTACCAC
+Read: TGGTCGCCTCTTACC
+Read: TGGTCGCCTCTT
+Read:                                                      AAGAAAGCAGCGCGATCCGACCATTTTGGGGTATCTTACGTGACTCC
+Read:                                                                                         TTACGTGACTCC
+Read:                                                                                                ACTCC
+Read:                                                                                                    C
+Read: TGGTCGCCTCTTACCACTGGCTCAGATCGGC
+Read: .GGTCGCCTCTTACCACTGGCTCAGATCGGCAACCCCCCTGGGGCCGGCAC
+Read: ....................CTCAGATCGGCAACCCCCCTGGGGCCGGCACACAAGAAAGCAGCGCGATC
+Read:
+Read:
+Read:
+Read:
+Read: ...................................CCCCTGGGGCCGGCACACAAGAAAGCAGCGCGATCCGACCATTTTGGGGT
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 7500
+Ref:  CCTAGCGGCCGGGTTCCGCCTAGAATCAAGTGATGCACTCTAGCATCTCGCCGGACAAGGACCAACGCAAACAGCCCCCAAGAGACAAGCGATTCTAGAA
+Diff:                                                                                                     
+Cons: CCTAGCGGCCGGGTTCCGCCTAGAATCAAGTGATGCACTCTAGCATCTCGCCGGACAAGGACCAACGCAAACAGCCCCCAAGAGACAAGCGATTCTAGAA
+Read: CC
+Read: ...................................................................CAAACAGCCCCCAAGAGACAAGCGATTCTAGAA
+Read: ..................................................................GCAAACAGCCCCCAAGAGACAAGCGATTCTAGAA
+Read:    AGCGGCCGGGTTCCGCCTAGAATCAAGTGATGCACTCTAGCATCTCGCCG...............................................
+Read:         CCGGGTTCCGCCTAGAATCAAGTGATGCACTCTAGCATCTCGCCGGACAA..........................................
+Read: CCTAGCGGCCGGG
+Read: CCTAGCGGCCGGGTTC
+Read: ......................GAATCAAGTGATGCACTCTAGCATCTCGCCGGACAAGGACCAACGCAAAC
+Read: ..................................GCACTCTAGCATCTCGCCGGACAAGGACCAACGCAAACAGCCCCCAAGAG
+Read: ..........................................................................CCCCCAAGAGACAAGCGATTCTAGAA
+Read: ...........................................................................CCCCAAGAGACAAGCGATTCTAGAA
+Read: ..................................................................................................AA
+Read: ....................................................................................................
+Read:                       GAATCAAGTGATGCACTCTAGCATCTCGCCGGACAAGGACCAACGCAAAC............................
+Read: ........................................TAGCATCTCGCCGGACAAGGACCAACGCAAACAGCCCCCAAGAGACAAGC
+Read:                       GAATCAAGTGATGCACTCTAGCATCTCGCCGGACAAGGACCAACGCAAAC............................
+Read:                                      CTCTAGCATCTCGCCGGACAAGGACCAACGCAAACAGCCCCCAAGAGACA.............
+Read:                                          AGCATCTCGCCGGACAAGGACCAACGCAAACAGCCCCCAAGAGACAAGCG.........
+Read: CCT...............................................................................................AA
+Read: CCTAGCGGCCGGGTTCCGCCTAGAATCAAGTGATGCAC..............................................................
+Read: CCTAGCGGCCGGGTTCCGCCTAGAATCAAGTGATGCACTCTAGCA.......................................................
+Read: CCTAGCGGCCGGGTTCCGCCTAGAATCAAGTGATGCACTCTAGCATCTC...................................................
+Read:                                            CATCTCGCCGGACAAGGACCAACGCAAACAGCCCCCAAGAGACAAGCGAT.......
+Read:                                                 CGCCGGACAAGGACCAACGCAAACAGCCCCCAAGAGACAAGCGATTCTAG..
+Read:                                                                 ACGCAAACAGCCCCCAAGAGACAAGCGATTCTAGAA
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 7600
+Ref:  TCGGGGGGCGCTGGGTAGGCCATACCATGTCCCGAGTCTCTCCCCTCTGCTGCTAAACCGTCGGGATGAGAGACTCTCCTGAAGGAAAAAGGTATTAGAG
+Diff:                                                                                                     
+Cons: TCGGGGGGCGCTGGGTAGGCCATACCATGTCCCGAGTCTCTCCCCTCTGCTGCTAAACCGTCGGGATGAGAGACTCTCCTGAAGGAAAAAGGTATTAGAG
+Read:                  GGCCATACCATGTCCCGAGTCTCTCCCCTCTGCTGCTAAACCGTCGGGAT.................................
+Read: TCGGGGGGCGCTGGGTA
+Read: TCGGGGGGCGCTGGGT
+Read: .......................................................AACCGTCGGGATGAGAGACTCTCCTGAAGGAAAAAGGTATTAGAG
+Read: ...................................................................GAGAGACTCTCCTGAAGGAAAAAGGTATTAGAG
+Read:                                                                                                  GAG
+Read:
+Read:
+Read:
+Read: TCGGGGGGCGCTGGGTAGGCCATA
+Read: TCGGGGGGCGCTGGGTAGGCCATAC
+Read: TCGGGGGGCGCTGGGTAGGCCATACCATGTCCCGAGTCTCTCCCCTCT
+Read: ......GGCGCTGGGTAGGCCATACCATGTCCCGAGTCTCTCCCCTCTGCTGCTAA
+Read: ..................................................................................AGGAAAAAGGTATTAGAG
+Read:
+Read: ..............................................................GGGATGAGAGACTCTCCTGAAGGAAAAAGGTATTAGAG
+Read: ...................................................................................GGAAAAAGGTATTAGAG
+Read: .............................................................................................ATTAGAG
+Read: TCGGGGGGCGCTGGGTAGGCCATACCATGTCCCGAGTCTCTCCCCTCT
+Read: .......................................CTCCCCTCTGCTGCTAAACCGTCGGGATGAGAGACTCTCCTGAAGGAAAA
+Read: ..............................................CTGCTGCTAAACCGTCGGGATGAGAGACTCTCCTGAAGGAAAAAGGTATT
+Read: ........................................TCCCCTCTGCTGCTAAACCGTCGGGATGAGAGACTCTCCTGAAGGAAAAA
+Read: ..........................................................................................GGTATTAGAG
+Read: ....................................................................................................
+Read: TCGGGGGGCGCTGG......................................................................................
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 7700
+Ref:  ACTTTCCGTCTTACGTGATCCTGAATTGGTTGCCATTCCGGTCAAACATTGCCAGTCGGCAGACAATGGTCTGGGAACAGTGGATGGCCAGTTTCGGAGG
+Diff:                                                                                                     
+Cons: ACTTTCCGTCTTACGTGATCCTGAATTGGTTGCCATTCCGGTCAAACATTGCCAGTCGGCAGACAATGGTCTGGGAACAGTGGATGGCCAGTTTCGGAGG
+Read: .............................................................GACAATGGTCTGGGAACAGTGGATGGCCAGTTTCGGAGG
+Read: ACTTTCCGTCTTACGTGATCCTGAATTGGTTGCCATTCCGGTCAAACATT..................................................
+Read:                                                                 AATGGTCTGGGAACAGTGGATGGCCAGTTTCGGAGG
+Read: ACTTT
+Read: ACTTTCCGTCTTACGTG
+Read: ACTTTCCGTCTTACGTGATCCTGAATTGGTTGCCATTCCGGTCAAAC.....................................................
+Read:                                                                               AGTGGATGGCCAGTTTCGGAGG
+Read:
+Read:
+Read:
+Read:
+Read:
+Read:
+Read: ACTTTCCGTCTTACGTGATCCTGAATTGGTTG
+Read:
+Read: ACTTTCCGTCTT
+Read: ACTTTCCGTCTTACGTGATCCTGAATTGGTTGC
+Read: ACTTTCCGTCTTACGTGATCCTGAATTGGTTGCCATTCCGGTC
+Read:
+Read:
+Read:
+Read:
+Read: ACTTTCCGTCTTACGTGATCCTGAATTGGTTGCCATTCCG
+Read: .CTTTCCGTCTTACGTGATCCTGAATTGGTTGCCATTCCGGTCAAACATTG
+Read: .....CCGTCTTACGTGATCCTGAATTGGTTGCCATTCCGGTCAAACATTGCCAG
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 7800
+Ref:  ACAACCAAACAGGCAAAGATTCGCTGCCATTTCTAGCACGTGTATAACGAGATGGATACAGTATCAAGTCGACCGTGTCAATGATTTGTCATGCCGGTTA
+Diff:                                                                                                     
+Cons: ACAACCAAACAGGCAAAGATTCGCTGCCATTTCTAGCACGTGTATAACGAGATGGATACAGTATCAAGTCGACCGTGTCAATGATTTGTCATGCCGGTTA
+Read: ACAACCAAACA
+Read: ..........................................................CAGTATCAAGTCGACCGTGTCAATGATTTGTCATGCCGGTTA
+Read: ACAACCAAACAGGC......................................................................................
+Read:                                      ACGTGTATAACGAGATGGATACAGTATCAAGTCGACCGTGTCAATGATTT.............
+Read:                                          GTATAACGAGATGGATACAGTATCAAGTCGACCGTGTCAATGATTTGTCA.........
+Read: .............................................AACGAGATGGATACAGTATCAAGTCGACCGTGTCAATGATTTGTCATGCC
+Read: ACAACCAAACAGGCAAAGATTCGCTGCC........................................................................
+Read:                                                       GATACAGTATCAAGTCGACCGTGTCAATGATTTGTCATGCCGGTTA
+Read:                                                           CAGTATCAAGTCGACCGTGTCAATGATTTGTCATGCCGGTTA
+Read:                                                           CAGTATCAAGTCGACCGTGTCAATGATTTGTCATGCCGGTTA
+Read:                                                                           GTGTCAATGATTTGTCATGCCGGTTA
+Read:                                                                             GTCAATGATTTGTCATGCCGGTTA
+Read:                                                                                     TTTGTCATGCCGGTTA
+Read:                                                                                      TTGTCATGCCGGTTA
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 7900
+Ref:  TTTATTCTGTGAAAAGACCCTGGTGAACTCTTTCATTTCGAAATGTCTGGTGGCTGCTATTCATTCAGCTGCGCCAGCTTGCCTATCCGAGGTTTATCAT
+Diff:                                                                                                     
+Cons: TTTATTCTGTGAAAAGACCCTGGTGAACTCTTTCATTTCGAAATGTCTGGTGGCTGCTATTCATTCAGCTGCGCCAGCTTGCCTATCCGAGGTTTATCAT
+Read:                                        GAAATGTCTGGTGGCTGCTATTCATTCAGCTGCGCCAGCTTGCCTATCCG...........
+Read: TTTATTCT
+Read: ...........AAAAGACCCTGGTGAACTCTTTCATTTCGAAATGTCTGGTGGCTGCTATT
+Read: ...............................................................................TGCCTATCCGAGGTTTATCAT
+Read: ....................................................................................................
+Read:                                                                TTCAGCTGCGCCAGCTTGCCTATCCGAGGTTTATCAT
+Read: ....................TGGTGAACTCTTTCATTTCGAAATGTCTGGTGGCTGCTATTCATTCAGCT
+Read: TTTA................................................................................................
+Read: TTTATTCT............................................................................................
+Read: TTTATTCT............................................................................................
+Read: TTTATTCTGTGAAAAGACCCTGGT............................................................................
+Read: TTTATTCTGTGAAAAGACCCTGGTGA..........................................................................
+Read: TTTATTCTGTGAAAAGACCCTGGTGAACTCTTTC..................................................................
+Read: TTTATTCTGTGAAAAGACCCTGGTGAACTCTTTCA.................................................................
+Read:                                                                       GCGCCAGCTTGCCTATCCGAGGTTTATCAT
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 8000
+Ref:  CTTTTCTAGTTCGGGGTTGCTTGATGTGCACTTAGTGGGGAAAATGCTCTAAGACTGAGCCATGGTTACCATTAGGCCCCCTAAGACAATCCTCTAGACG
+Diff:                                                                                                     
+Cons: CTTTTCTAGTTCGGGGTTGCTTGATGTGCACTTAGTGGGGAAAATGCTCTAAGACTGAGCCATGGTTACCATTAGGCCCCCTAAGACAATCCTCTAGACG
+Read: ................................................................................................GACG
+Read:         GTTCGGGGTTGCTTGATGTGCACTTAGTGGGGAAAATGCTCTAAGACTGA..........................................
+Read:            CGGGGTTGCTTGATGTGCACTTAGTGGGGAAAATGCTCTAAGACTGAGCC.......................................
+Read: CTTTTCTAGTTCGGGGTTGCTTGATGTGC
+Read: CTTTTCTAGTTCGGGGTTGCTTGATGTGCACTTAGTGGGGAAAATGCTCT
+Read: CTTTTCTAGTTCG.......................................................................................
+Read:                     TTGATGTGCACTTAGTGGGGAAAATGCTCTAAGACTGAGCCATGGTTACC..............................
+Read: ..........TCGGGGTTGCTTGATGTGCACTTAGTGGGGAAAATGCTCTAAGACTGAGC
+Read: ................TTGCTTGATGTGCACTTAGTGGGGAAAATGCTCTAAGACTGAGCCATGGT
+Read: ........GTTCGGGGTTGCTTGATGTGCACTTAGTGGGGAAAATGCTCTAAGACTGA
+Read: ..............GGTTGCTTGATGTGCACTTAGTGGGGAAAATGCTCTAAGACTGAGCCATG
+Read: .........................GTGCACTTAGTGGGGAAAATGCTCTAAGACTGAGCCATGGTTACCATTAG
+Read: ..........................................AATGCTCTAAGACTGAGCCATGGTTACCATTAGGCCCCCTAAGACAATCC
+Read: .............................ACTTAGTGGGGAAAATGCTCTAAGACTGAGCCATGGTTACCATTAGGCCC
+Read: CTTTTCTAGTTCGGGGTTGC................................................................................
+Read:                       GATGTGCACTTAGTGGGGAAAATGCTCTAAGACTGAGCCATGGTTACCAT............................
+Read:                                TTAGTGGGGAAAATGCTCTAAGACTGAGCCATGGTTACCATTAGGCCCCC...................
+Read:                                   GTGGGGAAAATGCTCTAAGACTGAGCCATGGTTACCATTAGGCCCCCTAA................
+Read:                                   GTGGGGAAAATGCTCTAAGACTGAGCCATGGTTACCATTAGGCCCCCTAA................
+Read:                                        GAAAATGCTCTAAGACTGAGCCATGGTTACCATTAGGCCCCCTAAGACAA...........
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 8100
+Ref:  AAGCGATCGAGTATCTTTATAACCAATCAAGTCGCAGCGGTGATCGTGATGGTAAATTTCCGATAACTTAGCTTCCTCTCTCCTGAGATCGTGCTTGTCA
+Diff:                                                                                                     
+Cons: AAGCGATCGAGTATCTTTATAACCAATCAAGTCGCAGCGGTGATCGTGATGGTAAATTTCCGATAACTTAGCTTCCTCTCTCCTGAGATCGTGCTTGTCA
+Read: AAGCGATCGAGTATCTTTATAACCAATCAAGTCGCAGCGGTGATCG
+Read: .............................................................GATAACTTAGCTTCCTCTCTCCTGAGATCGTGCTTGTCA
+Read: .............................................................GATAACTTAGCTTCCTCTCTCCTGAGATCGTGCTTGTCA
+Read:                                                                      AGCTTCCTCTCTCCTGAGATCGTGCTTGTCA
+Read:                                                                            CTCTCTCCTGAGATCGTGCTTGTCA
+Read: ............ATCTTTATAACCAATCAAGTCGCAGCGGTGATCGTGATGGTAAATTTCCG
+Read: .................................................................ACTTAGCTTCCTCTCTCCTGAGATCGTGCTTGTCA
+Read:                                                                                      AGATCGTGCTTGTCA
+Read:                                                                                           GTGCTTGTCA
+Read:                                                                                             GCTTGTCA
+Read:
+Read:
+Read:
+Read:
+Read: ...................TAACCAATCAAGTCGCAGCGGTGATCGTGATGGTAAATTTCCGATAACTT
+Read: ..........................................................................CCTCTCTCCTGAGATCGTGCTTGTCA
+Read: .......................................................................................ATCGTGCTTGTCA
+Read: ............................................................................................GCTTGTCA
+Read: ...............................................................................CTCCTGAGATCGTGCTTGTCA
+Read: ..................................................................................CTGAGATCGTGCTTGTCA
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 8200
+Ref:  GGAACTACCCCCATTCCGTCTCTAAGATAGCTCATAATTTCAAAATAGCTCGCGCTTCTCATCGTGCAGGATTGCATAGGTTGCCGCCCAACTTCGGGTA
+Diff:                                                                                                     
+Cons: GGAACTACCCCCATTCCGTCTCTAAGATAGCTCATAATTTCAAAATAGCTCGCGCTTCTCATCGTGCAGGATTGCATAGGTTGCCGCCCAACTTCGGGTA
+Read:      TACCCCCATTCCGTCTCTAAGATAGCTCATAATTTCAAAATAGCTCGCGC.............................................
+Read: GGAACTACCCC
+Read: GGAACTACCCC
+Read: GGAACTACCCCCATTCCGT.................................................................................
+Read: GGAACTACCCCCATTCCGTCTCTAA...........................................................................
+Read:                CCGTCTCTAAGATAGCTCATAATTTCAAAATAGCTCGCGCTTCTCATCGT...................................
+Read: GGAACTACCCCCATT
+Read: GGAACTACCCCCATTCCGTCTCTAAGATAGCTCAT.................................................................
+Read: GGAACTACCCCCATTCCGTCTCTAAGATAGCTCATAATTT............................................................
+Read: GGAACTACCCCCATTCCGTCTCTAAGATAGCTCATAATTTCA..........................................................
+Read:                    CTCTAAGATAGCTCATAATTTCAAAATAGCTCGCGCTTCTCATCGTGCAG...............................
+Read:                      CTAAGATAGCTCATAATTTCAAAATAGCTCGCGCTTCTCATCGTGCAGGA.............................
+Read:                           ATAGCTCATAATTTCAAAATAGCTCGCGCTTCTCATCGTGCAGGATTGCA........................
+Read:                           ATAGCTCATAATTTCAAAATAGCTCGCGCTTCTCATCGTGCAGGATTGCA........................
+Read:                             AGCTCATAATTTCAAAATAGCTCGCGCTTCTCATCGTGCAGGATTGCATA......................
+Read: GGAACTACCCCCATTCCGTCTCTA
+Read: GGAACTACCCCCATTCCGTCTCTAAGATAGCTCATAA
+Read: GGAACTACCCCCATTCCGTCTCTAAGATAGCTCATAATTTCA
+Read: GGAACTACCCCCATTCCGTCTCTAAGATA
+Read: GGAACTACCCCCATTCCGTCTCTAAGATAGCT
+Read:                                   TAATTTCAAAATAGCTCGCGCTTCTCATCGTGCAGGATTGCATAGGTTGC................
+Read:                                         CAAAATAGCTCGCGCTTCTCATCGTGCAGGATTGCATAGGTTGCCGCCCA..........
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 8300
+Ref:  TTATCTAGTTTGACAACGGTGTTTCCCTACAGGCTAATCGAATTGTAAGAACTAAGTGTCCACAACTCGGATGTGGATGCATGTTGTATATTCCGGCGAA
+Diff:                                                                                                     
+Cons: TTATCTAGTTTGACAACGGTGTTTCCCTACAGGCTAATCGAATTGTAAGAACTAAGTGTCCACAACTCGGATGTGGATGCATGTTGTATATTCCGGCGAA
+Read: ..........................................................TCCACAACTCGGATGTGGATGCATGTTGTATATTCCGGCGAA
+Read:                                                            CCACAACTCGGATGTGGATGCATGTTGTATATTCCGGCGAA
+Read:                                                                   TCGGATGTGGATGCATGTTGTATATTCCGGCGAA
+Read: ..................GTGTTTCCCTACAGGCTAATCGAATTGTAAGAACTAAGTGTCCACAACTC
+Read: ......................TTCCCTACAGGCTAATCGAATTGTAAGAACTAAGTGTCCACAACTCGGAT
+Read: ....................................................TAAGTGTCCACAACTCGGATGTGGATGCATGTTGTATATTCCGGCGAA
+Read:                                                                       ATGTGGATGCATGTTGTATATTCCGGCGAA
+Read: ...........................TACAGGCTAATCGAATTGTAAGAACTAAGTGTCCACAACTCGGATGTGGA
+Read: ....................................ATCGAATTGTAAGAACTAAGTGTCCACAACTCGGATGTGGATGCATGTTG
+Read: .........................................ATTGTAAGAACTAAGTGTCCACAACTCGGATGTGGATGCATGTTGTATAT
+Read: ................................................................ACTCGGATGTGGATGCATGTTGTATATTCCGGCGAA
+Read: .....................................................................GATGTGGATGCATGTTGTATATTCCGGCGAA
+Read: ................................................................ACTCGGATGTGGATGCATGTTGTATATTCCGGCGAA
+Read: ............................................................................ATGCATGTTGTATATTCCGGCGAA
+Read: .............................................................................TGCATGTTGTATATTCCGGCGAA
+Read:                                                                                 ATGTTGTATATTCCGGCGAA
+Read:                                                                                                   AA
+Read:
+Read:
+Read:
+Read: .............................................................................TGCATGTTGTATATTCCGGCGAA
+Read: ..............................................................................GCATGTTGTATATTCCGGCGAA
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 8400
+Ref:  AGAGGACGAAAAATGAAGTTAAATGGCCGTGCACAGAGCTTCTGTTGTCCCTGGTGTGATCAAAAGAGTGGTCGTGTACATAAAAGCTAGACGTCAGTTA
+Diff:                                                                                                     
+Cons: AGAGGACGAAAAATGAAGTTAAATGGCCGTGCACAGAGCTTCTGTTGTCCCTGGTGTGATCAAAAGAGTGGTCGTGTACATAAAAGCTAGACGTCAGTTA
+Read: AGAGGACG
+Read: AGAGGACGA...........................................................................................
+Read: AGAGGACGAAAAATGA....................................................................................
+Read: AGAGGACGAAAAATGAAGTTAAATGGCCGTGCACAGAGCTTCTGTTGTCC..................................................
+Read:
+Read: AG
+Read: AGAGGACGAAAAATGAAGTT................................................................................
+Read:
+Read:
+Read:
+Read: AGAGGACGAAAAAT
+Read: AGAGGACGAAAAATGAAGT
+Read: AGAGGACGAAAAAT
+Read: AGAGGACGAAAAATGAAGTTAAATGG
+Read: AGAGGACGAAAAATGAAGTTAAATGGC
+Read: AGAGGACGAAAAATGAAGTTAAATGGCCGT......................................................................
+Read: AGAGGACGAAAAATGAAGTTAAATGGCCGTGCACAGAGCTTCTGTTGT....................................................
+Read:
+Read:
+Read:
+Read: AGAGGACGAAAAATGAAGTTAAATGGC
+Read: AGAGGACGAAAAATGAAGTTAAATGGCC
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 8500
+Ref:  GCTCCTTCATCAGATCGACTCTAAGCCGAAGGAACTACTTTCACCGCCCTTATTTGACATGCGTGCTACTGTCAATGCCTCAGTAGATTCTGCCGAAGCT
+Diff:                                                                                                     
+Cons: GCTCCTTCATCAGATCGACTCTAAGCCGAAGGAACTACTTTCACCGCCCTTATTTGACATGCGTGCTACTGTCAATGCCTCAGTAGATTCTGCCGAAGCT
+Read:              ATCGACTCTAAGCCGAAGGAACTACTTTCACCGCCCTTATTTGACATGCG.....................................
+Read: ..................CTCTAAGCCGAAGGAACTACTTTCACCGCCCTTATTTGACATGCGTGCTA
+Read: .............ATCGACTCTAAGCCGAAGGAACTACTTTCACCGCCCTTATTTGACATGCG
+Read: ................................................CTTATTTGACATGCGTGCTACTGTCAATGCCTCAGTAGATTCTGCCGAAG
+Read:                 GACTCTAAGCCGAAGGAACTACTTTCACCGCCCTTATTTGACATGCGTGC..................................
+Read:                                        TTCACCGCCCTTATTTGACATGCGTGCTACTGTCAATGCCTCAGTAGATT...........
+Read: .............................AGGAACTACTTTCACCGCCCTTATTTGACATGCGTGCTACTGTCAATGCC
+Read:                                                            TGCGTGCTACTGTCAATGCCTCAGTAGATTCTGCCGAAGCT
+Read:                                                                          AATGCCTCAGTAGATTCTGCCGAAGCT
+Read:                                                                               CTCAGTAGATTCTGCCGAAGCT
+Read:                                                                                             CCGAAGCT
+Read:
+Read:
+Read:
+Read:
+Read: .............................AGGAACTACTTTCACCGCCCTTATTTGACATGCGTGCTACTGTCAATGCC
+Read: ...............................................CCTTATTTGACATGCGTGCTACTGTCAATGCCTCAGTAGATTCTGCCGAA
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 8600
+Ref:  AAACGGACATTTTGTAGGCTTCTAGTGTGTACGGTAAATCTTCCCCACAGTGCTATACATGCCAGAAATCGGCATTAGAGAGTGCTAGGACGGCTAAGTT
+Diff:                                                                                                     
+Cons: AAACGGACATTTTGTAGGCTTCTAGTGTGTACGGTAAATCTTCCCCACAGTGCTATACATGCCAGAAATCGGCATTAGAGAGTGCTAGGACGGCTAAGTT
+Read: .....................................................................CGGCATTAGAGAGTGCTAGGACGGCTAAGTT
+Read:    CGGACATTTTGTAGGCTTCTAGTGTGTACGGTAAATCTTCCCCACAGTGC...............................................
+Read:                AGGCTTCTAGTGTGTACGGTAAATCTTCCCCACAGTGCTATACATGCCAG...................................
+Read:                         GTGTGTACGGTAAATCTTCCCCACAGTGCTATACATGCCAGAAATCGGCA..........................
+Read: ........................................................ACATGCCAGAAATCGGCATTAGAGAGTGCTAGGACGGCTAAGTT
+Read: ...................................................................................GCTAGGACGGCTAAGTT
+Read:                               ACGGTAAATCTTCCCCACAGTGCTATACATGCCAGAAATCGGCATTAGAG....................
+Read: AAACGGACA..........................................................................................T
+Read: AAACGGACATTTTGTAGGCTTCT.............................................................................
+Read: AAACGGACATTTTGTAGGCTTCTAGTGT........................................................................
+Read: AAACGGACATTTTGTAGGCTTCTAGTGTGTACGGTAAATCTT..........................................................
+Read:                                     AATCTTCCCCACAGTGCTATACATGCCAGAAATCGGCATTAGAGAGTGCT..............
+Read:                                          TCCCCACAGTGCTATACATGCCAGAAATCGGCATTAGAGAGTGCTAGGAC.........
+Read:                                                       ATACATGCCAGAAATCGGCATTAGAGAGTGCTAGGACGGCTAAGTT
+Read:                                                        TACATGCCAGAAATCGGCATTAGAGAGTGCTAGGACGGCTAAGTT
+Read:                                                            TGCCAGAAATCGGCATTAGAGAGTGCTAGGACGGCTAAGTT
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 8700
+Ref:  TACATACGGTGCGACACGATTCAGGTAGTTATCGAAGCTGAGGAGTCCCTGTTGGGAAAGTTGTGTTACTTATCTACACCTCGGCATCAGTCGCCGACGG
+Diff:                                                                                                     
+Cons: TACATACGGTGCGACACGATTCAGGTAGTTATCGAAGCTGAGGAGTCCCTGTTGGGAAAGTTGTGTTACTTATCTACACCTCGGCATCAGTCGCCGACGG
+Read: TACATACGGTGCGACACGA
+Read: ..........................................................AGTTGTGTTACTTATCTACACCTCGGCATCAGTCGCCGACGG
+Read: .........................................................................CTACACCTCGGCATCAGTCGCCGACGG
+Read: ...............................................................................CTCGGCATCAGTCGCCGACGG
+Read: TACATA
+Read: TACATACGGTGCGACACGATTCAGGTAGTTATC
+Read: ......................................................................................TCAGTCGCCGACGG
+Read: TACATACGGTGCGACACGATTCAGGTAGTTATCGAAGCTGAGGAGTCCC
+Read: .......................GGTAGTTATCGAAGCTGAGGAGTCCCTGTTGGGAAAGTTGTGTTACTTAT
+Read: ..................................AAGCTGAGGAGTCCCTGTTGGGAAAGTTGTGTTACTTATCTACACCTCGG
+Read: ..............................................CCCTGTTGGGAAAGTTGTGTTACTTATCTACACCTCGGCATCAGTCGCCG
+Read: ..............................................................................................CGACGG
+Read: ................................................................................................ACGG
+Read: TACA................................................................................................
+Read: TACAT...............................................................................................
+Read: TACATACGG...........................................................................................
+Read:              ACACGATTCAGGTAGTTATCGAAGCTGAGGAGTCCCTGTTGGGAAAGTTG.....................................
+Read:                        GGTAGTTATCGAAGCTGAGGAGTCCCTGTTGGGAAAGTTGTGTTACTTAT...........................
+Read:                                  GAAGCTGAGGAGTCCCTGTTGGGAAAGTTGTGTTACTTATCTACACCTCG.................
+Read:                                  GAAGCTGAGGAGTCCCTGTTGGGAAAGTTGTGTTACTTATCTACACCTCG.................
+Read:                                                                     CTTATCTACACCTCGGCATCAGTCGCCGACGG
+Read:                                                                      TTATCTACACCTCGGCATCAGTCGCCGACGG
+Read:                                                                               CCTCGGCATCAGTCGCCGACGG
+Read:                                                                                CTCGGCATCAGTCGCCGACGG
+Read:                                                                                    GCATCAGTCGCCGACGG
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 8800
+Ref:  AACGCCCGAAACTAAAGGCGTAGGTACTGCCACCCAACTATTGAGTAACCAGTGTACGACGCTGAACTACTTGGGACCAAGGCTCAATGCTTGGACTCCC
+Diff:                                                                                                     
+Cons: AACGCCCGAAACTAAAGGCGTAGGTACTGCCACCCAACTATTGAGTAACCAGTGTACGACGCTGAACTACTTGGGACCAAGGCTCAATGCTTGGACTCCC
+Read:                                                                                  GCTCAATGCTTGGACTCCC
+Read: AACGCCCG
+Read: AACGCCCGAAACTAAAGGCGTAG
+Read: AACGCCCGAAACTAAAGGCGTAGGTACTG
+Read:
+Read:
+Read: AACGCCCGAAACTAAAGGCGTAGGTACTGCCACCCA
+Read:
+Read:
+Read:
+Read:
+Read: AACGCCCGAAACTAAAGGCGTAGGTACTGCCACCCAACTATTGA
+Read: AACGCCCGAAACTAAAGGCGTAGGTACTGCCACCCAACTATTGAGT
+Read: ...GCCCGAAACTAAAGGCGTAGGTACTGCCACCCAACTATTGAGTAACCAGT
+Read: .ACGCCCGAAACTAAAGGCGTAGGTACTGCCACCCAACTATTGAGTAACCA
+Read: AACGCCCGAAACTAAAGGCGTAGGTACTGCCACCCAACTATTGAGTAACC
+Read: ......................................................................TTGGGACCAAGGCTCAATGCTTGGACTCCC
+Read: .................................................................................GCTCAATGCTTGGACTCCC
+Read: ........................................................................................GCTTGGACTCCC
+Read: .......................................................................................TGCTTGGACTCCC
+Read: AACGCCCGAAACTAAAGG..................................................................................
+Read: AACGCCCGAAACTAAAGGC.................................................................................
+Read: AACGCCCGAAACTAAAGGCGTAGGTACT........................................................................
+Read: AACGCCCGAAACTAAAGGCGTAGGTACTG.......................................................................
+Read: AACGCCCGAAACTAAAGGCGTAGGTACTGCCAC...................................................................
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 8900
+Ref:  TCACAGCAATGGGTCACTCTGTGAATCTTATCCCTACCGCTGCGGGCCACCAATCCCCTTGGTGGACGTGTCGCGTGCAAACGCGGGTTCCCGGGGGCTT
+Diff:                                                                                                     
+Cons: TCACAGCAATGGGTCACTCTGTGAATCTTATCCCTACCGCTGCGGGCCACCAATCCCCTTGGTGGACGTGTCGCGTGCAAACGCGGGTTCCCGGGGGCTT
+Read: TCACAGCAATGGGTCACTCTGTGAATCTTAT.....................................................................
+Read:              TCACTCTGTGAATCTTATCCCTACCGCTGCGGGCCACCAATCCCCTTGGT.....................................
+Read:                            TTATCCCTACCGCTGCGGGCCACCAATCCCCTTGGTGGACGTGTCGCGTG.......................
+Read:                                  CTACCGCTGCGGGCCACCAATCCCCTTGGTGGACGTGTCGCGTGCAAACG.................
+Read:
+Read:
+Read:
+Read:
+Read:
+Read:
+Read:
+Read:
+Read:
+Read:
+Read:
+Read:
+Read: TCACAGCAATGGGTCACTCT
+Read: TCACAGCAATGGGTCACTCTGTGAATCTTAT
+Read: TCACAGCAATGGGTCACTCTGTGAATCTTATCCCTACC
+Read: TCACAGCAATGGGTCACTCTGTGAATCTTATCCCTAC
+Read: ..............................TCCCTACCGCTGCGGGCCACCAATCCCCTTGGTGGACGTGTCGCGTGCAA
+Read: ....................GTGAATCTTATCCCTACCGCTGCGGGCCACCAATCCCCTTGGTGGACGTG
+Read: .......................................CTGCGGGCCACCAATCCCCTTGGTGGACGTGTCGCGTGCAAACGCGGGTT
+Read: .......................................CTGCGGGCCACCAATCCCCTTGGTGGACGTGTCGCGTGCAAACGCGGGTT
+Read: ..............................................CCACCAATCCCCTTGGTGGACGTGTCGCGTGCAAACGCGGGTTCCCGGGG
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 9000
+Ref:  ACCCGTCGGACGTCCAGGAGGGTTTAGGCCGAGTCATCCCACCTTGCGGTGAACAGTGGAACGCTCGAGCAGCGCGCAAGCAGCACGCTAGATTGATCAG
+Diff:                                                                                                     
+Cons: ACCCGTCGGACGTCCAGGAGGGTTTAGGCCGAGTCATCCCACCTTGCGGTGAACAGTGGAACGCTCGAGCAGCGCGCAAGCAGCACGCTAGATTGATCAG
+Read: ....................................TCCCACCTTGCGGTGAACAGTGGAACGCTCGAGCAGCGCGCAAGCAGCAC
+Read: ........................................................TGGAACGCTCGAGCAGCGCGCAAGCAGCACGCTAGATTGATCAG
+Read: ..................................................................GAGCAGCGCGCAAGCAGCACGCTAGATTGATCAG
+Read: ......................................................................................GCTAGATTGATCAG
+Read:         GACGTCCAGGAGGGTTTAGGCCGAGTCATCCCACCTTGCGGTGAACAGTG..........................................
+Read:                       TTTAGGCCGAGTCATCCCACCTTGCGGTGAACAGTGGAACGCTCGAGCAG............................
+Read:                             CCGAGTCATCCCACCTTGCGGTGAACAGTGGAACGCTCGAGCAGCGCGCA......................
+Read:                                                                           CGCAAGCAGCACGCTAGATTGATCAG
+Read:                                                                             CAAGCAGCACGCTAGATTGATCAG
+Read:                                                                                     ACGCTAGATTGATCAG
+Read:                                                                                                ATCAG
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 9100
+Ref:  TGCGCTGCTCCCAGTGTGGAGATGGCAGGGGAAGCCCAAATCCCGAATCAATTTCGGGAAACAAGTTAGTCGGGAGTCAACAGCGTCTAACTCAACCCTA
+Diff:                                                                                                     
+Cons: TGCGCTGCTCCCAGTGTGGAGATGGCAGGGGAAGCCCAAATCCCGAATCAATTTCGGGAAACAAGTTAGTCGGGAGTCAACAGCGTCTAACTCAACCCTA
+Read:       GCTCCCAGTGTGGAGATGGCAGGGGAAGCCCAAATCCCGAATCAATTTCG............................................
+Read: TGCGCT
+Read: TGCGCTGCTCCCAGTG
+Read: TGCGCTGCTCCCAGTGTGGAGATGGCAGGGGAAGCC
+Read: ..............................................................AAGTTAGTCGGGAGTCAACAGCGTCTAACTCAACCCTA
+Read: .......................................................................GGGAGTCAACAGCGTCTAACTCAACCCTA
+Read: .......................................................................................TAACTCAACCCTA
+Read: TGCGCTGCTCCCAGTGTGGAGATG............................................................................
+Read: TGCGCTGCTCCCAGTGTGGAGATGGC..........................................................................
+Read: TGCGCTGCTCCCAGTGTGGAGATGGCAGGGGAAG..................................................................
+Read: TGCGCTGCTCCCAGTGTGGAGATGGCAGGGGAAGCCCAAATCCCG.......................................................
+Read:        CTCCCAGTGTGGAGATGGCAGGGGAAGCCCAAATCCCGAATCAATTTCGG...........................................
+Read:                     GATGGCAGGGGAAGCCCAAATCCCGAATCAATTTCGGGAAACAAGTTAGT..............................
+Read:                       TGGCAGGGGAAGCCCAAATCCCGAATCAATTTCGGGAAACAAGTTAGTCG............................
+Read:                                     CAAATCCCGAATCAATTTCGGGAAACAAGTTAGTCGGGAGTCAACAGCGT..............
+Read:                                                                                   GCGTCTAACTCAACCCTA
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 9200
+Ref:  AGGTCTCATCTGGAGTGATACCTAAGCACACGGCGTGTTAGATGTGAAAGAGCGATGGCCCTGCCGTGCGGTGGACGCTCGTGCAAATGGGCCATAAGGA
+Diff:                                                                                                     
+Cons: AGGTCTCATCTGGAGTGATACCTAAGCACACGGCGTGTTAGATGTGAAAGAGCGATGGCCCTGCCGTGCGGTGGACGCTCGTGCAAATGGGCCATAAGGA
+Read: ...............................................................CCGTGCGGTGGACGCTCGTGCAAATGGGCCATAAGGA
+Read:            GGAGTGATACCTAAGCACACGGCGTGTTAGATGTGAAAGAGCGATGGCCC.......................................
+Read:                            ACACGGCGTGTTAGATGTGAAAGAGCGATGGCCCTGCCGTGCGGTGGACG.......................
+Read:                                           TGTGAAAGAGCGATGGCCCTGCCGTGCGGTGGACGCTCGTGCAAATGGGC........
+Read: AGGTCTCATCTG
+Read: AGGTCTCATCTGGAGTGATAC
+Read: AGGTCTCATCTGGAGTGATACCTAAGCACACGGCGTG
+Read: .......................AAGCACACGGCGTGTTAGATGTGAAAGAGCGATGGCCCTGCCGTGCGGTG
+Read: ........................AGCACACGGCGTGTTAGATGTGAAAGAGCGATGGCCCTGCCGTGCGGTGG
+Read: ..........................................TGTGAAAGAGCGATGGCCCTGCCGTGCGGTGGACGCTCGTGCAAATGGGC
+Read: .........................................ATGTGAAAGAGCGATGGCCCTGCCGTGCGGTGGACGCTCGTGCAAATGGG
+Read: .............................................................TGCCGTGCGGTGGACGCTCGTGCAAATGGGCCATAAGGA
+Read: ...............................................................................CGTGCAAATGGGCCATAAGGA
+Read: ..................................................................................GCAAATGGGCCATAAGGA
+Read: ...........................................................................................CCATAAGGA
+Read: AGGTCTCATCTGGAGTGATACCTAAGCACACG....................................................................
+Read:                                             TGAAAGAGCGATGGCCCTGCCGTGCGGTGGACGCTCGTGCAAATGGGCCA......
+Read:                                                                           ACGCTCGTGCAAATGGGCCATAAGGA
+Read:                                                                                               TAAGGA
+Read:                                                                                                 AGGA
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 9300
+Ref:  CTGTCCTGCAGCAGGTAGTGGGCGTGATCCGAAATTGAATGCATCTTGCTGCGTTAAGGGCACTGCGTAGTGATCCTCTGAGTCGGCAGCTCAAATAGGA
+Diff:                                                                                                     
+Cons: CTGTCCTGCAGCAGGTAGTGGGCGTGATCCGAAATTGAATGCATCTTGCTGCGTTAAGGGCACTGCGTAGTGATCCTCTGAGTCGGCAGCTCAAATAGGA
+Read: CTGTCCTGCAGCA
+Read: ....................................................GTTAAGGGCACTGCGTAGTGATCCTCTGAGTCGGCAGCTCAAATAGGA
+Read: ............................................................................TCTGAGTCGGCAGCTCAAATAGGA
+Read: ................................................................................................AGGA
+Read:    TCCTGCAGCAGGTAGTGGGCGTGATCCGAAATTGAATGCATCTTGCTGCG...............................................
+Read:          AGCAGGTAGTGGGCGTGATCCGAAATTGAATGCATCTTGCTGCGTTAAGG.........................................
+Read:               GTAGTGGGCGTGATCCGAAATTGAATGCATCTTGCTGCGTTAAGGGCACT....................................
+Read:                                              TTGCTGCGTTAAGGGCACTGCGTAGTGATCCTCTGAGTCGGCAGCTCAAA.....
+Read:                                                     GTTAAGGGCACTGCGTAGTGATCCTCTGAGTCGGCAGCTCAAATAGGA
+Read:                                                          GGGCACTGCGTAGTGATCCTCTGAGTCGGCAGCTCAAATAGGA
+Read:                                                              ACTGCGTAGTGATCCTCTGAGTCGGCAGCTCAAATAGGA
+Read: CTGTCCTGCAG
+Read: CTGTCCTGCAGCAGGTAGTGGGCGTGATC
+Read: CTGTCCTGCAGCAGGTAGTGGGCGTGATCCGA
+Read: CTGTCCTGCAGCAGGTAGTGGGCGTGATCCGAAATTGAATG
+Read: .................................ATTGAATGCATCTTGCTGCGTTAAGGGCACTGCGTAGTGATCCTCTGAGT
+Read: .................................................................................................GGA
+Read: CTGTCCTGCAGCAGGTAGTGGGCG............................................................................
+Read: CTGTCCTGCAGCAGGTAGTGGGCGTGATCCGAAATTGAATGCAT........................................................
+Read: CTGTCCTGCAGCAGGTAGTGGGCGTGATCCGAAATTGAATGCATCT......................................................
+Read:                                                               CTGCGTAGTGATCCTCTGAGTCGGCAGCTCAAATAGGA
+Read:                                                                         ATCCTCTGAGTCGGCAGCTCAAATAGGA
+Read:                                                                          TCCTCTGAGTCGGCAGCTCAAATAGGA
+Read:                                                                               TGAGTCGGCAGCTCAAATAGGA
+Read:                                                                                          CTCAAATAGGA
+Read:                                                                                                 AGGA
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 9400
+Ref:  AGCACAATACACGACAATGGCTTAATAGCTCGCCAGCGGGATAATGGCCGTGCACAGAGCTTCTGTTGTCCCTGGTGTGATCAAAAGAGTGGTCTACAAT
+Diff:                                                                                                     
+Cons: AGCACAATACACGACAATGGCTTAATAGCTCGCCAGCGGGATAATGGCCGTGCACAGAGCTTCTGTTGTCCCTGGTGTGATCAAAAGAGTGGTCTACAAT
+Read:                        AATAGCTCGCCAGCGGGATAATGGCCGTGCACAGAGCTTCTGTTGTCCCT...........................
+Read: AG
+Read: AGCACAATACACGACAATGGCTTAAT
+Read: AGCACAATACACGACAATGGCTTAATAGCTCGCCAGCGGGATAATG
+Read: .......................................................AGAGCTTCTGTTGTCCCTGGTGTGATCAAAAGAGTGGTCTACAAT
+Read: ...................................................GCACAGAGCTTCTGTTGTCCCTGGTGTGATCAAAAGAGTGGTCTACAAT
+Read: ......................................................................CCTGGTGTGATCAAAAGAGTGGTCTACAAT
+Read: ....................................................................................................
+Read: AG..................................................................................................
+Read: AGCACAA.............................................................................................
+Read: AGCACAATACA.........................................................................................
+Read:                         ATAGCTCGCCAGCGGGATAATGGCCGTGCACAGAGCTTCTGTTGTCCCTG..........................
+Read:
+Read:
+Read:
+Read:
+Read: AGCACAATACACGACAATGGCTTAATAGCTCGCCAGCGGGATAATGG
+Read: ..............................CGCCAGCGGGATAATGGCCGTGCACAGAGCTTCTGTTGTCCCTGGTGTGA
+Read: ...................................GCGGGATAATGGCCGTGCACAGAGCTTCTGTTGTCCCTGGTGTGATCAAA
+Read: ...........................................ATGGCCGTGCACAGAGCTTCTGTTGTCCCTGGTGTGATCAAAAGAGTGGT
+Read: AGCACAATACAC........................................................................................
+Read: AGCACAATACACGACAATGGCT..............................................................................
+Read: AGCACAATACACGACAATGGCTT.............................................................................
+Read: AGCACAATACACGACAATGGCTTAATAG........................................................................
+Read: AGCACAATACACGACAATGGCTTAATAGCTCGCCAGCGG.............................................................
+Read: AGCACAATACACGACAATGGCTTAATAGCTCGCCAGCGGGATAATG......................................................
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 9500
+Ref:  TCGAAGGCCATCTAAGAGGTCAGCCCCAACACAATTCGCATAACGGTGATCCATCCTGGTAGACTGCCACCGGCTGTATAGGTACCCGGAGACAGACATT
+Diff:                                                                                                     
+Cons: TCGAAGGCCATCTAAGAGGTCAGCCCCAACACAATTCGCATAACGGTGATCCATCCTGGTAGACTGCCACCGGCTGTATAGGTACCCGGAGACAGACATT
+Read: ...............................................................CTGCCACCGGCTGTATAGGTACCCGGAGACAGACATT
+Read:                                          AACGGTGATCCATCCTGGTAGACTGCCACCGGCTGTATAGGTACCCGGAG.........
+Read:                                              GTGATCCATCCTGGTAGACTGCCACCGGCTGTATAGGTACCCGGAGACAG.....
+Read:                                                        CTGGTAGACTGCCACCGGCTGTATAGGTACCCGGAGACAGACATT
+Read: TCGAA
+Read: T
+Read: TCGAAGGCCATCTAAGAGGT
+Read: .....GGCCATCTAAGAGGTCAGCCCCAACACAATTCGCATAACGGTGATCCATC
+Read: ......GCCATCTAAGAGGTCAGCCCCAACACAATTCGCATAACGGTGATCCATCC
+Read: .....GGCCATCTAAGAGGTCAGCCCCAACACAATTCGCATAACGGTGATCCATC
+Read: ...............GAGGTCAGCCCCAACACAATTCGCATAACGGTGATCCATCCTGGTAGACT
+Read: .........................................................................CTGTATAGGTACCCGGAGACAGACATT
+Read:                                                                       CGGCTGTATAGGTACCCGGAGACAGACATT
+Read:                                                                        GGCTGTATAGGTACCCGGAGACAGACATT
+Read:                                                                             TATAGGTACCCGGAGACAGACATT
+Read:
+Read:
+Read:
+Read:
+Read:
+Read: .................GGTCAGCCCCAACACAATTCGCATAACGGTGATCCATCCTGGTAGACTGC
+Read: ................AGGTCAGCCCCAACACAATTCGCATAACGGTGATCCATCCTGGTAGACTG
+Read: ....................CAGCCCCAACACAATTCGCATAACGGTGATCCATCCTGGTAGACTGCCAC
+Read: .............................CACAATTCGCATAACGGTGATCCATCCTGGTAGACTGCCACCGGCTGTAT
+Read: .................................ATTCGCATAACGGTGATCCATCCTGGTAGACTGCCACCGGCTGTATAGGT
+Read: .................................................TCCATCCTGGTAGACTGCCACCGGCTGTATAGGTACCCGGAGACAGACAT
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 9600
+Ref:  AACGTACTTAAGAATATTGCGTACATATTAGAAGAAAATTTCCTTTAACAGCAAGCGGGTAATGTCTTAGAGAGCCGAATCCGTTGGTCGCTGTGCTCAA
+Diff:                                                                                                     
+Cons: AACGTACTTAAGAATATTGCGTACATATTAGAAGAAAATTTCCTTTAACAGCAAGCGGGTAATGTCTTAGAGAGCCGAATCCGTTGGTCGCTGTGCTCAA
+Read: AACGTACTTAAGA
+Read: ..................................................................................GTTGGTCGCTGTGCTCAA
+Read: ..........................................................................................CTGTGCTCAA
+Read: AACGT...............................................................................................
+Read:                                                                            CGAATCCGTTGGTCGCTGTGCTCAA
+Read:
+Read:
+Read:
+Read:
+Read:
+Read:
+Read: AACGTACTTAAGAATATTGCGTA
+Read: AACGTACTTAAGAATATTGC................................................................................
+Read: AACGTACTTAAGAATATTGCG...............................................................................
+Read: AACGTACTTAAGAATATTGCGTACAT..........................................................................
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 9700
+Ref:  TCGACCCCTTGGAAACCCCCGCAACTCGTGATGTGCAAAAAGCGCAGCATGCCGGTGTTGTCACTTAGCAGCAGGAGAGCCTGGTCCGCATGGACGATAG
+Diff:                                                                                                     
+Cons: TCGACCCCTTGGAAACCCCCGCAACTCGTGATGTGCAAAAAGCGCAGCATGCCGGTGTTGTCACTTAGCAGCAGGAGAGCCTGGTCCGCATGGACGATAG
+Read:
+Read: TCGACCCCTTGGAAACCCCCGCAACTCGTGAT
+Read: TCGACCCCTTGGAAACCCCCGCAACTCGTGATGTGCAAAA
+Read: ...ACCCCTTGGAAACCCCCGCAACTCGTGATGTGCAAAAAGCGCAGCATGCC
+Read: TCGACCCCTTGGAAACCCCCGCAAC...........................................................................
+Read:
+Read:
+Read:
+Read:
+Read:
+Read:
+Read:
+Read: .......................ACTCGTGATGTGCAAAAAGCGCAGCATGCCGGTGTTGTCACTTAGCAGCA
+Read: ............AAACCCCCGCAACTCGTGATGTGCAAAAAGCGCAGCATGCCGGTGTTGTC
+Read: .....................CAACTCGTGATGTGCAAAAAGCGCAGCATGCCGGTGTTGTCACTTAGCAG
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 9800
+Ref:  TATCCTTGTTGCTCAAAATTTTTCTACAATAGCGAACCTACATGCTCCACTGCAAGCAGGACTGCTCTCAAGGTCACTGCACGCTTAGATCATCTAGTTC
+Diff:                                                                                                     
+Cons: TATCCTTGTTGCTCAAAATTTTTCTACAATAGCGAACCTACATGCTCCACTGCAAGCAGGACTGCTCTCAAGGTCACTGCACGCTTAGATCATCTAGTTC
+Read:
+Read:
+Read:
+Read:
+Read: .................ATTTTTCTACAATAGCGAACCTACATGCTCCACTGCAAGCAGGACTGCTC
+----------------------------------------------------------------------------------------------------------
+
+
+Reference index: 9900
+Ref:  CAGCCGCTGGAACGGTTAGCCCTCGTGTATATTCAATCACCTTACATAAGTCGAAGTTACGTACCAGATGGACACGTAACAGGGATTACACGTCGGGGCG
+Diff:                                                                                                     
+Cons: CAGCCGCTGGAACGGTTAGCCCTCGTGTATATTCAATCACCTTACATAAGTCGAAGTTACGTACCAGATGGACACGTAACAGGGATTACACGTCGGGGCG
+----------------------------------------------------------------------------------------------------------

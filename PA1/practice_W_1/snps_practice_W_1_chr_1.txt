@@ -1,0 +1,8 @@
+>practice_W_1_chr_1
+>SNP
+>STR
+>CNV
+>ALU
+>INV
+>INS
+>DEL
